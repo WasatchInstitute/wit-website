@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<!-- Excuse my messy code, it's one ugly creation. Feel free to make it beautiful. !-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+	
+	<title>WIT | What is a sprint?</title>
+	
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+	<script>
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 1000);
+	        return false;
+	      }
+	    }
+	  });
+	});
+	</script>
+        <link href="assets/css/cosmo.bootstrap.css" rel="stylesheet">
+        <link href="assets/plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+        <link href="assets/plugins/hover.css" rel="stylesheet">
+        <link href="assets/css/wit_main.css" rel="stylesheet">
+        <meta charset="utf-8">
+        <meta lang="en">
+    </head>
+ 
+    <body>
+
+        <!-- NAVBAR !--> 
+         <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brandimage"> <img src="http://www.wasatchinstitute.net/wp-content/themes/wit/img/main_logo.png" width=166px height=50px alt="WIT"/></a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="index.html"> Home<span class="sr-only">(current)</span></a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About WIT<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="OurMission.html">Our Mission</a></li>
+            <li><a href="HowWeLearn.html">How do we learn?</a></li>
+             <li class="dropdown-submenu"><a tabindex="1" href="#">Agile Method</a>
+                <ul class="dropdown-menu">
+                    <a href="Sprint.html">What is a sprint?</a>
+                    <br>
+                    <a href="SCOPS.html">SCOPs</a>
+                    <br>
+                    <a href="GradingWIT.html">Grading at WIT</a>
+                    <br>
+                    <a href="Internships.html">Internships</a>
+                </ul>
+                </li>
+            <li><a href="PoliciesProcedures.html">Policies and Procedures</a></li>
+            <li><a href="OurStaff.html">Our Staff</a></li>
+            <li><a href="OurLocation.html">Our Location</a></li>
+            <li><a href="transportation.html">Transportation</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Potential Students<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="LoveWIT.html">Things to love about WIT</a></li>
+            <li><a href="WITForMe.html">Is WIT for me?</a></li>
+            <li><a href="EnrollmentProcess.html">Enrollment process and fees</a></li>
+            <li><a href="EnrollNow.html">Enroll now</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Current Students<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="Calendar.html">Calendar and events</a></li>
+            <li><a href="CurrentSprint.html">Current sprint</a></li>
+            <li><a href="CurrentSCOPs.html">Current SCOPs</a></li>
+            <li><a href="StudentPortal.html">Student portal</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Partner With WIT<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="CurrentPartners.html">Our current partners</a></li>
+            <li><a href="PartneringWIT.html">Is partnering for me?</a></li>
+            <li><a href="ContactPartners.html">Contact us</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="ContactInformation.html">Contact Information</a></li>
+            <li><a href="MakeDonation.html">Make a donation</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav> <!-- NAVBAR ENDS HERE !-->
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Simple Sidebar - Start Bootstrap Template</title>
+        <!-- Bootstrap Core CSS -->
+        <link href="assets/css/cosmo.bootstrap.min.css" rel="stylesheet">
+        <!-- Custom CSS -->
+        <link href="assets/css/simple-sidebar.css" rel="stylesheet">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <body>
+        <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                    </li>
+                    <li>
+                        <a href="#SprintPlanning">Sprint planning</a>
+                    </li>
+                    <li>
+                        <a href="#SprintDocument">Sprint document</a>
+                    </li>
+                    <li>
+                        <a href="#LearningSessions">Learning sessions</a>
+                    </li>
+                    <li>
+                        <a href="#DailyStandups">Daily standups</a>
+                    </li>
+                    <li>
+                        <a href="#SprintDeliverables">Sprint deliverables</a>
+                    </li>
+                    <li>
+                        <a href="#WorkSessions">Work sessions</a>
+                    </li>
+                    <li>
+                        <a href="#LunchStudyHall">Lunch study hall</a>
+                    </li>
+                      <li>
+                        <a href="#LunchAtWIT">Lunch at WIT</a>
+                    </li>
+                      <li>
+                        <a href="#DailyCleaning">Daily cleaning</a>
+                    </li>
+                      <li>
+                        <a href="#GuestSpeakers">Guest speakers</a>
+                    </li>
+                      <li>
+                        <a href="#FieldTrips">Field trips</a>
+                    </li>
+                      <li>
+                        <a href="#ExtraActivities">Extra activities</a>
+                    </li>
+                      <li>
+                        <a href="#RealWork">Real work</a>
+                    </li>
+                      <li>
+                        <a href="#SprintPresentations">Sprint presentations</a>
+                    </li>
+                      <li>
+                        <a href="#SprintRetrospective">Sprint retrospective</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /#sidebar-wrapper -->
+            <!-- Page Content -->
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                    </div>
+                </div>
+            </div>
+            <!-- /#page-content-wrapper -->
+        </div>
+        <!-- /#wrapper -->
+        <!-- jQuery -->
+        <script src="assets/js/jquery.min.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="assets/js/bootstrap.min.js"></script>
+        <!-- Menu Toggle Script -->
+        <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+<h3 class="h3-sprintheading">WHAT IS A SPRINT?</h3>
+        
+            <h3 id="SprintPlanning" class="h3-subtitle">
+                <br>
+                SPRINT PLANNING</h3>
+    <h3 class="h3-bodytext">Before each sprint, the teaching team compiles information gathered from the last sprint’s retrospective (covered in depth below). They use this information to create the next sprint and sprint document (covered in depth below). The teaching team lays out the next sprint’s theme, classes, objectives, deliverables, field trips, guest speakers, and extra activities, usually the weekend before the sprint starts. This allows them to draw information from last sprint to implement in the next sprint.
+   <hr class="hr-line">
+        </h3>
+            <h3 id="SprintDocument" class="h3-subtitle">
+            <br>
+            SPRINT DOCUMENT</h3>
+    <h3 class="h3-bodytext">At the beginning of every sprint, a sprint document is created and posted where all students, teachers, and parents have access to it. This sprint document outlines the entire sprint; by breaking down each deliverable that is expected to be completed into the individual objectives associated with it. Students can then pinpoint specific objectives that they need to focus on and get extra help with, as well as what things they will be getting credit for by completing the objective.
+    <hr class="hr-line">
+    </h3>
+            <h3 id="LearningSessions" class="h3-subtitle">
+            <br>    
+            LEARNING SESSIONS</h3>
+     <h3 class="h3-bodytext">Each day, students attend learning sessions, where the bulk of the information students receive is delivered. Usually, students attend 4 learning sessions a day that focus on the respected disciplines, Math, Science, English, and History. Computer Science occurs throughout the week, usually taking place of Science or History. These learning sessions allow the teachers to let the students know what deliverables they will be completing, as well as covering important information needed to complete the deliverables. Also during learning sessions, labs can be conducted; topics can be researched in the computer labs, etc. 
+    <hr class="hr-line">    
+    </h3>
+            <h3 id="DailyStandups" class="h3-subtitle">
+            <br>
+            DAILY STANDUPS</h3>
+    <h3 class="h3-bodytext">In morning advisory, the advisor talks with each student about their progress on each deliverable they have been assigned. Students then update their row on the deliverable progress board, by moving each individual deliverable from one section to the next. This gives a visual of where each deliverable is—0%, 25%, 50%, 100%, waiting for feedback, revision, and completed. Along with seeing their own progress, students can see approximately where their peers are in the process, and if they are on track to finish by the end of the sprint.
+    <hr class="hr-line">
+    </h3>
+            <h3 id="SprintDeliverables" class="h3-subtitle">
+            <br>
+            SPRINT DELIVERABLES</h3>
+    <h3 class="h3-bodytext">Sprint deliverables are projects that allow students to show mastery of the learning objectives they have been tasked with learning. Usually, sprint deliverables are projects that are designated by the teacher, but are intended for students to build upon to achieve a higher score. Occasionally, students will be asked to create a deliverable that shows their mastery of the objectives. This main deliverable usually receives support from a series of smaller deliverables that have been designated by the teacher, to help students understand what they are supposed to be showing.
+    <hr class="hr-line">
+    </h3>
+            <h3 id="WorkSessions" class="h3-subtitle">
+            <br>
+            WORK SESSIONS</h3>
+      <h3 class="h3-bodytext">Work sessions are longer periods during the day that are set aside solely for the purpose of allowing students time to get their deliverables done, and to get help from teachers if they don’t understand certain concepts. Work sessions are usually reserved for the last week of the sprint, once learning new concepts has slowed down, and deliverables are nearing their due date. Work sessions have proved to be exceptionally successful among the current student body, as well as they allow for students to revise their work and make it better. 
+    </h3>
+    <br>        
+    <h3 class="h3-bodytext">Students who do not have work to work on during the work sessions, or who have completed all of their deliverables early, have opportunities to go on extra field trips, or engage in SCOP’s or extra activities. This gives other students motivation to complete their deliverables so that they can join their peers in more enjoyable activities.
+    <hr class="hr-line">
+    </h3>
+            <h3 id="LunchStudyHall" class="h3-subtitle">
+            <br>    
+            LUNCH STUDY HALL</h3>
+      <h3 class="h3-bodytext">Lunch study hall is a 30-minute period that occurs during the second half of lunch. Students may find themselves in lunch study hall if they continually have behavioral problems, or need extra help with their schoolwork. During this time, the attending teacher covers ways to help the present students with the problems they face, as well as creating solutions to avoid future problems. If needed, students can also receive help with current schoolwork that they may be falling behind in. They are given the one on one opportunity to help them catch up and continue completing their schoolwork on time. 
+    </h3>
+    <br>        
+    <h3 class="h3-bodytext">Students are allowed to eat their lunch during lunch study hall, so long as they are not working with the school computers, distracting others around them, or distracting themselves from the help at hand. Students attending lunch study hall usually have negative points on ClassCharts, which is covered under WIT Software below. By attending Lunch Study Hall, students can remove these negative points from their overall score, and when they have a positive or neutral overall score they are no longer required to attend. Under certain circumstances, select students may be required to attend lunch study hall, even if their overall score remains positive. 
+    <hr class="hr-line">
+    </h3>
+            <h3 id="LunchAtWIT" class="h3-subtitle">
+            <br>
+            LUNCH AT WIT</h3>
+      <h3 class="h3-bodytext">Lunch starts at 11:30 each day and is 1 hour long. During this time, students are allowed to leave the campus and go to surrounding venues to eat lunch. On campus appliances are available to the students and they include 2 microwaves, 2 refrigerators and a sink. Students are allowed to use these during the day, but students are prohibited from eating in between classes. During the lunch hour, students that are not in lunch study hall are encouraged to read, exercise, or work on current schoolwork. Nearby locations available to students for lunch include The Intermountain Murray Hospital Cafeteria, several restaurants on State Street, and many more places accessible by TRAX and bus. Students are only limited to where they can go during lunch by the time constraints of the lunch period.
+    <hr class="hr-line">
+    </h3>
+            <h3 id="DailyCleaning" class="h3-subtitle">
+            <br>
+            DAILY CLEANING</h3>
+    <h3 class="h3-bodytext">Every day, students from a specific advisory group are assigned to certain cleaning tasks around the school. They range from cleaning the microwaves, to vacuuming the common areas. Students who are assigned to these cleaning jobs are expected to complete their task during afternoon advisory, before they leave for the day. Each week, a new advisory group is assigned to clean the building, and all the other advisory groups are assigned to clean their specific rooms. 
+    <hr class="hr-line">
+    </h3>
+            <h3 id="GuestSpeakers" class="h3-subtitle">
+            <br>
+            GUEST SPEAKERS</h3>
+    <h3 class="h3-bodytext">Occasionally, speakers from companies, organizations, or communities relevant to the sprint theme will be invited to speak to the student body. This gives the students another source of information on the current topic they are learning about, and it gives them an idea of how what they are learning can be applied to the real world. On certain occasions, the student body will travel to where the speaker is presenting, if it is not a WIT exclusive presentation. 
+    <hr class="hr-line">
+    </h3>
+            <h3 id="FieldTrips" class="h3-subtitle">
+            <br>    
+            FIELD TRIPS</h3>
+    <h3 class="h3-bodytext">During the sprint, the school takes several field trips to relevant locations or events. The most common form of transportation on these field trips is TRAX, Frontrunner, and bus, but other ways of getting there can be used, depending on the situation. Several of the field trips we have been on include the Utah Water Symposium, the Hale Center Theatre, and the Jordan Valley water treatment plant.
+    <hr class="hr-line">
+    </h3>
+            <h3 id="ExtraActivities" class="h3-subtitle">
+            <br>    
+            EXTRA ACTIVITIES</h3>
+    <h3 class="h3-bodytext">The activities we do aren’t always sprint related. When it started snowing, the school went sledding at Murray Park for the first half of the day. Near Christmas time, the school went to a local Ice Skating Rink, and went Ice Skating for the last several periods of the day. These extra activities help give the students, as well as the teachers, a break from the rigorous sprint curriculum. 
+    <hr class="hr-line">
+    </h3>
+            <h3 id="RealWork" class="h3-subtitle">
+            <br>    
+            REAL WORK</h3>
+    <h3 class="h3-bodytext">Students get real work experience from activities we do to better the school as well. For example, students have gotten experience in building computers when groups assembled the Linux machines that are used in our computer labs. Students have also received experience in wiring networks when groups wired the school’s Ethernet and Wi-Fi networks. Students also developed the school’s current website, by breaking into coding, writing, video, and photo groups. They learned what it was like to actually develop software and how teamwork is an important part in making sure the process is smooth and quick.
+    <hr class="hr-line">
+    </h3>
+         <h3 id="SprintPresentations" class="h3-subtitle">
+         <br>    
+         SPRINT PRESENTATIONS</h3>
+    <h3 class="h3-bodytext">At the end of the sprint, each student is expected to deliver a presentation to the rest of the school, showing what they learned based off of the objectives they have mastered. This allows the teachers to see what the students have learned, as well allowing the students to see how their peers learned the objectives differently. Students are not told how to present what they learned to the rest of the school, because everyone learns differently. Instead, the presentation they develop is unique, just like their learning style, and they are expected to show that to the rest of the school.
+    <hr class="hr-line">
+    </h3>
+        <h3 id="SprintRetrospective" class="h3-subtitle">
+        <br>    
+        SPRINT RETROSPECTIVE</h3>
+    <h3 class="h3-bodytext">The sprint retrospective occurs on the last day of the sprint, in each of the advisory groups. The advisor leads the discussion, and students provide back input on what went well during the sprint, what didn’t go well during the sprint, what to continue doing next sprint, what to stop doing next sprint, and what to start doing next sprint. This information allows the teaching team to better develop the next sprint so that each student can reach their full potential and provide quality work. Every student has equal opportunity to provide their opinion on how they feel everything is progressing, and every student’s opinion is weighted equal. The teaching team takes all of the advisories retrospectives into account when they have their end of sprint retrospective as well as when they start the sprint planning for the next sprint.
+    </h3>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+        <footer class="footer-style"><span>Home | About WIT | Potential Students | Current Students | Partner with WIT | Contact Us</span></footer>
+        </body>
+      </html>
+
+<!-- Logan Hamilton !-->
+

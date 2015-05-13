@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<!-- Excuse my messy code, it's one ugly creation. Feel free to make it beautiful. !-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+	
+	<title>WIT | SCOPS</title>
+	
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+	<script>
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 1000);
+	        return false;
+	      }
+	    }
+	  });
+	});
+	</script>
+
+        <link href="assets/css/cosmo.bootstrap.css" rel="stylesheet">
+        <link href="assets/plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+        <link href="assets/plugins/hover.css" rel="stylesheet">
+        <link href="assets/css/wit_main.css" rel="stylesheet">
+        <meta charset="utf-8">
+        <meta lang="en">
+    </head>
+ 
+    <body>
+
+        <!-- NAVBAR !--> 
+         <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brandimage"> <img src="http://www.wasatchinstitute.net/wp-content/themes/wit/img/main_logo.png" width=166px height=50px alt="WIT"/></a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="index.html"> Home<span class="sr-only">(current)</span></a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About WIT<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="OurMission.html">Our Mission</a></li>
+            <li><a href="HowWeLearn.html">How do we learn?</a></li>
+             <li class="dropdown-submenu"><a tabindex="1" href="#">Agile Method</a>
+                <ul class="dropdown-menu">
+                    <a href="Sprint.html">What is a sprint?</a>
+                    <br>
+                    <a href="SCOPS.html">SCOPs</a>
+                    <br>
+                    <a href="GradingWIT.html">Grading at WIT</a>
+                    <br>
+                    <a href="Internships.html">Internships</a>
+                </ul>
+                </li>
+            <li><a href="PoliciesProcedures.html">Policies and Procedures</a></li>
+            <li><a href="OurStaff.html">Our Staff</a></li>
+            <li><a href="OurLocation.html">Our Location</a></li>
+            <li><a href="transportation.html">Transportation</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Potential Students<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="LoveWIT.html">Things to love about WIT</a></li>
+            <li><a href="WITForMe.html">Is WIT for me?</a></li>
+            <li><a href="EnrollmentProcess.html">Enrollment process and fees</a></li>
+            <li><a href="EnrollNow.html">Enroll now</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Current Students<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="Calendar.html">Calendar and events</a></li>
+            <li><a href="CurrentSprint.html">Current sprint</a></li>
+            <li><a href="CurrentSCOPs.html">Current SCOPs</a></li>
+            <li><a href="StudentPortal.html">Student portal</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Partner With WIT<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="CurrentPartners.html">Our current partners</a></li>
+            <li><a href="PartneringWIT.html">Is partnering for me?</a></li>
+            <li><a href="ContactPartners.html">Contact us</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="ContactInformation.html">Contact Information</a></li>
+            <li><a href="MakeDonation.html">Make a donation</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav> <!-- NAVBAR ENDS HERE !-->
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Simple Sidebar - Start Bootstrap Template</title>
+        <!-- Bootstrap Core CSS -->
+        <link href="assets/css/cosmo.bootstrap.min.css" rel="stylesheet">
+        <!-- Custom CSS -->
+        <link href="assets/css/simple-sidebar.css" rel="stylesheet">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <body>
+        <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                    </li>
+                    <li>
+                        <a href="#Scops">What are SCOPS</a>
+                    </li>
+                    <li>
+                        <a href="#TheScopProposal">The SCOP proposal</a>
+                    </li>
+                    <li>
+                        <a href="#CurrentScops">Current SCOP</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /#sidebar-wrapper -->
+            <!-- Page Content -->
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                    </div>
+                </div>
+            </div>
+            <!-- /#page-content-wrapper -->
+        </div>
+        <!-- /#wrapper -->
+        <!-- jQuery -->
+        <script src="assets/js/jquery.min.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="assets/js/bootstrap.min.js"></script>
+        <!-- Menu Toggle Script -->
+        <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+<h3 class="h3-sprintheading">SCOPS</h3>
+        
+            <h3 id="Scops" class="h3-subtitle">
+                <br>
+                WHAT ARE SCOPS?</h3>
+    <h3 class="h3-bodytext">A Student Community of Practice (SCOP) is a group that comes together because of their passion or interest around a particular topic, technology, idea, approach, or vision. These SCOPs allow individuals a chance to explore areas of interest in an open, participatory, and curricularly safe way.  To foster creativity and freedom to try new things, students are generally not graded in their SCOPs; however, attendance is taken. The ideas for a SCOP may come from a student, as long as a proposal detailing which common core standards are met. As part of our regular program of instruction, all students, staff, and many volunteers participate in SCOPs throughout the school year daily during the first and last period of the day on Tuesdays, Thursdays, and Fridays, and during the first two periods of the day on Mondays and Wednesdays.
+</h3>
+        <br>
+        <h3 class="h3-bodytext">The genius of the SCOPs is the flexibility and freedom they afford students, their small size, and how they will solidify the school community. Freed from normal curricular constraints, SCOPs are an outlet for students to determine what and how they explore new things. The large number and diversity of these SCOPs should provide ample opportunities for the mind, the body, and the spirit. Some sample SCOPs could be:
+<br>
+<br>
+            <br>
+•	Students interested in archaeology host a guest speaker from the Utah Museum of Natural History, then take a day trip to Nine Mile Canyon
+<br>
+<br>
+•	Students interested in solar energy build solar powered toy cars
+<br>
+<br>
+•	Students interested in gardening compare the success of planting in earth boxes, square foot gardens, and traditional row-crop planting
+<br>
+<br>
+•	Students interested in drama practice and present a play
+<br>
+<br>
+•	Students interested in cooking host guest chefs to teach them to prepare native dishes from throughout the world
+<br>
+<br>
+•	Students interested in science give a science presentation to an elementary school class
+<br>
+<br>
+•	Students interested in skiing participate in a learn to ski program
+<br>
+<br>
+•	Students interested in singing form a mixed chorus
+<br>
+<br>
+•	Students interested in photography visit carious photogenic sites as they learn about different types of photography, such as black and whit, portrait, landscape architectural, etc.
+<br>
+<br>
+•	Students interested in Shakespeare read and analyze one of the plays, then go see a Shakespearean play 
+<br>
+<br>
+•	Students interested in the stock marked learn about commodities trading, mutual funds, and traditional stocks; each student invests a small amount as they all track its performance
+<br>
+<br>
+•	Students interested in a foreign language learn about the culture and vocabulary, and converse with a fluent speaker of the language
+<br>
+<br>
+•	Students interested in history make a video documentary on a particular event or time period
+<br>
+<br>
+•	Students interested in dance learn ballroom dancing techniques, which are showcased at a school-wide dance
+<br>
+<br>
+•	Students interested in meditation learn and practice yoga
+<br>
+<br>
+•	Students interested in buying a car host a guest speaker mechanic that points out things to look for when purchasing a car; students then research safety ratings, depreciation, and typical costs for select models; students then visit a few car dealerships to see the actual car
+<br>
+<br>
+•	Students interested in creating video games learn about the computer game industry; guest speakers come in to talk about their roles in a gaming company; students visit a local computer game maker; students then work together to write their own computer game
+<br>
+        <br>
+            <br>
+            </h3>
+        <h3 class="h3-bodytext">Unfortunately, not all SCOP ideas will become an actual SCOP, as there are a limited number of classrooms available for use by a SCOP. The SCOP may also be rejected if there are not enough students who show interest in the SCOP who would be willing to participate.
+    </h3>
+        <br>
+     <h3 class="h3-bodytext">SCOPs will increase school unity, as they pull together students across Teaching Teams with school staff. The SCOPs also afford parents, grandparents, and guardians an excellent opportunity to meaningfully share their talents and interests, either as an advisor or as a guest speaker during an SCOP. The number of adults participating can reduce the student size of the SCOP, which in turn can increase the number and diversity of available SCOPs. The smaller SCOPs might also encourage people who would not ordinarily participate to join with us: consider an immigrant mother. Although she doesn’t speak English, with her son serving as translator and only four others in the cooking SCOP, she might be willing to demonstrate preparation of some ethnic dishes. For special events, students could invite other students to attend the SCOP.
+</h3>   
+        <br>
+        <h3 class="h3-bodytext">Depending on the size of the SCOP, one or more adult advisors will be present. These advisors can be anyone with a direct tie to the school: a teacher, a school employee, a parent or grandparent of a student, etc. Although the advisor may not be an expert, they should at least have a personal interest in the SCOP’s focus area and must be willing to support and attend the SCOP. The advisor’s responsibilities are to track student attendance and advise the SCOP in the planning and execution of their activities. The small size of an SCOP will allow the group to be more active and mobile: it is a lot easier to conduct a field trip with 6 participants than with 200.
+</h3>
+     <br>
+     <h3 class="h3-bodytext">Students need to schedule SCOP classes when they are available, and cannot choose not to be in a class when SCOP classes are in session. We firmly believe that Student Communities of Practice will provide an extraordinary learning experience not only for the students, but the advisors and outside participants as well.
+</h3>       
+   <hr class="hr-line">
+        </h3>
+            <h3 id="TheScopProposal" class="h3-subtitle">
+            <br>
+            THE SCOP PROPOSAL</h3>
+    <h3 class="h3-bodytext">SCOPs are ideally student driven. Students create a SCOP proposal that outlines the purpose of the SCOP, the interest in the SCOP, the material covered in the SCOP, and the objectives fulfilled by the SCOP. That is then delivered to the student’s advisor, who follows through with getting Administrative approval, as well as insurance approval. If the SCOP proposal is not quite the quality needed to get approval, the advisor will inform the student that revision is needed and can provide support to insure that the SCOP gets approved. Once the SCOP proposal has received administrative and insurance approval, the student will be informed, and the class can begin. Students should be fully prepared to start the SCOP even before it has been approved, so that the SCOP can start immediately. The teaching team can then help make sure the SCOP appears on the schedule, and that other students can sign up for the class. 
+    <hr class="hr-line">
+    </h3>
+            <h3 id="CurrentScops" class="h3-subtitle">
+            <br>    
+            CURRENT SCOPS</h3>
+     <h3 class="h3-bodytext">Currently, there are several SCOPs that are in effect. There are three language SCOPs that are offered: Spanish, German, and French. Other SCOPs include yearbook, literary magazine, choir, instrumental group, seaperch, mystery city, inventor SCOP, Chess, gym, and drama. Other SCOPs are implemented during the sprint that may relate to the topic currently being studied as well.
+    </h3>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+        <footer class="footer-style"><span>Home | About WIT | Potential Students | Current Students | Partner with WIT | Contact Us</span></footer>
+        </body>
+      </html>
+
+<!-- Logan Hamilton !-->
+

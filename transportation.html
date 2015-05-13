@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<!-- Excuse my messy code, it's one ugly creation. Feel free to make it beautiful. !-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+	
+	<title>Transportation</title>
+	
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+	<script>
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 1000);
+	        return false;
+	      }
+	    }
+	  });
+	});
+	</script>
+        <link href="assets/css/cosmo.bootstrap.css" rel="stylesheet">
+        <link href="assets/plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+        <link href="assets/plugins/hover.css" rel="stylesheet">
+        <link href="assets/css/wit_main.css" rel="stylesheet">
+        <meta charset="utf-8">
+        <meta lang="en">
+    </head>
+ 
+    <body>
+
+        <!-- NAVBAR !--> 
+         <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brandimage"> <img src="http://www.wasatchinstitute.net/wp-content/themes/wit/img/main_logo.png" width=166px height=50px alt="WIT"/></a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="index.html"> Home<span class="sr-only">(current)</span></a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About WIT<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="OurMission.html">Our Mission</a></li>
+            <li><a href="HowWeLearn.html">How do we learn?</a></li>
+            <li class="dropdown-submenu"><a tabindex="1" href="#">Agile Method</a>
+                <ul class="dropdown-menu">
+                    <a href="Sprint.html">What is a sprint?</a>
+                    <br>
+                    <a href="SCOPS.html">SCOPs</a>
+                    <br>
+                    <a href="GradingWIT.html">Grading at WIT</a>
+                    <br>
+                    <a href="Internships.html">Internships</a>
+                </ul>
+                </li>
+            <li><a href="PoliciesProcedures.html">Policies and Procedures</a></li>
+            <li><a href="OurStaff.html">Our Staff</a></li>
+            <li><a href="OurLocation.html">Our Location</a></li>
+            <li><a href="transportation.html">Transportation</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Potential Students<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="LoveWIT.html">Things to love about WIT</a></li>
+            <li><a href="WITForMe.html">Is WIT for me?</a></li>
+            <li><a href="EnrollmentProcess.html">Enrollment process and fees</a></li>
+            <li><a href="EnrollNow.html">Enroll now</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Current Students<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="Calendar.html">Calendar and events</a></li>
+            <li><a href="CurrentSprint.html">Current sprint</a></li>
+            <li><a href="CurrentSCOPs.html">Current SCOPs</a></li>
+            <li><a href="StudentPortal.html">Student portal</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Partner With WIT<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="CurrentPartners.html">Our current partners</a></li>
+            <li><a href="PartneringWIT.html">Is partnering for me?</a></li>
+            <li><a href="ContactPartners.html">Contact us</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="ContactInformation.html">Contact Information</a></li>
+            <li><a href="MakeDonation.html">Make a donation</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav> <!-- NAVBAR ENDS HERE !-->
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Simple Sidebar - Start Bootstrap Template</title>
+        <!-- Bootstrap Core CSS -->
+        <link href="assets/css/cosmo.bootstrap.min.css" rel="stylesheet">
+        <!-- Custom CSS -->
+        <link href="assets/css/simple-sidebar.css" rel="stylesheet">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <body>
+        <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                    </li>
+                    <li>
+                        <a href="#TransitSchedules">Current transit schedules</a>
+                    </li>
+                    <li>
+                        <a href="#PassInformation">Transit pass information</a>
+                    </li>
+                    <li>
+                        <a href="#UseTransit">How students use transit</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /#sidebar-wrapper -->
+            <!-- Page Content -->
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                    </div>
+                </div>
+            </div>
+            <!-- /#page-content-wrapper -->
+        </div>
+        <!-- /#wrapper -->
+        <!-- jQuery -->
+        <script src="assets/js/jquery.min.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="assets/js/bootstrap.min.js"></script>
+        <!-- Menu Toggle Script -->
+        <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+<h3 class="h3-sprintheading">TRANSPORTATION</h3>
+        
+            <h3 id="TransitSchedules" class="h3-subtitle">
+                <br>
+                CURRENT TRANSIT SCHEDULES</h3>
+    <h3 class="h3-bodytext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus a auctor nunc. Suspendisse mattis sagittis placerat. Maecenas ullamcorper feugiat pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in rhoncus lacus. Proin dictum consectetur diam eget auctor. Ut viverra at augue in mollis. Nulla ornare efficitur sem quis venenatis. Aliquam tempus odio ut sapien condimentum, quis aliquam nisl condimentum. Sed ac augue velit. Vivamus eget augue a urna porta imperdiet. Donec et felis eu felis tristique pharetra. Donec id ligula tempor, volutpat velit eget, vulputate sem. Suspendisse finibus convallis est, a hendrerit mi cursus sit amet. Suspendisse consectetur purus massa, sed dignissim diam ornare eu.
+    </h3>
+    <br>        
+    <h3 class="h3-bodytext">Morbi non neque eu lorem venenatis maximus. Donec scelerisque, ex a tempor tempor, risus orci convallis mi, non auctor risus mi vel magna. Integer pulvinar mi risus, at varius libero tincidunt et. Aenean sit amet sapien at nunc bibendum tincidunt eu eget erat. Aliquam gravida, odio sed elementum congue, felis tortor posuere lectus, sed dignissim turpis mauris iaculis mauris. Nunc varius pulvinar tincidunt. In pretium nunc vitae est congue molestie. In feugiat, enim in euismod pellentesque, elit mauris molestie orci, imperdiet imperdiet nibh nisl et magna. Integer laoreet orci vitae vehicula porta. Nulla viverra euismod massa, nec egestas orci sollicitudin a. Nunc eget faucibus dui. Proin in convallis dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc sit amet purus id nunc pretium bibendum non in mi. Donec sit amet dapibus ipsum.
+    </h3>
+    <br>        
+    <h3 class="h3-bodytext">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed viverra quam ut ornare facilisis. Morbi eget fringilla tortor. Sed ultrices, lectus ac maximus pretium, urna dolor sodales augue, non porta urna ante ac odio. Etiam risus erat, placerat vitae aliquet a, viverra eget quam. Proin non metus at orci rutrum interdum ac non est. In imperdiet ante ut diam dapibus, sed tincidunt urna interdum. In feugiat dolor eget sem gravida, vel imperdiet odio vestibulum. Nulla sagittis lacus nec massa rhoncus, ut ultricies velit posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   <hr class="hr-line">
+        </h3>
+            <h3 id="PassInformation" class="h3-subtitle">
+            <br>
+            TRANSIT PASS INFORMATION</h3>
+    <h3 class="h3-bodytext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus a auctor nunc. Suspendisse mattis sagittis placerat. Maecenas ullamcorper feugiat pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in rhoncus lacus. Proin dictum consectetur diam eget auctor. Ut viverra at augue in mollis. Nulla ornare efficitur sem quis venenatis. Aliquam tempus odio ut sapien condimentum, quis aliquam nisl condimentum. Sed ac augue velit. Vivamus eget augue a urna porta imperdiet. Donec et felis eu felis tristique pharetra. Donec id ligula tempor, volutpat velit eget, vulputate sem. Suspendisse finibus convallis est, a hendrerit mi cursus sit amet. Suspendisse consectetur purus massa, sed dignissim diam ornare eu.
+    </h3>
+    <br>        
+    <h3 class="h3-bodytext">Morbi non neque eu lorem venenatis maximus. Donec scelerisque, ex a tempor tempor, risus orci convallis mi, non auctor risus mi vel magna. Integer pulvinar mi risus, at varius libero tincidunt et. Aenean sit amet sapien at nunc bibendum tincidunt eu eget erat. Aliquam gravida, odio sed elementum congue, felis tortor posuere lectus, sed dignissim turpis mauris iaculis mauris. Nunc varius pulvinar tincidunt. In pretium nunc vitae est congue molestie. In feugiat, enim in euismod pellentesque, elit mauris molestie orci, imperdiet imperdiet nibh nisl et magna. Integer laoreet orci vitae vehicula porta. Nulla viverra euismod massa, nec egestas orci sollicitudin a. Nunc eget faucibus dui. Proin in convallis dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc sit amet purus id nunc pretium bibendum non in mi. Donec sit amet dapibus ipsum.
+    </h3>
+    <br>        
+    <h3 class="h3-bodytext">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed viverra quam ut ornare facilisis. Morbi eget fringilla tortor. Sed ultrices, lectus ac maximus pretium, urna dolor sodales augue, non porta urna ante ac odio. Etiam risus erat, placerat vitae aliquet a, viverra eget quam. Proin non metus at orci rutrum interdum ac non est. In imperdiet ante ut diam dapibus, sed tincidunt urna interdum. In feugiat dolor eget sem gravida, vel imperdiet odio vestibulum. Nulla sagittis lacus nec massa rhoncus, ut ultricies velit posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    <hr class="hr-line">
+    </h3>
+            <h3 id="UseTransit" class="h3-subtitle">
+            <br>    
+            HOW STUDENTS USE TRANSIT</h3>
+     <h3 class="h3-bodytext">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus a auctor nunc. Suspendisse mattis sagittis placerat. Maecenas ullamcorper feugiat pellentesque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in rhoncus lacus. Proin dictum consectetur diam eget auctor. Ut viverra at augue in mollis. Nulla ornare efficitur sem quis venenatis. Aliquam tempus odio ut sapien condimentum, quis aliquam nisl condimentum. Sed ac augue velit. Vivamus eget augue a urna porta imperdiet. Donec et felis eu felis tristique pharetra. Donec id ligula tempor, volutpat velit eget, vulputate sem. Suspendisse finibus convallis est, a hendrerit mi cursus sit amet. Suspendisse consectetur purus massa, sed dignissim diam ornare eu.
+    </h3>
+    <br>        
+    <h3 class="h3-bodytext">Morbi non neque eu lorem venenatis maximus. Donec scelerisque, ex a tempor tempor, risus orci convallis mi, non auctor risus mi vel magna. Integer pulvinar mi risus, at varius libero tincidunt et. Aenean sit amet sapien at nunc bibendum tincidunt eu eget erat. Aliquam gravida, odio sed elementum congue, felis tortor posuere lectus, sed dignissim turpis mauris iaculis mauris. Nunc varius pulvinar tincidunt. In pretium nunc vitae est congue molestie. In feugiat, enim in euismod pellentesque, elit mauris molestie orci, imperdiet imperdiet nibh nisl et magna. Integer laoreet orci vitae vehicula porta. Nulla viverra euismod massa, nec egestas orci sollicitudin a. Nunc eget faucibus dui. Proin in convallis dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc sit amet purus id nunc pretium bibendum non in mi. Donec sit amet dapibus ipsum.
+    </h3>
+    <br>        
+    <h3 class="h3-bodytext">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed viverra quam ut ornare facilisis. Morbi eget fringilla tortor. Sed ultrices, lectus ac maximus pretium, urna dolor sodales augue, non porta urna ante ac odio. Etiam risus erat, placerat vitae aliquet a, viverra eget quam. Proin non metus at orci rutrum interdum ac non est. In imperdiet ante ut diam dapibus, sed tincidunt urna interdum. In feugiat dolor eget sem gravida, vel imperdiet odio vestibulum. Nulla sagittis lacus nec massa rhoncus, ut ultricies velit posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    </h3>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+        <footer class="footer-style"><span>Home | About WIT | Potential Students | Current Students | Partner with WIT | Contact Us</span></footer>
+        </body>
+      </html>
+
+<!-- Logan Hamilton !-->
+

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<!-- Excuse my messy code, it's one ugly creation. Feel free to make it beautiful. !-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+	
+	<title>WIT | Make a donation</title>
+	
+	<link rel="stylesheet" href="css/style.css">
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+	<script>
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 1000);
+	        return false;
+	      }
+	    }
+	  });
+	});
+	</script>
+        <link href="assets/css/cosmo.bootstrap.css" rel="stylesheet">
+        <link href="assets/plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+        <link href="assets/plugins/hover.css" rel="stylesheet">
+        <link href="assets/css/wit_main.css" rel="stylesheet">
+        <meta charset="utf-8">
+        <meta lang="en">
+    </head>
+ 
+    <body>
+
+        <!-- NAVBAR !--> 
+         <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brandimage"> <img src="http://www.wasatchinstitute.net/wp-content/themes/wit/img/main_logo.png" width=166px height=50px alt="WIT"/></a>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="index.html"> Home<span class="sr-only">(current)</span></a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About WIT<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="OurMission.html">Our Mission</a></li>
+            <li><a href="HowWeLearn.html">How do we learn?</a></li>
+             <li class="dropdown-submenu"><a tabindex="1" href="#">Agile Method</a>
+                <ul class="dropdown-menu">
+                    <a href="Sprint.html">What is a sprint?</a>
+                    <br>
+                    <a href="SCOPS.html">SCOPs</a>
+                    <br>
+                    <a href="GradingWIT.html">Grading at WIT</a>
+                    <br>
+                    <a href="Internships.html">Internships</a>
+                </ul>
+                </li>
+            <li><a href="PoliciesProcedures.html">Policies and Procedures</a></li>
+            <li><a href="OurStaff.html">Our Staff</a></li>
+            <li><a href="OurLocation.html">Our Location</a></li>
+            <li><a href="transportation.html">Transportation</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Potential Students<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="LoveWIT.html">Things to love about WIT</a></li>
+            <li><a href="WITForMe.html">Is WIT for me?</a></li>
+            <li><a href="EnrollmentProcess.html">Enrollment process and fees</a></li>
+            <li><a href="EnrollNow.html">Enroll now</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Current Students<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="Calendar.html">Calendar and events</a></li>
+            <li><a href="CurrentSprint.html">Current sprint</a></li>
+            <li><a href="CurrentSCOPs.html">Current SCOPs</a></li>
+            <li><a href="StudentPortal.html">Student portal</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Partner With WIT<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="CurrentPartners.html">Our current partners</a></li>
+            <li><a href="PartneringWIT.html">Is partnering for me?</a></li>
+            <li><a href="ContactPartners.html">Contact us</a></li>
+          </ul>
+        </li>
+          <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="ContactInformation.html">Contact Information</a></li>
+            <li><a href="MakeDonation.html">Make a donation</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav> <!-- NAVBAR ENDS HERE !-->
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Simple Sidebar - Start Bootstrap Template</title>
+        <!-- Bootstrap Core CSS -->
+        <link href="assets/css/cosmo.bootstrap.min.css" rel="stylesheet">
+        <!-- Custom CSS -->
+        <link href="assets/css/simple-sidebar.css" rel="stylesheet">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+<br>
+<br>
+<h3 class="h3-sprintheading">MAKE A DONATION</h3>
+        
+            <h3 class="h3-subtitle">
+                <br>
+                SPRINT PLANNING</h3>
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+    <!-- Identify your business so that you can collect the payments. -->
+    <input type="hidden" name="business"
+        value="david.moss@wasatchinstitute.net">
+
+    <!-- Specify a Donate button. -->
+    <input type="hidden" name="cmd" value="_donations">
+
+    <!-- Specify details about the contribution -->
+    <input type="hidden" name="item_name" value="Wasatch Institute of Technology">
+    <input type="hidden" name="item_number" value="School Assistance Fund">
+    <input type="hidden" name="currency_code" value="USD">
+
+    <!-- Display the payment button. -->
+    <h3 class=h3-donatebutton>
+    <input type="image" name="submit" border="0"
+    src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
+    alt="PayPal - The safer, easier way to pay online">
+    <img alt="" border="0" width="1" height="1"
+    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+       </h3>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+        <footer class="footer-style"><span>Home | About WIT | Potential Students | Current Students | Partner with WIT | Contact Us</span></footer>
+       
+       <script src="assets/js/bootstrap.min.js"></script>
+        </body>
+      </html>
+
+<!-- Logan Hamilton !-->
+
