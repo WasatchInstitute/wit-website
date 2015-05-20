@@ -1626,6 +1626,8 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+  position: relative;
+  z-index: 5;
 }
 .row {
   margin-left: -15px;

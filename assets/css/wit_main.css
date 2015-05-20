@@ -101,4 +101,6 @@ h3 {
 
 .navbar-brandimage {
     padding-right: 1cm;
+    position: relative;
+    z-index: 3;
 }
