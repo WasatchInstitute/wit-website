@@ -1,18 +1,17 @@
 <?xml version="1.0"?>
-<project name="wit-website" default="html" xmlns:ivy="antlib:org.apache.ivy.ant">
+<project xmlns:ivy="antlib:org.apache.ivy.ant" name="wit-website" default="html" >
 <description>Generates HTML source code for the WIT website from asciidoctor source</description>
 
-<property name="build.dir" value="build"/>
-<property name="build.html.dir" value="${build.dir}/public_html"/>
-<property name="src.dir" value="src"/>
-<property name="src.html.dir" value="${src.dir}/adoc" />
-<property name="lib.dir" value="lib"/>
+	<property name="build.dir" value="build"/>
+	<property name="build.html.dir" value="${build.dir}/public_html"/>
+	<property name="src.dir" value="src"/>
+	<property name="src.html.dir" value="${src.dir}/adoc" />
+	<property name="lib.dir" value="lib"/>
 
-
-<property name="ivy.install.version" value="2.0.0-beta1"/>
-<property name="ivy.jar.dir" value="${libdir}/ivy"/>
-<property name="ivy.jar.file" value="${ivy.jar.dir}/ivy.jar"/>
-
+	<!-- ivy properties -->
+	<property name="ivy.install.version" value="2.4.0"/>
+	<property name="ivy.jar.dir" value="${lib.dir}/ivy"/>
+	<property name="ivy.jar.file" value="${ivy.jar.dir}/ivy.jar"/>
 
 <!--
 	Base project targets
@@ -21,6 +20,7 @@
 	<target name="init" description="--> Create project directory structure">
 		<mkdir dir="${src.dir}" />
 		<mkdir dir="${lib.dir}" />
+		<mkdir dir="${ivy.jar.dir}" />
 		<mkdir dir="${build.dir}" />
 		<mkdir dir="${build.html.dir}" />
 	</target>
@@ -66,10 +66,9 @@
 		</exec>
 	</target>
 	
-<!--
-	Apache Ivy information
--->	
-
+<!-- ==================================================
+	Apache Ivy 
+================================================== -->	
 	<!--
 		 download Ivy from web site so that it can be used even without any special installation 
 	-->
@@ -85,7 +84,7 @@
             if you already have ivy in your ant lib, you can simply remove this
             target and the dependency the 'go' target has on it
 	-->
-	<target name="ivy-install" depends="ivy-download" description="--> Install ivy">
+	<target name="ivy-install" depends="init,ivy-download" description="--> Install ivy">
 	<!--
 		 try to load ivy here from local ivy dir, in case the user has not already dropped
     	      it into ant's lib dir (note that the latter copy will always take precedence).
@@ -97,9 +96,9 @@
 		</path>
 
 		<taskdef resource="org/apache/ivy/ant/antlib.xml" uri="antlib:org.apache.ivy.ant" classpathref="ivy.lib.path"/>
-	</target>
+	</target> 
 
-	 <target name="ivy-resolve" description="--> Retrieve dependencies with ivy">
+	 <target name="ivy-resolve" depends="ivy-install" description="--> Retrieve dependencies with ivy">
         <ivy:retrieve />
     </target>
     
@@ -107,7 +106,7 @@
 		<ivy:cleancache/>
 	</target>
 
-	<target name="ivy-clean" description="--> Clean the ivy installation">
+	<target name="ivy-clean" depends="ivy-install" description="--> Clean the ivy installation">
 		<delete dir="${ivy.jar.dir}"/>
 	</target>
 
