@@ -12,9 +12,12 @@ To convert a maven repo into an Ivy dependency declaration, all you have to do i
     </dependencies>
 -->    
 
-    <info organisation="ORG" module="MODULE" />
-  	  <dependencies>
-    	    <dependency org="org.asciidoctor" name="asciidoctor-ant" rev="1.5.1"/>
-	    </dependencies>
+<!--  INCLUDE this when 1.5.2 becomes available; there's a problem parsing in the included jRuby that is fixed in 1.5.2, but not earlier versions  
+	  See https://github.com/asciidoctor/asciidoctorj/issues/218
 
+	  <info organisation="net.wasatchinstitute" module="asciidoctor-ant" />
+  	  <dependencies>
+    	    <dependency org="org.asciidoctor" name="asciidoctor-ant" rev="1.5.2" />
+	    </dependencies>
+-->
 </ivy-module>

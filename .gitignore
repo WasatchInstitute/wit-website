@@ -1,3 +1,8 @@
 Icon?
-build/
-lib/
+/build
+
+!/lib/
+/lib/*
+!/lib/custom/
+
+/target

@@ -2,11 +2,12 @@
 <project 
 	xmlns:ivy="antlib:org.apache.ivy.ant" 
 	xmlns:asciidoctor="antlib:org.asciidoctor.ant"
-	name="wit-website" default="adoc" >
+	name="wit-website" default="adoc" basedir=".">
 <description>Generates HTML source code for the WIT website from asciidoctor source</description>
 
 	<property name="build.dir" value="build"/>
-	<property name="build.html.dir" value="${build.dir}/public_html"/>
+	<property name="target.dir" value="target" />
+	<property name="target.html.dir" value="${target.dir}/public_html"/>
 	<property name="src.dir" value="src"/>
 	<property name="src.html.dir" value="${src.dir}/html/adoc" />
 	<property name="lib.dir" value="lib"/>
@@ -15,6 +16,7 @@
 	<property name="ivy.install.version" value="2.4.0"/>
 	<property name="ivy.jar.dir" value="${lib.dir}/ivy"/>
 	<property name="ivy.jar.file" value="${ivy.jar.dir}/ivy.jar"/>
+	<property name="ivy.default.settings.dir" value="${basedir}" />
 
 <!--
 	Base project targets
@@ -25,12 +27,14 @@
 		<mkdir dir="${lib.dir}" />
 		<mkdir dir="${ivy.jar.dir}" />
 		<mkdir dir="${build.dir}" />
-		<mkdir dir="${build.html.dir}" />
+		<mkdir dir="${target.dir}" />
+		<mkdir dir="${target.html.dir}" />
 	</target>
 	
 	<target name="clean" depends="init" description="--> Remove generated files">
 		<delete includeemptydirs="true" quiet="true">
 			<fileset dir="${build.dir}"/>
+			<fileset dir="${target.dir}"/>
 		</delete>
 	</target>
 
@@ -47,11 +51,12 @@
 -->
 	<!-- See documentation at https://github.com/asciidoctor/asciidoctor-ant -->
 	<target name="adoc">
-		<taskdef uri="antlib:org.asciidoctor.ant" resource="org/asciidoctor/ant/antlib.xml" classpath="${lib.dir}/asciidoctor-ant-1.5.1.jar" />
-<echo>SourceDirectory: ${src.html.dir} and output=${build.html.dir}</echo>
-		<asciidoctor:convert sourceDirectory="${src.html.dir}" outputDirectory="${basedir}/${build.html.dir}" 
-							 preservedirectories="false" backend="html5" imagesDir="assets" embedAssets="true" 
-							 baseDir="${src.html.dir}">
+		<taskdef uri="antlib:org.asciidoctor.ant" 
+				 resource="org/asciidoctor/ant/antlib.xml" 
+				 classpath="${lib.dir}/asciidoctor-ant-1.5.2-SNAPSHOT.jar" />
+
+		<asciidoctor:convert sourceDirectory="${src.html.dir}" outputDirectory="${target.html.dir}" 
+							 backend="html5" imagesDir="assets" embedAssets="true" >
 			<!--  <attribute key="title" value="Asciidoc Ant"/> -->
 		</asciidoctor:convert>
     </target>
