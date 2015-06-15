@@ -1,7 +1,20 @@
 <ivy-module version="2.4">
+<!-- 
+To convert a maven repo into an Ivy dependency declaration, all you have to do is:
+* use the groupId as organization, 
+* the artifactId as module name, 
+* and the version as revision. 
+
     <info organisation="org.apache" module="hello-ivy"/>
     <dependencies>
         <dependency org="commons-lang" name="commons-lang" rev="2.0"/>
         <dependency org="commons-cli" name="commons-cli" rev="1.0"/>
     </dependencies>
+-->    
+
+    <info organisation="ORG" module="MODULE" />
+  	  <dependencies>
+    	    <dependency org="org.asciidoctor" name="asciidoctor-ant" rev="1.5.1"/>
+	    </dependencies>
+
 </ivy-module>

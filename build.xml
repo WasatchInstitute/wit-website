@@ -1,11 +1,14 @@
 <?xml version="1.0"?>
-<project xmlns:ivy="antlib:org.apache.ivy.ant" name="wit-website" default="html" >
+<project 
+	xmlns:ivy="antlib:org.apache.ivy.ant" 
+	xmlns:asciidoctor="antlib:org.asciidoctor.ant"
+	name="wit-website" default="adoc" >
 <description>Generates HTML source code for the WIT website from asciidoctor source</description>
 
 	<property name="build.dir" value="build"/>
 	<property name="build.html.dir" value="${build.dir}/public_html"/>
 	<property name="src.dir" value="src"/>
-	<property name="src.html.dir" value="${src.dir}/adoc" />
+	<property name="src.html.dir" value="${src.dir}/html/adoc" />
 	<property name="lib.dir" value="lib"/>
 
 	<!-- ivy properties -->
@@ -32,39 +35,26 @@
 	</target>
 
 <!--
-	asciidoctor information
--->
-	<target name="asciidoctor-install" description="--> Install asciidoc to your local system">
-		<echo>Updating Ruby gems...</echo>
-		<exec executable="sudo">
-			<arg line="gem update --system" />
-		</exec>
-
-		<echo>Installing asciidoctor...</echo>
-		<exec executable="sudo" failonerror="true">
-			<arg line="gem install asciidoctor -N" />
-		</exec>	
-		
-		<echo>Test for asciidoctor by typing: asciidoctor -V</echo>
-	</target>
+	asciidoctor information.
 	
-		<target name="asciidoctor-update" description="--> Update asciidoc to the latest version">
-		<echo>Updating Ruby gems...</echo>
-		<exec executable="sudo">
-			<arg line="gem update --system" />
-		</exec>
-
-		<echo>Installing asciidoctor...</echo>
-		<exec executable="sudo" failonerror="true">
-			<arg line="gem update asciidoctor" />
-		</exec>	
-	</target>
-
-	<target name="html" depends="init" description="--> Create HTML files from adoc source files">
-		<echo>Processing all adoc files...</echo>
-		<exec executable="asciidoctor">
-		</exec>
-	</target>
+	To install asciidoc locally on your machine instead of using ant, you can do the following from the terminal 
+	(once Ruby is installed):
+	
+	sudo gem update [dash dash]system
+	sudo gem install asciidoctor -N
+	
+	asciidoctor -v #Is it working?
+-->
+	<!-- See documentation at https://github.com/asciidoctor/asciidoctor-ant -->
+	<target name="adoc">
+		<taskdef uri="antlib:org.asciidoctor.ant" resource="org/asciidoctor/ant/antlib.xml" classpath="${lib.dir}/asciidoctor-ant-1.5.1.jar" />
+<echo>SourceDirectory: ${src.html.dir} and output=${build.html.dir}</echo>
+		<asciidoctor:convert sourceDirectory="${src.html.dir}" outputDirectory="${basedir}/${build.html.dir}" 
+							 preservedirectories="false" backend="html5" imagesDir="assets" embedAssets="true" 
+							 baseDir="${src.html.dir}">
+			<!--  <attribute key="title" value="Asciidoc Ant"/> -->
+		</asciidoctor:convert>
+    </target>
 	
 <!-- ==================================================
 	Apache Ivy 
@@ -98,7 +88,7 @@
 		<taskdef resource="org/apache/ivy/ant/antlib.xml" uri="antlib:org.apache.ivy.ant" classpathref="ivy.lib.path"/>
 	</target> 
 
-	 <target name="ivy-resolve" depends="ivy-install" description="--> Retrieve dependencies with ivy">
+	 <target name="ivy-retrieve" depends="ivy-install" description="--> Retrieve dependencies with ivy">
         <ivy:retrieve />
     </target>
     
