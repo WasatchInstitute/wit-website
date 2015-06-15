@@ -1,15 +1,114 @@
 <?xml version="1.0"?>
-<project name="wit-website" default="compile">
-	<target name="init">
-		<mkdir dir="public_html" />
+<project name="wit-website" default="html" xmlns:ivy="antlib:org.apache.ivy.ant">
+<description>Generates HTML source code for the WIT website from asciidoctor source</description>
+
+<property name="build.dir" value="build"/>
+<property name="build.html.dir" value="${build.dir}/public_html"/>
+<property name="src.dir" value="src"/>
+<property name="src.html.dir" value="${src.dir}/adoc" />
+<property name="lib.dir" value="lib"/>
+
+
+<property name="ivy.install.version" value="2.0.0-beta1"/>
+<property name="ivy.jar.dir" value="${libdir}/ivy"/>
+<property name="ivy.jar.file" value="${ivy.jar.dir}/ivy.jar"/>
+
+
+<!--
+	Base project targets
+-->
+
+	<target name="init" description="--> Create project directory structure">
+		<mkdir dir="${src.dir}" />
+		<mkdir dir="${lib.dir}" />
+		<mkdir dir="${build.dir}" />
+		<mkdir dir="${build.html.dir}" />
 	</target>
 	
-	<target name="clean" depends="init">
-		<delete dir="public_html" />
+	<target name="clean" depends="init" description="--> Remove generated files">
+		<delete includeemptydirs="true" quiet="true">
+			<fileset dir="${build.dir}"/>
+		</delete>
 	</target>
 
-	<target name="compile" depends="init">
-		<javac srcdir="." />
-		<echo>Compilation complete!</echo>
+<!--
+	asciidoctor information
+-->
+	<target name="asciidoctor-install" description="--> Install asciidoc to your local system">
+		<echo>Updating Ruby gems...</echo>
+		<exec executable="sudo">
+			<arg line="gem update --system" />
+		</exec>
+
+		<echo>Installing asciidoctor...</echo>
+		<exec executable="sudo" failonerror="true">
+			<arg line="gem install asciidoctor -N" />
+		</exec>	
+		
+		<echo>Test for asciidoctor by typing: asciidoctor -V</echo>
 	</target>
+	
+		<target name="asciidoctor-update" description="--> Update asciidoc to the latest version">
+		<echo>Updating Ruby gems...</echo>
+		<exec executable="sudo">
+			<arg line="gem update --system" />
+		</exec>
+
+		<echo>Installing asciidoctor...</echo>
+		<exec executable="sudo" failonerror="true">
+			<arg line="gem update asciidoctor" />
+		</exec>	
+	</target>
+
+	<target name="html" depends="init" description="--> Create HTML files from adoc source files">
+		<echo>Processing all adoc files...</echo>
+		<exec executable="asciidoctor">
+		</exec>
+	</target>
+	
+<!--
+	Apache Ivy information
+-->	
+
+	<!--
+		 download Ivy from web site so that it can be used even without any special installation 
+	-->
+	<target name="ivy-download" unless="skip.download">
+		<mkdir dir="${ivy.jar.dir}"/>
+		<echo message="installing ivy..."/>
+		<get src="https://repo1.maven.org/maven2/org/apache/ivy/ivy/${ivy.install.version}/ivy-${ivy.install.version}.jar" dest="${ivy.jar.file}" usetimestamp="true"/>
+	</target>
+
+	<!--
+          target: ivy-install         
+            this target is not necessary if you put ivy.jar in your ant lib directory
+            if you already have ivy in your ant lib, you can simply remove this
+            target and the dependency the 'go' target has on it
+	-->
+	<target name="ivy-install" depends="ivy-download" description="--> Install ivy">
+	<!--
+		 try to load ivy here from local ivy dir, in case the user has not already dropped
+    	      it into ant's lib dir (note that the latter copy will always take precedence).
+    	      We will not fail as long as local lib dir exists (it may be empty) and
+    	      ivy is in at least one of ant's lib dir or the local lib dir. 
+	-->
+		<path id="ivy.lib.path">
+			<fileset dir="${ivy.jar.dir}" includes="*.jar"/>
+		</path>
+
+		<taskdef resource="org/apache/ivy/ant/antlib.xml" uri="antlib:org.apache.ivy.ant" classpathref="ivy.lib.path"/>
+	</target>
+
+	 <target name="ivy-resolve" description="--> Retrieve dependencies with ivy">
+        <ivy:retrieve />
+    </target>
+    
+	<target name="ivy-clean-cache" depends="ivy-install" description="--> Clean the ivy cache">
+		<ivy:cleancache/>
+	</target>
+
+	<target name="ivy-clean" description="--> Clean the ivy installation">
+		<delete dir="${ivy.jar.dir}"/>
+	</target>
+
 </project>
