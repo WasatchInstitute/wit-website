@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<project name="wit-website" default="compile">
+	<target name="init">
+		<mkdir dir="public_html" />
+	</target>
+	
+	<target name="clean" depends="init">
+		<delete dir="public_html" />
+	</target>
+
+	<target name="compile" depends="init">
+		<javac srcdir="." />
+		<echo>Compilation complete!</echo>
+	</target>
+</project>
