@@ -104,3 +104,11 @@ h3 {
     position: relative;
     z-index: 3;
 }
+a.home-foot{
+text-decoration: none;
+color: white;
+}
+a.home-foot:hover{
+text-decoration: underline;
+color: #0187D2;
+}
