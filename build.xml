@@ -16,7 +16,6 @@
 	<property name="ivy.install.version" value="2.4.0"/>
 	<property name="ivy.jar.dir" value="${lib.dir}/ivy"/>
 	<property name="ivy.jar.file" value="${ivy.jar.dir}/ivy.jar"/>
-	<property name="ivy.default.settings.dir" value="${basedir}" />
 
 <!--
 	Base project targets
@@ -53,7 +52,7 @@
 	<target name="adoc">
 		<taskdef uri="antlib:org.asciidoctor.ant" 
 				 resource="org/asciidoctor/ant/antlib.xml" 
-				 classpath="${lib.dir}/asciidoctor-ant-1.5.2-SNAPSHOT.jar" />
+				 classpath="${lib.dir}/custom/asciidoctor-ant-1.5.2-SNAPSHOT.jar" />
 
 		<asciidoctor:convert sourceDirectory="${src.html.dir}" outputDirectory="${target.html.dir}" 
 							 backend="html5" imagesDir="assets" embedAssets="true" >
