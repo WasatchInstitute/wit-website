@@ -32,11 +32,30 @@
 	
 	<target name="clean" depends="init" description="--> Remove generated files">
 		<delete includeemptydirs="true" quiet="true">
-			<fileset dir="${build.dir}"/>
-			<fileset dir="${target.dir}"/>
+			<fileset dir="${build.dir}" />
+			<fileset dir="${target.dir}" />
 		</delete>
 	</target>
-
+	
+	<target name="test" depends="adoc" description="--> Test generated adoc files">
+		<taskdef 	resource="net/sf/antcontrib/antcontrib.properties"
+					classpath="${lib.dir}/custom/ant-contrib-1.0b3.jar" />
+	
+		<path id="adoc-files">
+			<fileset dir="${src.html.dir}" includes="**/*.adoc" />
+		</path>
+		
+		<fail message="Asciidoctor generated files are missing.">
+    		<condition>
+		        <not>
+        		    <resourcecount count="1">
+   						<fileset dir="${src.html.dir}" includes="**/*.adoc" />
+		            </resourcecount>
+        		</not>
+		    </condition>
+		</fail>
+	</target>
+	
 <!--
 	asciidoctor information.
 	
