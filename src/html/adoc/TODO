@@ -1,26 +1,38 @@
-Calendar.html
-ContactInformation.html
-ContactPartners.html
-CurrentPartners.html
-CurrentSCOPs.html
-CurrentSprint.html
-EnrollNow.html
-EnrollmentProcess.html
-GradingWIT.html
-HowWeLearn.html
-Internships.html
-LoveWIT.html
-MakeDonation.html
+ABOUT WIT
+1 OurMission.html
+1 HowWeLearn.html
+2 PoliciesProcedures.html
+1 OurStaff.html
+1 OurLocation.html
+1 transportation.html
+
+AGILE METHOD
+1 Sprint.html
+1 SCOPS.html
+2 GradingWIT.html
+3 Internships.html
+
+POTENTIAL STUDENTS
+2 LoveWIT.html
+1 WITForMe.html
+1 EnrollmentProcess.html
+1 EnrollNow.html
+
+CURRENT STUDENTS
+2 Calendar.html
+x CurrentSprint.html
+x CurrentSCOPs.html
+x StudentPortal.html
+
+PARTNER WITH WIT
+x CurrentPartners.html
+x PartneringWIT.html
+x ContactPartners.html
+
+CONTACT US
+1 ContactInformation.html
+3 MakeDonation.html
+
 NavigationBar.html
-OurLocation.html
-OurMission.html
-OurStaff.html
-PartneringWIT.html
-PoliciesProcedures.html
-SCOPS.html
-Sprint.html
-StudentPortal.html
-Test.html
-WITForMe.html
 index.html
-transportation.html
+
