@@ -26,6 +26,7 @@ Cory has tested hardware and computer programs for large companies such as Sperr
 '''
 
 === Leif Nelson
+image::Leif.jpg["Leif", 200,float="left",align="left"]
 Leif is our business manager and vice principal, and additionally teaches music, German, and social studies classes. He was born in California and has an A.A. from the College of Eastern Utah and a B.S. from the University of Utah. He has taught at the College of Eastern Utah. 
 
 Leif loves music, and he has worked as a retail manager at a music store. Additionally, he has worked in financial services, business, and manufacturing.
