@@ -74,7 +74,7 @@
 				 classpath="${lib.dir}/custom/asciidoctor-ant-1.5.2-SNAPSHOT.jar" />
 
 		<asciidoctor:convert sourceDirectory="${src.html.dir}" outputDirectory="${target.html.dir}" 
-							 backend="html5" imagesDir="assets" embedAssets="true" >
+							 backend="html5" imagesDir="src/html/adoc/assets/imgs" embedAssets="true" >
 			<!--  <attribute key="title" value="Asciidoc Ant"/> -->
 		</asciidoctor:convert>
     </target>
