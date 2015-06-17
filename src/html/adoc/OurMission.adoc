@@ -1,8 +1,37 @@
 = Our Mission
 
 == Demand for IT
+https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329
 
 == Traditional Education
+http://www.npr.org/sections/ed/2015/06/17/414980239/a-vision-for-teacher-training-at-mit-west-point-meets-bell-labs
+
+For decades, Arthur Levine, the former president of Teachers College,
+Columbia University, has tried to imagine a new kind of institution for
+training teachers. He envisions a combination West Point and Bell Labs,
+where researchers could study alongside future educators, learning what
+works and what's effective in the classroom. That idea is now set to
+become a reality.
+
+This week, Levine and the Woodrow Wilson National Fellowship Foundation
+announced a $30 million partnership with the Massachusetts Institute of
+Technology with the goal of creating a better model for teacher
+training.
+
+"Instead of focusing on courses and credits students need to take," says
+Levine, who's now head of the foundation, "we're going to focus on the
+skills and knowledge they need to have to enter the classroom."
+
+The new approach to teacher preparation will focus on what Levine calls
+"competencies," not seat time. MIT, which doesn't have a school of
+education, will conduct the research to guide the new curriculum and
+develop technologies focused on digital learning.
+
+Leine says transparency will be a goal, and the lessons learned shared
+with education schools across the country.
+
+"Our hope is that they'll take our ideas, take our practices and adopt
+them themselves," says Levine.
 
 == WIT Mission and Values
 === Mission Statement
