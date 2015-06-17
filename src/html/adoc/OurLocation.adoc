@@ -1,8 +1,17 @@
 = Our Location
+:figure-caption!:
 
 == Murray Campus
+Currently, we are located in Murray, Utah, adjacent to a multitude of amenities including, TRAX and Frontrunner stations, Intermountain Healthcare Facilities, Murray Park, and more. This location provides good access for numerous activities and field trips. Our address is: 120 W Vine St, Murray, UT 84107.
 
 == Google Map
 120 W Vine St, Murray, UT 84107 
 
-== Our Future Building
+== Our Future Building 
+Our future location will be Daybreak, adjacent the South Jordan Parkway TRAX station. It is a 4 stage project, with plans for multiple buildings, green spaces, and other daybreak amenities. 
+
+The Wasatch Institute of Technology building was designed in partnership with the award-winning architects at Method Studio. Our unique space supports Next Generation Education with its flexible room configurations, smaller classrooms, and abundant opportunities for collaboration. Our building's exterior pays homage to the area's mining history, yet affords breathtaking views of both the Wasatch and Oquirrh mountains. 
+
+[[img-floorplan]]
+.Future Building Floorplan
+image::floorplan.png["Future building floorplan", 700,float="top",align="center"]
