@@ -1,0 +1,50 @@
+= What is a Sprint?
+
+== Sprint Planning
+Before each sprint, the teaching team compiles information gathered from the last sprint’s retrospective (covered in depth below). They use this information to create the next sprint and sprint document (covered in depth below). The teaching team lays out the next sprint’s theme, classes, objectives, deliverables, field trips, guest speakers, and extra activities, usually the weekend before the sprint starts. This allows them to draw information from last sprint to implement in the next sprint.
+
+== Sprint Document 
+At the beginning of every sprint, a sprint document is created and posted where all students, teachers, and parents have access to it. This sprint document outlines the entire sprint; by breaking down each deliverable that is expected to be completed into the individual objectives associated with it. Students can then pinpoint specific objectives that they need to focus on and get extra help with, as well as what things they will be getting credit for by completing the objective.
+
+== Learning Sessions
+Each day, students attend learning sessions, where the bulk of the information students receive is delivered. Usually, students attend 4 learning sessions a day that focus on the respected disciplines, Math, Science, English, and History. Computer Science occurs throughout the week, usually taking place of Science or History. These learning sessions allow the teachers to let the students know what deliverables they will be completing, as well as covering important information needed to complete the deliverables. Also during learning sessions, labs can be conducted; topics can be researched in the computer labs, etc.
+
+== Daily Standups
+In morning advisory, the advisor talks with each student about their progress on each deliverable they have been assigned. Students then update their row on the deliverable progress board, by moving each individual deliverable from one section to the next. This gives a visual of where each deliverable is—0%, 25%, 50%, 100%, waiting for feedback, revision, and completed. Along with seeing their own progress, students can see approximately where their peers are in the process, and if they are on track to finish by the end of the sprint.
+
+== Sprint Deliverables
+Sprint deliverables are projects that allow students to show mastery of the learning objectives they have been tasked with learning. Usually, sprint deliverables are projects that are designated by the teacher, but are intended for students to build upon to achieve a higher score. Occasionally, students will be asked to create a deliverable that shows their mastery of the objectives. This main deliverable usually receives support from a series of smaller deliverables that have been designated by the teacher, to help students understand what they are supposed to be showing.
+
+== Work Sessions
+Work sessions are longer periods during the day that are set aside solely for the purpose of allowing students time to get their deliverables done, and to get help from teachers if they don’t understand certain concepts. Work sessions are usually reserved for the last week of the sprint, once learning new concepts has slowed down, and deliverables are nearing their due date. Work sessions have proved to be exceptionally successful among the current student body, as well as they allow for students to revise their work and make it better.
+
+Students who do not have work to work on during the work sessions, or who have completed all of their deliverables early, have opportunities to go on extra field trips, or engage in SCOP’s or extra activities. This gives other students motivation to complete their deliverables so that they can join their peers in more enjoyable activities.
+
+== Lunch Study Hall
+Lunch study hall is a 30-minute period that occurs during the second half of lunch. Students may find themselves in lunch study hall if they continually have behavioral problems, or need extra help with their schoolwork. During this time, the attending teacher covers ways to help the present students with the problems they face, as well as creating solutions to avoid future problems. If needed, students can also receive help with current schoolwork that they may be falling behind in. They are given the one on one opportunity to help them catch up and continue completing their schoolwork on time.
+
+Students are allowed to eat their lunch during lunch study hall, so long as they are not working with the school computers, distracting others around them, or distracting themselves from the help at hand. Students attending lunch study hall usually have negative points on ClassCharts, which is covered under WIT Software below. By attending Lunch Study Hall, students can remove these negative points from their overall score, and when they have a positive or neutral overall score they are no longer required to attend. Under certain circumstances, select students may be required to attend lunch study hall, even if their overall score remains positive.
+
+== Lunch at WIT
+Lunch starts at 11:30 each day and is 45 minutes long. During this time, students are allowed to leave the campus and go to surrounding venues to eat lunch. On campus appliances are available to the students and they include 2 microwaves, 2 refrigerators and a sink. Students are allowed to use these during the day, but students are prohibited from eating in between classes. During the lunch hour, students that are not in lunch study hall are encouraged to read, exercise, or work on current schoolwork. Nearby locations available to students for lunch include The Intermountain Murray Hospital Cafeteria, several restaurants on State Street, and many more places accessible by TRAX and bus. Students are only limited to where they can go during lunch by the time constraints of the lunch period.
+
+== Daily Cleaning
+Every day, students from a specific advisory group are assigned to certain cleaning tasks around the school. They range from cleaning the microwaves, to vacuuming the common areas. Students who are assigned to these cleaning jobs are expected to complete their task during afternoon advisory, before they leave for the day. Each week, a new advisory group is assigned to clean the building, and all the other advisory groups are assigned to clean their specific rooms.
+
+== Guest Speakers
+Occasionally, speakers from companies, organizations, or communities relevant to the sprint theme will be invited to speak to the student body. This gives the students another source of information on the current topic they are learning about, and it gives them an idea of how what they are learning can be applied to the real world. On certain occasions, the student body will travel to where the speaker is presenting, if it is not a WIT exclusive presentation.
+
+== Field Trips
+During the sprint, the school takes several field trips to relevant locations or events. The most common form of transportation on these field trips is TRAX, Frontrunner, and bus, but other ways of getting there can be used, depending on the situation. Several of the field trips we have been on include the Utah Water Symposium, the Hale Center Theatre, and the Jordan Valley water treatment plant.
+
+== Extra Activities
+The activities we do aren’t always sprint related. When it started snowing, the school went sledding at Murray Park for the first half of the day. Near Christmas time, the school went to a local Ice Skating Rink, and went Ice Skating for the last several periods of the day. These extra activities help give the students, as well as the teachers, a break from the rigorous sprint curriculum.
+
+== Real Work
+Students get real work experience from activities we do to better the school as well. For example, students have gotten experience in building computers when groups assembled the Linux machines that are used in our computer labs. Students have also received experience in wiring networks when groups wired the school’s Ethernet and Wi-Fi networks. Students also developed the school’s current website, by breaking into coding, writing, video, and photo groups. They learned what it was like to actually develop software and how teamwork is an important part in making sure the process is smooth and quick.
+
+== Sprint Presentations
+At the end of the sprint, each student is expected to deliver a presentation to the rest of the school, showing what they learned based off of the objectives they have mastered. This allows the teachers to see what the students have learned, as well allowing the students to see how their peers learned the objectives differently. Students are not told how to present what they learned to the rest of the school, because everyone learns differently. Instead, the presentation they develop is unique, just like their learning style, and they are expected to show that to the rest of the school.
+
+== Sprint Retrospective 
+The sprint retrospective occurs on the last day of the sprint, in each of the advisory groups. The advisor leads the discussion, and students provide back input on what went well during the sprint, what didn’t go well during the sprint, what to continue doing next sprint, what to stop doing next sprint, and what to start doing next sprint. This information allows the teaching team to better develop the next sprint so that each student can reach their full potential and provide quality work. Every student has equal opportunity to provide their opinion on how they feel everything is progressing, and every student’s opinion is weighted equal. The teaching team takes all of the advisories retrospectives into account when they have their end of sprint retrospective as well as when they start the sprint planning for the next sprint.
