@@ -1,7 +1,37 @@
 = Transportation
+:figure-caption!:
+:icons: font
 
 == Current Transit Schedules
+[[img-TRAX]]
+.http://www.rideuta.com/mc/?page=UTA-Home-TRAX[TRAX Schedules]
+image::TRAX.jpg["TRAX", 300,float="left",align="left"]
+[[img-Frontrunner]]
+.http://www.rideuta.com/mc/?page=UTA-Home-FrontRunner[Frontrunner Schedules]
+image::Frontrunner.jpg["Frontrunner", 300,float="left",align="center"]
+[[img-Bus]]
+.http://www.rideuta.com/mc/?page=UTA-Home-Bus[Bus Schedules]
+image::Bus.jpg["Bus", 300,float="left",align="right"]
 
 == Transit Pass Information
+All Wasatch Institute of Technology students receive a Utah Transit Authority Premium Transit pass which they will use throughout the school year. This pass offers unlimited access to TRAX, FrontRunner, and UTA busses (except ski buses). The transit pass is the property of WIT, is non-transferrable, and is valid from mid-August to mid-June. Students keep their pass throughout their time at WIT. Replacement passes are available; see the <<EnrollmentProcess.adoc#Fees,fees page>> for the current replacement price.
 
-== How Students Use Transit
+Parents are required to pay the first month's payment for the pass as part of the student's registration fees; WIT will pay the remaining monthly payments so long as the student remains at WIT. 
+
+Students can use their transit pass throughout the school year for personal use, as well as for school field trips and activities. WIT students need to have their UTA pass with them at all times, as they may be ineligible to attend field trips if they fail to have their pass on the day of the field trip. 
+
+== Students Using Transit
+Most incoming WIT students are new to public transit; oftentimes their parents are unfamiliar with public transportation themselves. The Utah Transit Authority received one of the most prestigious awards in public transit. UTA was named Transit System of the year due to outstanding service, safety, and cleanliness. Current WIT students have expressed satisfaction with riding UTA.
+
+NOTE: Quote
+
+IMPORTANT: Quote
+
+WARNING: Quote
+
+CAUTION: Quote
+
+// icon:desktop[4x,role="red"]
+
+
+
