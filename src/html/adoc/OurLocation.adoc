@@ -14,4 +14,4 @@ The Wasatch Institute of Technology building was designed in partnership with th
 
 [[img-floorplan]]
 .Future Building Floorplan
-image::floorplan.png["Future building floorplan", 700,float="top",align="center"]
+image::floorplan.png["Future building floorplan", 700,float="left",align="left"]
