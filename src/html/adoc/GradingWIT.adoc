@@ -1,14 +1,27 @@
 = Grading at WIT
 
+
 == What is a Learning Objective?
+The Utah Core Curriculum is broken up into learning objectives. Each class is made of standards and learning objectives that define what students will learn. By fulfilling these objectives, students receive credit for the respective class that the objectives came from. 
 
 == How do Objectives Form Classes?
+Objectives are usually quite vague. For example: 
+
+Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among claim(s), counterclaims, reasons, and evidence. +
+CCSS.ELA-LITERACY.W.9-10.1.A
+
+This allows us to create classes that are unlike any class offered in a traditional school setting. We have the ability to create engaging, interactive, and interesting class situations because we are not being held back by set assignments. We take these objectives and put them together to develop sprints, which are 3 week periods of classes centered around a shared theme. This theme is determined by the objectives chosen. The objectives that are chosen can be from any Utah Core Curriculum class, and if students show mastery of these objectives, they have to potential to earn credit in a variety of classes. 
 
 == WIT's Grading Scale
 WIT grades on a numerical scale instead of assigning a letter grade to each class. The scale goes from 0-4, 0 being absolute failure, and 4 being absolute mastery. On average, a student will receive a 2, which means that they can faithfully recreate what happened in the classroom with few to no errors. It means that the student can do the work that would receive an A in a traditional school, and receive a 2. By expanding on what they have learned in the classroom, and applying it to other things that may relate, they can earn a 3. To receive a 4, a student has to show absolute mastery in the concept.
 
 == How Credit is Earned
+Credit is earned when students show mastery of objectives. Objectives that students complete are put back together from the Utah Core Curriculum classes that they were chosen from, and students receive percentages of credits for those classes. For example: If a student where to complete 10 out of 20 biology credits during the year, that student would receive 50% of a biology credit. Throughout a student's time a WIT, objectives from many classes will be covered. During that student's second year, they may fulfill another 5 biology credits and receive another 25% of a biology credit. By a student's final year, they will have completed all the objectives for the necessary classes that they need, as well as many other classes to achieve a total of 27 credits necessary to graduate. 
+
+This approach allows students to complete objectives for multiple classes by doing the same project. They may complete several biology, English, and earth systems objectives all by doing one project. They would then receive a percentage of credits from each of those classes. 
 
 == WIT Transcript 
+Every student at WIT will receive a transcript at the end of the year. This transcript outlines all the objectives that student has covered and their proficiency of those objectives. It also the percentage of credit they have received in each class those objectives came from, and their proficiency in those classes relative to the amount of objectives covered and the amount of objectives mastered. WIT's transcript gives an in depth view of how the student actually did during the year.
 
 == How to Better Your Grades
+Students have the opportunity to revise the deliverables they turn in, after receiving a grade and feedback. This allows students to see what objectives their deliverables did not cover sufficiently, and gives them an opportunity to specifically target areas that they may be struggling in. Once a student feels they have revised their deliverable to a point that they can increase their grade, they have the opportunity to resubmit their deliverable for another assessment. If the teacher finds that the deliverable is sufficient enough to increase the student's grade, they will do so. This allows students to better their grades without meaningless extra credit or busy work.
