@@ -1,0 +1,53 @@
+++++
+        <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                    </li>
+                    <li>
+                        <a href="#DemandIt">Demand for IT</a>
+                    </li>
+                    <li>
+                        <a href="#TraditionalEducation">Traditional education</a>
+                    </li>
+                    <li>
+                        <a href="#CoreValues">WIT core values</a>
+                    </li>
+                    <li>
+                        <a href="#MissionStatement">WIT mission statement</a>
+                    </li>
+                    <li>
+                        <a href="#PortraitGraduate">Portrait of a WIT graduate</a>
+                    </li>
+                    <li>
+                        <a href="#DirectorsWelcome">School directors welcome</a>
+                    </li>
+                    <li>
+                        <a href="#WitHistory">WIT's history</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /#sidebar-wrapper -->
+            <!-- Page Content -->
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                    </div>
+                </div>
+            </div>
+            <!-- /#page-content-wrapper -->
+        </div>
+        <!-- /#wrapper -->
+        <!-- jQuery -->
+        <script src="assets/js/jquery.min.js"></script>
+        <!-- Bootstrap Core JavaScript -->
+        <script src="assets/js/bootstrap.min.js"></script>
+        <!-- Menu Toggle Script -->
+        <script>
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+++++
