@@ -1,5 +1,134 @@
 = Enrollment Process and Fees
 
 == Enrollment Process
+WIT will enroll any Utah student entering 9th, 10th, 11th, or 12th grade in the 2015-2016 school year, subject available to capacity. Admission to the Wasatch Institute of Technology is not limited based on ethnicity , national origin, gender, religion, income level, creed, color, disabling condition, or proficiency in the English language. We may deny admission to any student under any of the following circumstances:
+
+* If a student has been expelled from any other public school during the preceding 12 months
+* To protect the health or safety of a current student or staff member
+* The student's admission would disqualify the school from federal funding
+
+To apply for admission to the Wasatch Institute of Technology, complete our <<EnrollNow.adoc#Enroll Now,online application>>. We're accepting applications now!
+
+=== Preferential Acceptance
+Preference for acceptance to the school (up to 5% of our total student capacity) is given to: 
+
+. Child of a parent who is currently employed full-time at WIT
+. Child of a parent who was a Founding Member of WIT
+. Sibling of a current WIT student
+
+The remaining positions at the Wasatch Institute of Technology will be filled either automatically or through an open lottery. If the number of students that have applied to WIT by the cutoff date does not exceed our remaining program, class, or grade level capacities, we will admit all of the students that have applied and continue to accept applications on a first-come, first-serve basis. If the number of applications exceeds our capacity, new WIT students will be selected for enrollment through an open lottery.
+
+=== Lottery
+The enrollment lottery will be held at the school or in a public setting on or before June 15th. All applicants and their parents are invited to attend. All applicant numbers will be drawn randomly. All applicants will be notified of their acceptance or wait list position not later than June 30th. Students accepted for admission will receive a written offer of admission. If our offer of admission is not accepted by the deadline specified therein or if the enrollment is declined, the top-listed student on our wait list will be extended and offer of admission.
+
+=== Registration Packet
+Students admitted into WIT must complete a registration packet within 30 days or prior to attending WIT, whichever comes first. The registration materials include, but are not limited to:
+
+* Student Information form
+* Medical Information and Release form
+* Immunization records
+* Copy of the student's birth certificate
+* WIT policy acceptance form
+* Copy of IEP or 504 plan for Special Education students (if applicable)
+* Economically disadvantaged forms (if applicable)
+
+If the registration materials are not received on time or if the incoming student records indicate that the student has been expelled from a public school in the preceding 12 months, the student will be removed form our list of accepted students and replaced with a student on our wait list. Under extenuating circumstances and if a written request is received prior to the registration packet deadline, an extension of time ot submit the completed registration packet may be granted by the School Director.
+
+=== Withdrawal and Transfer Information
+Students wishing to transfer from another school to the Wasatch Institute of Technology follow our regular enrollment process.
+
+Pursuant to http://le.utah.gov/code/TITLE53A/htm/53A01a050605.htm[Utah Code 53A-1a-506.5], the parent of a WIT student may withdraw the student from WIT for enrollment in another charter school or a school district by submitting to us:
+
+* On or before June 30, a notice of intent to enroll the student in the student's school of residence for the following school year
+* After June 30, a letter of acceptance for enrollment in the student's school district of residence for the following year
+* A letter of acceptance for enrollment in the student's school district of residence in the current school year
+
+Unless provisions have previously been made for enrollment in another school, WIT will immediately notify the district of residence, which shall enroll the student in the resident district and take such additional steps as may be necessary to ensure compliance with law governing school attendance. 
 
 == Fees
+Our school fees are approved annually by our Board of Directors and may include fees for registration, textbooks, textbook and equipment deposits, school supplies, activity cards, extracurricular activities, lockers, lab and shop fees, gym and towel fees, costs for uniforms and accessories, field trips and assembly fees, costs for elective class trips, costs of musical instruments used ins school classes or activities, or materials and supplies needed for specific elective courses.
+
+Our 2015-2016 school fees are:
+[cols="2*"]
+|===
+|Student activity (SCOP)
+|$30
+
+|Registration^1^
+|$25
+
+|Technology
+|$25
+
+|Materials and supplies
+|$50
+
+|Transportation^1^
+|One month's cost of http://www.rideuta.com/mc/?page=RidingUTA-PayingYourFare-Fares[current UTA student 30-day premium pass]
+|===
+[small]#^1^These fees are non-refundable. The other fees are refundable for withdrawing students through 31 Aug of the current school year. No refunds are given after 1 Sep. UTA student passes are the property of WIT, non-transferrable, and may be canceled at any time. Fees must be paid for in full and all registration paperwork completed before a student's spot at WIT is secure.#
+
+=== Extracurricular Fees
+Fees may be charged for extracurricular activities, since participation is voluntary and does not affect a student's grade or ability to participate fully in any course taught during the regular school day. Extracurricular fees are not eligible for a fee waiver (see http://www.rules.utah.gov/publicat/code/r277/r277-407.htm#T4[R277-407-4]). As a school, our goal is for all extracurricular activities to be as financially self-sufficient as possible, supported either by student government funds, outside donations, fund raising, fees, etc.
+
+=== Fee Waivers
+To ensure the participation of all students, fees are waived for eligible students for any required class, program, or activity held during the regular school hours that affects the student's grade. Fee waivers are not available for extracurricular activities. The process of applying for fee waivers will be handled confidentially and without discrimination. Only school staff with a need and right to know should be aware of student fee waiver status. Student aides or parent volunteers will never assist in the fee waiver process.
+
+Fees will be waived for the following students:
+
+* Students eligible for free school lunch
+* Students who are in state custody or foster care
+* Students whose families are receiving public assistance through the Family Employment Program (FEP) from the Utah Department of Workforce Services
+* Students who are receiving Supplemental Security Income (SSI)
+* Students whose families are financially unable to pay because of exceptional financial burdens beyond the family’s control, such as job loss, major illness, or other substantial loss of income beyond your control; these determinations are made on a case-by-case by the Core Administrative Team
+
+Students who are financially unable to pay a required fee may be eligible for a partial or full fee waiver. For a student to be eligible for a fee waiver:
+
+* The student’s parent/guardian will complete the Fee Waiver Application (Grades 7-12) from the Utah State Office of Education and submit the form to the school office. As soon as the completed forms have been submitted, the fee requirement will be suspended until a final decision has been reached about the student’s eligibility for fee waivers.
+* The Core Administrative Team will review the fee waiver and approve/deny the fee waiver application.
+* The parent/guardian will be notified in writing of the decision through the Fee Waiver Decision and Appeal form. If denied, the parent/guardian will be made aware of the possibility of performing community service in lieu of payment of the fee through the Community Service Obligations document.
+* The parent/guardian may appeal the denial of the fee waiver by submitting a completed appeal form within 10 days of receipt of the Fee Waiver Decision form. This allows the parent/guardian to meet with the Core Administrative Team to appeal the decision. Once the appeal is submitted, the fee requirement remains suspended until a final decision has been reached regarding the appeal.
+
+Once the fee waiver decision is finalized by acceptance of the fee waiver, agreeing to complete the community service obligation, or through the appeals process, all fee waiver documentation shall be destroyed. Schools may transfer fee waiver eligibility information to other schools to which students advance or transfer. Fee waiver eligibility documentation is NOT required annually but may be required at any time by the school, or a parent may ask for review for good cause.
+
+The fee wavier forms can be found on the http://www.schools.utah.gov/law/Forms.aspx[Utah State Office of Education’s website.]
+
+=== Community Service
+To further build a high work ethic in the student and to satisfy Utah Code http://le.utah.gov/~code/TITLE53A/htm/53A12_010300.htm[53A-12-103] Waiver of Fees, the school will provide a variety of alternatives for satisfying the fee requirement, including:
+
+* Tutorial assistance to other students
+* Assistance before or after school to teachers and other school personnel on school related matters
+* General community or home service
+* Good-faith participation in fundraising activities that involve all students associated with the activity
+* Other similar acts
+
+If the student is able to provide such service, the guidelines in the http://www.schools.utah.gov/law/Forms/K12Obligations.aspx[Community Service Obligations] document from the Utah State Office of Education will be followed:
+
+* Students may not provide community service to their own employers
+* Students may not fulfill a community service requirement by working for a commercial establishment other than a facility such as a nursing home or hospital where volunteer services are commonly provided
+* Community service requirements must be appropriate to the age, physical condition, and maturity of the student
+* Community service must be conducted in such a way that students are not subjected to embarrassment, ridicule, or humiliation
+* Community service must not provide direct private benefit to school employees or their families.
+* Community service requirements must avoid excessive burdens on students and families and give proper consideration to a student’s educational and transportation needs and other responsibilities
+* Community service hour requirements will be computed using a formula based upon not less than the minimum hourly wage
+* Community service students will not be considered to be employees of those for whom they provide the service, and no money will be paid to the students or to the school in return for community service
+* Regular employees who work in places where students perform community service may not be replaced nor may their hours be reduced as a result of the students’ community service activities
+
+If the student and parent/guardian accept a community service obligation in lieu of payment of the fee, the http://www.schools.utah.gov/law/Forms/K12AppealRights.aspx[Community Service Assignment] form will be filled out for the student, specifically indicating the details of the community service assignment. The community service assignment can be appealed through the http://www.schools.utah.gov/law/Forms/K12Appeal.aspx[Appeal of Community Service form.]
+
+=== Fee Waiver Exclusions
+Certain fees will not be waived, such as:
+
+* Early college/concurrent enrollment class fees, supplies, and textbooks
+* Charges related to the Nation School Lunch Program
+* Class rings
+* Yearbooks
+* School pictures
+* Letter jackets
+* Similar items
+* Replacement/repair of lost or damaged school property
+* Advanced Placement or similar college exam fees
+* Extracurricular SCOPs, such as the ski program or day trips
+
+=== Penalty for Non-Payment
+WIT cannot withhold, reduce, or enhance grades or credit, or withhold grades, credit, report cards, transcripts, or diplomas to enforce the payment of fees. However, we may withhold official copies of report cards, transcripts, or diplomas if fines or other charges for lost or damaged school property have not been resolved.
