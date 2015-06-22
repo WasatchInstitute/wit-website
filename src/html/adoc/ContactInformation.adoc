@@ -1,7 +1,25 @@
 = Contact Us
 
 == Hours of Operation
+School Hours - 8:30-3:30 +
+Office Hours - 7:30-4:30
 
 == Location
+120 W Vine St. #200 Murray, UT 84107
 
 == Contact Information
+Phone - 801-948-3047 +
+Fax - 801-639-9320
+
+Attendance issues: attendance@wasatchinstitute.net +
+General inquiries: info@wasatchinstitute.net
+
+Contact our staff: +
+David: david.moss@wasatchinstitute.net +
+Leif: leif.nelson@wasatchinstitute.net +
+Bill: bill.clark@wasatchinstitute.net +
+Cory: cory.dixon@wasatchinstitute.net +
+Gail: gail@wasatchinstitute.net
+
+== Enroll Now
+If you are interested in the Wasatch Institute of Technology and would like to enroll, fill out our <<EnrollNow.adoc#Enroll Now,online application>> and we will get back to you shortly.

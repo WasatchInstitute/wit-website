@@ -1,15 +1,43 @@
 = Is WIT For Me?
+:figure-caption!:
+
+== Computer Science in Other Sectors
+Computer science is not just about working for IT companies as big data, software, and the Internet are being integrated into businesses and products throughout society. The knowledge and skills learned from studying computer science prepare students for careers in a variety of sectors, including:
+
+* *Information technology* — designing security software and hardware systems or developing mobile communication devices, networks and applications
+* *Manufacturing* — designing and using simulations to improve products
+* *Healthcare* — exploring the vast quantities of data produced by new DNA sequencing techniques, developing new remote monitoring systems for patients, or designing security and privacy for medical records
+* *Retail* — analyzing data to predict trends and improve inventory management
+* *Weather forecasting* — developing and interpreting models that predict the behavior of hurricanes
+* *The arts* — designing new special effects for movies or composing digital music
+* *Financial services* — designing and overseeing automated trading services
+
+[[img-ComputingOccupations]]
+image::ITSector.png["Computing Occupations by Sector", 600,float="top",align="Center"]
+
+<<<
 
 == The Perfect WIT Student
 
 == Girls in IT
-Workers in IT are overwhelmingly male. However, IT is one of the only places in which the wage gap between white female and male employees with the same qualifications isn't $0.77 to $1. So, you may ask what WIT's stance is on females. While our student body does not represent it, we want female students to get into technology. Even while they aren't typically pushed towards STEM fields, they're just as intelligent as their male peers. We want female students, and employers want female employees.
+Women are woefully underrepresented in the technology industry–less than 10% of American engineers are female. The same is true for technology education in Utah, where less than 30% of the students were female in the 2010-2011 school year. Nationally, the percentage of women completing undergraduate degrees in computer science has declined sharply in the last two decades, from 37% in 1984 to only 20% in 1999 (Source: eWeek)
+[[img-GirlsCS]]
+.SLCC Computer Science Enrollment By Gender
+image::GirlsCS.png["Girls in CS", 300,float="Right",align="Right"]
+The number of female students in the Computer Science program at Salt Lake Community College is shrinking–from 16% in in 2003-2004 to just 7% in 2007-2008. What is going on? The reasons include:
+
+* A serious deficiency in educational resources
+* Social pressure resulting from the negative social image of scientists and engineers
+* A lack of encouragement (coupled with active discouragement
+* The dearth of out-of-school science, engineering and technology experiences for girls
+* The lack of women role models in the profession
+
+As a school, we wish to increase the number of females involved in information technology by reducing girls’ stereotypes about people who are good in math and science and increase girls’ interest in and commitment to careers in technology, math, science, and engineering.
 
 == What to Expect
 The day starts at 8:30 with a fifteen-minute advisory, and then classes begin (including SCOPs). Lunch is from 11:30-12:15, followed by a 15 minute reading session. Classes resume until 3:15, with afternoon advisory and the day ends at 3:30.
 
-Starting at WIT, you should know that you need to take charge of your actions and be very responsible. The teachers won't nag you to get your work in if you don't do it. You should expect freedom, but you should also expect to be held accountable for your actions and face the consequences (i.e. less time at luch, not picking your classes, etc.).
-
+WIT curriculum is very fast paced due to our sprint length. Expect to work or expect to fail.
 == Student Supplies
 
 == Getting to WIT
