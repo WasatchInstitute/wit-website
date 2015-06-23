@@ -1,6 +1,31 @@
 = Our Staff
+:sectanchors:
 
-== Staff Bios and Contact Information
+include::src/html/adoc/navbar.adoc[]
+
+
+++++
+       <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="#_staff_bios">Staff bios</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_teaching_team_responsibilities">Teaching team responsibilities</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_board_of_directors">Board of Directors</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_working_at_wit">Working at WIT</a>
+                    </li>
+                </ul>
+            </div>
+++++
+
+== Staff Bios
 
 === Gail Schimmelpfennig
 image::Gail.jpg["Gail, our English teacher", 200,float="right",align="right"]
@@ -39,3 +64,9 @@ Leif is our business manager and vice principal, and additionally teaches music,
 Leif loves music, and he has worked as a retail manager at a music store. Additionally, he has worked in financial services, business, and manufacturing.
 
 Contact Leif at: leif.nelson@wasatchinstitute.net
+
+== Teaching Team Responsibilities 
+
+== Board of Directors
+
+== Working at WIT

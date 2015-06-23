@@ -1,1 +1,3 @@
 = Internships
+
+include::src/html/adoc/navbar.adoc[]

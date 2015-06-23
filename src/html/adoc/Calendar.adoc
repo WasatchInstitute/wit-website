@@ -1,5 +1,7 @@
 = Calendar and Events
 
+include::src/html/adoc/navbar.adoc[]
+
 == Calendar
 ++++
 <!-- Calendar -->

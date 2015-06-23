@@ -1,4 +1,5 @@
 = Our Mission
+:sectanchors:
 
 include::src/html/adoc/navbar.adoc[]
 
@@ -8,27 +9,19 @@ include::src/html/adoc/navbar.adoc[]
             <div id="sidebar-wrapper">
                 <ul class="sidebar-nav">
                     <li class="sidebar-brand">
+                        <a href="#_demand_for_it">Demand for IT</a>
                     </li>
-                    <li>
-                        <a href="#DemandIt">Demand for IT</a>
+                    <li class="sidebar-brand">
+                        <a href="#_wit_mission_and_values">WIT mission and values</a>
                     </li>
-                    <li>
-                        <a href="#TraditionalEducation">Traditional education</a>
+                    <li class="sidebar-brand">
+                        <a href="#_portrait_of_a_wit_graduate">Portrait of a WIT graduate</a>
                     </li>
-                    <li>
-                        <a href="#CoreValues">WIT core values</a>
+                    <li class="sidebar-brand">
+                        <a href="#_school_director_s_welcome">School Director's welcome</a>
                     </li>
-                    <li>
-                        <a href="#MissionStatement">WIT mission statement</a>
-                    </li>
-                    <li>
-                        <a href="#PortraitGraduate">Portrait of a WIT graduate</a>
-                    </li>
-                    <li>
-                        <a href="#DirectorsWelcome">School directors welcome</a>
-                    </li>
-                    <li>
-                        <a href="#WitHistory">WIT's history</a>
+                    <li class="sidebar-brand">
+                        <a href="#_wit_s_history">WIT's history</a>
                     </li>
                 </ul>
             </div>

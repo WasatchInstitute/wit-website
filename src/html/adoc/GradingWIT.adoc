@@ -1,5 +1,35 @@
 = Grading at WIT
+:sectanchors:
 
+include::src/html/adoc/navbar.adoc[]
+
+
+++++
+       <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="#_what_is_a_learning_objective">What is a learning objective?</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_how_do_objectives_form_classes">How do objectives form classes?</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_wit_s_grading_scale">WIT's grading scale</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_how_credit_is_earned">How credit is earned</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_wit_transcript">WIT transcript</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_how_to_better_your_grades">How to better your grades</a>
+                    </li>
+                </ul>
+            </div>
+++++
 
 == What is a Learning Objective?
 The Utah Core Curriculum is broken up into learning objectives. Each class is made of standards and learning objectives that define what students will learn. By fulfilling these objectives, students receive credit for the respective class that the objectives came from. 

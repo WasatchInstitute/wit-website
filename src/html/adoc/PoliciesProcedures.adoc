@@ -1,30 +1,60 @@
 = Policies and Procedures
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]
+
+++++
+       <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="#_wit_code_of_conduct">WIT code of conduct</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_wit_dress_code">WIT dress code</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_electronics_use">Electronics use</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_food_and_drink">Food and drink</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_hygiene">Hygiene</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_language">Language</a>
+                    </li>
+                     <li class="sidebar-brand">
+                        <a href="#_public_displays_of_affection">Public displays of affection</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_drugs">Drugs</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_weapons">Weapons</a>
+                    </li>
+                     <li class="sidebar-brand">
+                        <a href="#_tools">Tools</a>
+                    </li>
+                </ul>
+            </div>
+++++
 
 == WIT Code of Conduct
 We think beyond ourselves. 
-
 We treat the school and it’s people with kindness and respect. 
-
 We are honest, can be trusted, and trust others. 
-
 We do the right things for the right reasons. 
-
 We are ethical, moral, and follow the law. 
-
 We do our best, work hard, and have fun. 
-
 We are innovative, passionate, focused, creative, and resourceful. 
-
 We are responsible and don’t make up excuses. 
-
 We work together as a team and help each other. 
-
 We are ready to learn. 
-
 We behave well to maximize our freedom. 
-
 We clean up after ourselves and others. 
-
 We talk when appropriate.
 
 == WIT Dress Code

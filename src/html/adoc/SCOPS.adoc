@@ -1,6 +1,24 @@
 = SCOPS
+:sectanchors:
 
-== What are SCOPS?
+include::src/html/adoc/navbar.adoc[]
+
+++++
+       <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="#_what_are_scops">What are SCOPs?</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_the_scop_proposal">The SCOP proposal</a>
+                    </li>
+                </ul>
+            </div>
+++++
+
+== What are SCOPs?
 A Student Community of Practice (SCOP) is a group that comes together because of their passion or interest around a particular topic, technology, idea, approach, or vision. These SCOPs allow individuals a chance to explore areas of interest in an open, participatory, and curricularly safe way. To foster creativity and freedom to try new things, students are generally not graded in their SCOPs; however, attendance is taken. The ideas for a SCOP may come from a student, as long as a proposal detailing which common core standards are met. As part of our regular program of instruction, all students, staff, and many volunteers participate in SCOPs throughout the school year daily during the first and last period of the day on Tuesdays, Thursdays, and Fridays, and during the first two periods of the day on Mondays and Wednesdays.
 
 The genius of the SCOPs is the flexibility and freedom they afford students, their small size, and how they will solidify the school community. Freed from normal curricular constraints, SCOPs are an outlet for students to determine what and how they explore new things. The large number and diversity of these SCOPs should provide ample opportunities for the mind, the body, and the spirit. Some sample SCOPs could be: 
@@ -49,5 +67,3 @@ Students need to schedule SCOP classes when they are available, and cannot choos
 
 == The SCOP Proposal 
 SCOPs are ideally student driven. Students create a SCOP proposal that outlines the purpose of the SCOP, the interest in the SCOP, the material covered in the SCOP, and the objectives fulfilled by the SCOP. That is then delivered to the student’s advisor, who follows through with getting Administrative approval, as well as insurance approval. If the SCOP proposal is not quite the quality needed to get approval, the advisor will inform the student that revision is needed and can provide support to insure that the SCOP gets approved. Once the SCOP proposal has received administrative and insurance approval, the student will be informed, and the class can begin. Students should be fully prepared to start the SCOP even before it has been approved, so that the SCOP can start immediately. The teaching team can then help make sure the SCOP appears on the schedule, and that other students can sign up for the class.
-
-== Current SCOPS

@@ -1,6 +1,28 @@
 = Transportation
 :figure-caption!:
 :icons: font
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]
+
+
+++++
+       <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="#_current_transit_schedules">Current transit schedules</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_transit_pass_information">Transit pass information</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_students_using_transit">Students using transit</a>
+                    </li>
+                </ul>
+            </div>
+++++
 
 == Current Transit Schedules
 [[img-TRAX]]
