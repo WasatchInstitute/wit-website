@@ -76,14 +76,25 @@
 				 classpath="${lib.dir}/custom/asciidoctor-ant-1.5.2-SNAPSHOT.jar" />
 
 		<asciidoctor:convert sourceDirectory="${src.html.dir}" outputDirectory="${target.html.dir}" 
-							 backend="html5" imagesDir="src/html/adoc/assets/imgs" embedAssets="true" >
+							 backend="html5" imagesDir=	"src/html/adoc/assets/imgs" embedAssets="true" >
 			<!--  <attribute key="title" value="Asciidoc Ant"/> -->
 		</asciidoctor:convert>
 		
 		<!-- copy all asset files into target/public_html -->
+		<echo message="Copying HTML asset files..." />
 		<copy todir="${target.html.asset.dir}">
 		    <fileset dir="${src.html.asset.dir}"/>
 	  	</copy>
+	  	
+	  	<!-- Insert Bootstrap navbar data into HTML head -->
+	  	<echo message="Inserting Bootstrap navbar into HTML files..." />
+		<loadresource property="bootstrap.navbar.contents">
+			<fileset file="${src.html.dir}/navbar.html" />
+		</loadresource>
+	
+		<replaceregexp replace="${bootstrap.navbar.contents}" flags="g" match='\&lt;head\&gt;'>
+ 			<fileset dir="${target.html.dir}" />
+		</replaceregexp>
     </target>
 	
 <!-- ==================================================
