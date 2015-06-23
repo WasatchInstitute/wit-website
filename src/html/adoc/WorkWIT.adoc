@@ -1,0 +1,158 @@
+= Work at WIT
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]
+
+++++
+       <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="#_i_can_teach">I can teach?</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_teaching_at_wit">Teaching at WIT</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_open_positions">Open positions</a>
+                    </li>
+                </ul>
+            </div>
+++++
+
+== I Can Teach?
+Imagine going to work and finding yourself surrounded by talented and motivated people who are passionate about their interests, yet aren’t arrogant or overbearing. In a friendly environment, you work creatively as a team to help each other do the right things for the right reasons, taking the time to do the job well. You and your teammates have a high moral and ethical character and are willing to do whatever it takes to make a difference in the lives of the next generation. And you do it all while wearing jeans.
+
+This may sound like a dream, but this is the type of environment we are working to create at the Wasatch Institute of Technology. We want our employees to be excited to come to work, work hard and have a good time while they’re here, and still have life left in them to lead a fulfilling home life.
+
+=== What makes a good teacher?
+The National Council on Teacher Quality recently released a report entitled http://www.nctq.org/nctq/images/nctq_io.pdf[“Increasing the Odds: How Good Policies Can Yield Better Teachers“].  Surprisingly, they found that:
+
+* Masters degrees do not make teachers more effective
+* Teacher effectiveness continues to improve for four or five years, but after that initial learning curve, there isn’t much evidence that teachers become more effective each year they are in the classroom
+* Academic caliber is the most pronounced measurable attribute of an effective teacher
+* An education degree has no impact or a negative impact on student standardized test performance
+* Teacher certification status has very little impact on student achievement
+* There is insufficient evidence to support hiring policies that give a teacher’s race primary consideration
+* A strong preparation in math and science teachers makes these teachers more effective
+* A teacher’s level of literacy as measured by vocabulary and other standardized tests affects student achievement more than any other measurable teacher attribute
+* Highly literate teachers improve student achievement .2 to .4 grade levels more than teachers who were the least literate
+* Teachers with strong academic credentials are more likely to produce greater student learning gains; however, these same teachers may be quicker to leave the profession
+
+=== Competency-based licensure
+If we really are going to transform education, we have to significantly change how we do things—beginning with the hiring process. For these and other reasons, the Wasatch Institute of Technology will predominantly opt for competency-based licensure for our teaching professionals as allowed under Utah Administrative Rule http://www.rules.utah.gov/publicat/code/r277/r277-520.htm#E9[R277-520-9].
+
+Under competency-based licensure, any individual can be granted a school-specific teaching certificate if the following requirements are met:
+
+[cols="2*"]
+|===
+
+| Subject Area
+| Requirement
+
+| Core areas (English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography)
+a| Clear background check
+* A bachelor’s degree (any area)
+* A high level of competency as determined by completion of an academic major, a graduate degree, course work equivalent to an undergraduate academic major, advanced certification or credentialing, results or scores of a rigorous state core academic subject test
+
+| Any other area
+a|
+* Clear background check
+* A bachelors degree (any area) with 2 years of relevant work experience, an associates degree (any area) with 2 years of relevant experience, or 6 years of relevant work experience or skill certification(s)
+* Skills, talents or abilities specific to the teaching assignment
+
+|===
+
+We are excited to make teaching a possibility for so many more people!
+
+=== Existing teachers
+Our choice to pursue competency-based licensure will not preclude individuals who have a current educator license from working at WIT–so long as they are deemed highly qualified under No Child Left Behind. To be highly qualified, a teacher must have:
+
+. A bachelor’s degree,
+. Full state certification or licensure
+. Prove that they know each subject they teach
+
+== Teaching At WIT
+Teachers are bound together in small, interdisciplinary, self-organizing, and accountable teams known as Teaching Teams. which consists of these members:
+
+* Computer science teacher
+* English teacher
+* Math teacher
+* Science teacher
+* Study Hall teacher
+* Teacher Achievement Specialist (shared)
+* Counselor (shared)
+* Special Education teacher/paraprofessional (shared)
+
+Collectively, these team members are responsible for all subject areas.
+
+=== How our teachers work
+During sprint planning, team members select the most important learning objectives to cover in the upcoming sprint. When possible, the team determines a theme for the sprint and identifies ways to integrate the subject areas. Since teachers would have previously estimated the amount of class time required to cover each learning objective, the team negotiates the teaching schedule and class times for the coming sprint.
+
+During the sprint, Teaching Team members facilitate learning sessions pertaining to the sprint’s learning objectives. These sessions should engage the students in discovering the ideas associated with each objective and the connections between objectives as they apply what they have learned to accomplish meaningful work. Frequently this will be done through problem-based learning.
+
+Every day, the Teaching Team meets together for the Daily Scrum. Each team member reports what they accomplished yesterday and commits to what they will do today. When trouble arises, the team can adjust priorities, rebalance sprint tasks, solicit help, and identify and remove any impediments they may encounter.
+
+When team members are not leading learning sessions, they may be working with students in Study Hall, engaged in planning, assessing student portfolio artifacts, or participating in Teacher Communities of Practice (TCOP). In Subject Area TCOPs, the teachers across Teaching Teams join together for grading, brainstorming, discussion, readings, joint planning, curriculum development, problem solving, etc. Interest TCOPs are groups of teachers crossing team and subject area boundaries that meet together because of their passion or interest around a particular topic, technology, idea, approach, or vision.
+
+The Teaching Team ends its sprint with a sprint retrospective. Here the team identifies what went well during the sprint, what didn’t go well during the sprint, and what can be done better next sprint. They also identify what they should continue doing and stop doing. Answers to these questions are added to the master retrospective list. Given the master list in its entirety, the team will collectively commit to work on one or more of the top items on the list in the coming sprint. How well the team did on these items will be evaluated at the next sprint retrospective.
+
+The Teaching Team members are the primary participants in the sprint retrospective, but other stakeholders may be invited to participate, such as a student presenting an exceptional portfolio artifact. When students do not adequately achieve mastery of a given learning objective, subsequent strengthening activities can be planned in an upcoming sprint.
+
+Typically on a monthly basis, the Teacher Achievement Specialist will hold a personal management interview with each member of his Teaching Teams to see how they are doing, resolve concerns, maintain accountability, and empower the employee to fulfill their responsibilities. This interview begins by following up on recent assignments and reviewing the teacher’s efforts on the master retrospective list. The remainder of the interview varies depending on circumstances, but may include: discussion and resolution of administrative or organizational problems; training in specific skills; solving interpersonal problems; discussing what is happening in the organization; identifying individual and organizational needs; and discussion of personal problems as appropriate. The interview ends by reviewing assignments that were made and ensuring that they are mutually understood.
+
+=== Supporting teachers
+_“New teachers are expected to assume a full schedule of classes, create their own lesson plans, and develop teaching techniques and classroom-management strategies in relative isolation. They are also expected to learn quickly the administrative ins and outs of the job, from taking attendance and communicating with parents to navigating the school’s computer network and finding the faculty bathrooms. The result: New teachers must weather a frazzling first year that many veterans come to view as a rite of passage.  It’s also a recipe for early burnout.“_
+
+We don’t put lawyers fresh out of law school on their first case by themselves, nor do we trust doctors fresh out of medical school to practice solo–yet look what happens to first year teachers! No wonder so many educators leave the profession within their first five years of teaching!
+
+In September 2004, Richard Ingersoll found that beginning teachers who were provided with mentors from the same subject field and who participated in collective induction activities, such as planning and collaboration with other teachers, were less likely to move to other schools and less likely to leave the teaching occupation after their first year of teaching.
+
+The Wasatch Institute of Technology plans to implement various strategies and practices to help retain new teachers and further develop our existing ones, such as:
+
+* *Mentoring and teamwork*. Every teacher works intimately with fellow Teaching Team members. At the beginning of a sprint, the Teaching Team determines the learning objectives to be covered in the sprint. They then collaborate to plan and carry out interdisciplinary activities throughout the sprint. Each day, the team meets for the daily standup to identify and mitigate any obstacles that prevent them from achieving all of their sprint objectives. At the end of the sprint, the team meets in the sprint retrospective to discuss how the process went and what can be improved. This Agile process, with its team focus and shared responsibility, will allow mentoring to occur naturally through friendship, collegiality, team teaching, coaching, and counseling within the Teaching Team. Additionally, team members will share office space to provide both access to and collaboration with colleagues on the same team.
+* *Subject Area Teacher Communities of Practice*. Teachers will meet regularly, typically bi weekly, with their subject-area counterparts across Teaching Teams to share their developed curriculum, explore the subject area’s learning objectives, and assess student work. Since each Teaching Team has a different focus, curriculum developed by one team can be used by another. Thus, we work collaboratively to better the wheel, instead of everyone in isolation independently re-inventing it.
+* *Interest Teacher Communities of Practice*. These “similar interest” TCOPs will likely be formed around relevant teaching topics that cross discipline and Teaching Team boundaries, such as active learning, assessment, or student learning styles. These TCOPs typically meet monthly.
+* *Choice of sprint learning objectives*. Individual team members have a strong voice in which learning objectives they are assigned for a given sprint, thus balancing variety with practicality.
+* *Preparation time*. All teachers will have approximately 15 hours per week in non-teaching time. Teachers are able to participate together in TCOPs during the day since at any point in time one member of each Teaching Team is not teaching.
+* *Curriculum repository*. Teachers store all curriculum materials in Pennant; this allows teachers to access each other’s lesson plans, activities, homework/lab activities, preparation materials, and our master list of learning objectives.
+* *Team teaching*. Given the breadth of subject areas we will be covering in the curriculum, periodic team teaching and class swapping will be encouraged and facilitated to allow the best possible individual to teach a given subject. This team teaching may be within a Teaching Team, or may cross Teaching Team boundaries.
+** As an example, consider that Teacher A from Teaching Team #1 is a SQL     expert where Teacher B from Teaching Team #2 is an HTML expert. During the TCOP meeting, these two teachers decide to work together. Teacher B will teach HTML to both teams #1 and #2 while Teacher A will teach SQL to both teams #1 and #2. Ideally, the teacher unfamiliar with the topic(s) will attend the sessions where the other teacher is teaching to increase their own knowledge base. Thus, the primary focus is that students have the best possible person teaching the topic, while the secondary focus is to broaden the knowledge base of our teachers.
+* *Student Communities of Practice*. Teachers will be involved as advisors for one or more Student Communities of Practice.
+* *Outside feedback*. We plan to regularly solicit outside feedback from key stakeholders to help each teacher reflect on their strengths and weaknesses and set personal goals. This feedback could come from students, parents, or even outside evaluators that conducted a classroom evaluation. This feedback will be used in the regular personal management interviews the Teacher Achievement Specialist conducts with each individual member of the Teaching Team.
+* *Outside development*. Each Teaching Team will be given professional development funds as part of their team’s budget. It will be up to each Teaching Team to determine how to best employ these funds. Each recipient of these funds will be required to, in some fashion, share what was learned with the larger school community prior to all funds being     released.
+* *Sabbatical*. Teachers with a history at WIT may be eligible for a sabbatical, which can range from a month to a year.
+
+=== Professional development
+In a nutshell, the purpose of professional development is to improve professional and personal competence. Keeping abreast of new technology and practices can help us prioritize which new skills and knowledge we should develop. Given the relentless pace of change in technology, where one’s knowledge gained only three years ago is obsolete, outdated, or deprecated, professional development is absolutely critical for technologists. The same holds true for professionals in nearly all subject areas.
+
+The problem with professional development has always been one of time. Normally, that time (and often the associated expense) is taken from the employee’s personal life. Since it benefits both the employee and the employer, professional development should be a joint venture. For an employer to achieve the maximum benefit from their employees, professional development can no longer been seen as a single event that occurs on a specific day; rather, it must be ongoing, experiential, collaborative, closely linked to the day-to-day demands of the job, and become part of the daily work life.
+
+A review of well-designed studies found that teachers who received substantial professional development — an average of 49 hours on specific areas of practice across the studies reviewed — boosted their students’ achievement by more than 20 percentile points on average. Recent research has also made clear both the qualities and impact of successful professional development, which differs substantially from the “hit-and-run” workshops typically held for teachers. Teacher learning that enhances student learning is:
+
+* Focused on teaching specific students and specific curricular content
+* Anchored by attention to students’ thinking and learning progress in relation to curricular goals, teaching strategies, and formative assessments
+* Embedded in long-term collaborative teacher planning, along with observation and analysis of classroom practice
+
+The Wasatch Institute of Technology plans to facilitate, encourage, and support this type of meaningful and quality professional development so all of our employees are at the top of their game.
+
+== Open Positions
+WIT is looking for highly-skilled employees that embody these attributes:
+
+* *High-achieving*:  The individual has a history of success no matter what the endeavor
+* *Responsible*:  Instead of blaming others or circumstances, the individual takes full responsibility for achieving a positive outcome
+* *Critical thinker*: The individual reflects about the linkages between cause and effect instead of simply reacting to the effect
+* *Organized*: The individual is able to juggle multiple projects and tasks successfully
+* *Motivating*: The individual is able to influence and motivate others to action, as evidenced by effective leadership in extracurricular activities such as student-run organizations or athletic teams
+* *Respectful*: The individual assumes the best about people, especially people in low-income communities
+* *Share the goals of the organization*: The individual wants to work to fulfill the school’s mission
+
+At the Wasatch Institute of Technology, we all must work together and do whatever it takes to get the job done well. None of us can hide behind job titles or pull the “it’s not my job” card—we’ll all take turns unclogging toilets.
+
+We are currently adding two positions to the WIT family for the 2015-16 school year. The first is an outstanding and passionate individual that can teach social studies (specifically US History, World Civilizations, US Government, and Geography)… and “something else”. Our second position is for an individual who can teach science and possibly something else. “Something else” could be fine art, theatre arts, music, physical education, and/or a foreign language. This does not mean you have to be endorsed in this “something else” area, but you do need to have a passion and interest in the area.
+
+=== How to apply
+To apply for any position at the Wasatch Institute of Technology, first carefully review all of the information on the “work at WIT” page. If WIT seems a good fit for you, send an interesting letter explaining your interest in WIT, what position(s) you are interested in and why, and how you would be a great fit for WIT. Email this sincere letter and your resume (formatted how you wish) to david.moss@wasatchinstitute.net. Boring letters will be deleted. If your letter is interesting enough, we’ll meet in person to chat more about the position and the possibility of you working at WIT.
+
+We’d also recommend attending an upcoming WIT informational meeting (see Calendar & Events for dates and times). This will give you a chance to meet some of the school staff, our students, tour the facility, and get answers to any questions you may still have about WIT.

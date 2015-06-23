@@ -15,95 +15,105 @@ include::src/html/adoc/navbar.adoc[]
                         <a href="#_wit_dress_code">WIT dress code</a>
                     </li>
                     <li class="sidebar-brand">
-                        <a href="#_electronics_use">Electronics use</a>
+                        <a href="#_possible_suspension_or_expulsion">Possible suspension or expulsion</a>
                     </li>
                     <li class="sidebar-brand">
-                        <a href="#_food_and_drink">Food and drink</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_hygiene">Hygiene</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_language">Language</a>
-                    </li>
-                     <li class="sidebar-brand">
-                        <a href="#_public_displays_of_affection">Public displays of affection</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_drugs">Drugs</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_weapons">Weapons</a>
-                    </li>
-                     <li class="sidebar-brand">
-                        <a href="#_tools">Tools</a>
+                        <a href="#_automatic_suspension_or_expulsion">Automatic suspension or expulsion</a>
                     </li>
                 </ul>
             </div>
 ++++
 
 == WIT Code of Conduct
-We think beyond ourselves. 
-We treat the school and it’s people with kindness and respect. 
-We are honest, can be trusted, and trust others. 
-We do the right things for the right reasons. 
-We are ethical, moral, and follow the law. 
-We do our best, work hard, and have fun. 
-We are innovative, passionate, focused, creative, and resourceful. 
-We are responsible and don’t make up excuses. 
-We work together as a team and help each other. 
-We are ready to learn. 
-We behave well to maximize our freedom. 
-We clean up after ourselves and others. 
-We talk when appropriate.
+Our school strives to create an environment conductive to learning that is free from abuse, violence, intimidation and harassment, and where everyone is treated with mutual respect. Behaviors and acts that are not conducive to this environment are prohibited on school property, at a school related or sponsored event, or while the school employee or student is traveling to or from these locations.
 
-== WIT Dress Code
-We respect ourselves and others with the way we dress. 
+* We think beyond ourselves. 
+* We treat the school and it’s people with kindness and respect. 
+* We are honest, can be trusted, and trust others. 
+* We do the right things for the right reasons. 
+* We are ethical, moral, and follow the law. 
+* We do our best, work hard, and have fun. 
+* We are innovative, passionate, focused, creative, and resourceful. 
+* We are responsible and don’t make up excuses. 
+* We work together as a team and help each other. 
+* We are ready to learn. 
+* We behave well to maximize our freedom. 
+* We clean up after ourselves and others. 
+* We talk when appropriate.
 
-Our clothes won’t embarrass, offend, or distract others. 
+*_Electronics Use_* +
+Electronics may be used in class if they are not a distraction. +
+Electronics will be put away when the teacher asks. +
+Music may be listened to during individual or group work if it is not a distraction to others. +
+One ear must be free of ear buds when working with others.
 
-Our clothing is activity appropriate. 
-
-Our clothes fit. 
-
-We wear clothes underneath sheer clothing or clothing with holes. 
-
-Our underwear isn't seen.
-
-== Electronics Use
-Electronics may be used in class if they are not a distraction. 
-
-Electronics will be put away when the teacher asks. 
-
-Music may be listened to during individual or group work if it is not a distraction to others. One ear must be free of ear buds when working with others.
-
-== Food and Drink
+*_Food and Drink_* +
 Students may eat and drink in class *IF*… 
 
 * A teacher grants permission. 
-
 * It is not a distraction to others. 
-
 * Drinks are in closed containers 
-
 * Gum and Candy isn’t seen or heard. 
-
 * All messes are cleaned up completely
 
-== Hygiene
+*_Hygiene_* +
 We come to school clean.
 
-== Language
+*_Language_* +
 We use verbal and nonverbal language that will not offend those around us. We refrain from continuing to use verbal and nonverbal language that offends those around us if we have been asked.
 
-== Public Displays of Affection
+*_Public Displays of Affection_* +
 We do not show public displays of affection during school hours or school activities.
 
-== Drugs
-No drugs, alcohol, cigarettes, or tobacco. Prescription drugs are allowed if the office is informed and if kept in a perscription bottle.
-
-== Weapons
-No weapons or look alike weapons are allowed.
-
-== Tools
+*_Tools_*
 Power tools, saws, and other tools may be used for school related projects, in a controlled and supervised environment. The use of tools is a privilege, not a right, and can be retracted if tools are being used irresponsibly.
+
+== WIT Dress Code
+We respect ourselves and others with the way we dress. + 
+Our clothes won’t embarrass, offend, or distract others. + 
+Our clothing is activity appropriate. +
+Our clothes fit. +
+We wear clothes underneath sheer clothing or clothing with holes. +
+Our underwear isn't seen.
+
+== Possible Suspension or Expulsion
+The commission of any of these prohibited behaviors and acts may result in suspension or expulsion:
+
+* Frequent or flagrant willful disobedience, defiance of proper authority, or disruptive behavior, including the use of foul, profane, vulgar, or abusive language
+* Possession or use of pornographic material on school property
+* Possession, control, or use of tobacco or an alcoholic beverage
+* Willful destruction or defacing of school property, including:
+** Vandalism: The willful defacing, cutting, marring, injuring, damaging, or losing school or staff property. Official grade transcripts and diplomas may be withheld until the student or the student's parent(s)/guardian has paid for the damage or made appropriate restitution.
+** Criminal mischief: Willful or malicious injury or damage in excess of $300 to public property or to real or personal property belonging to another.
+** Arson: The willful and malicious destruction of any part of a building or its contents or occupants by use of fire or explosive.
+** Burglary: Breaking, entering or remaining in a structure without authorization during the hours when the premises are closed to students.
+** Theft/larceny/stealing: The intentional unlawful taking and/or carrying away of property belonging to or in the lawful possession or custody of another.
+* Behavior or threatened behavior which poses an immediate and significant threat to the welfare, safety, or morals of other students or school personnel or to the operation, including:
+** Academic dishonesty: Includes cheating, plagiarism, misrepresentation, or unauthorized collaboration.
+** Lewdness: Violations of school dress code, inappropriate public displays of affection, or inappropriate exposure of body parts not normally exposed in public settings.
+** Sexual harassment: Unwanted and unwelcome words, deeds, actions, gestures, symbols, or behaviors of a sexual nature that make the target feel uncomfortable.
+** Fighting: Physical aggression involving two or more parties.
+** Bullying: Placing another person in fear or apprehension, typically in a repeated
+fashion, through any of the following:
+*** Physical bullying (physical violence)
+*** Verbal bullying (teasing or name calling)
+*** Non-verbal/emotional (demeaning behavior, intimidation through gestures, social exclusion and relational aggression)
+*** Cyber-bullying (sending insulting, threatening or harassing messages by phone or computer, or electronic messaging)
+** Battery: The unlawful and intentional touching or striking of another person against his or her will.
+** Assault: Placing another person in fear or apprehension of a harmful or offensive touching, whether or not a touching is actually intended.
+** Gang-related activity: Dangerous or disruptive activity, which may include but is not necessarily limited to:
+*** Wearing, possessing, using, distributing, displaying or selling any clothing, jewelry, emblem, badge, symbol, sign or other things which evidence membership in a gang
+
+*** Using a name which is associated with or attributable to a gang
+*** Designating turf or an area for gang activities, occupation, or ownership
+** Hazing: Demeaning, or assaultive behavior, whether consensual or not, with or without fear of physical harm to the person or property of the person done for the purpose of initiation or admission, affiliation with, holding office in, or as a condition for, membership or acceptance, or continued membership or acceptance, in any school or school sponsored team, organization, program, or event. This is prohibited at any time and in any location.
+** Forced ingestion of any substance.
+** Any act which would constitute a crime under federal, state or local laws or regulations, or cause any other student to commit a crime under said laws and regulations.
+
+== Automatic Suspension or Expulsion
+* The sale, control, or distribution of a drug or controlled substance, an imitation controlled substance, or drug paraphernalia as defined in Utah law.
+* The commission of an act involving the use of force or the threatened use of force which if committed by an adult would be a felony or class A misdemeanor.
+* The unauthorized possession, control, or actual or threatened use of a real weapon, explosive, or noxious or flammable material.
+* The actual or threatened use of a look alike weapon with intent to intimidate another person or to disrupt normal school activities.
+
+The commission of any of these offenses involving a real or look alike weapon, explosive, or flammable material will automatically result in expulsion for not less than one year or, in the case of students receiving special education services, 45 days. These violations are defined by Utah law http://le.utah.gov/%7Ecode/TITLE53A/htm/53A11_090800.htm[53A-11-908], http://le.utah.gov/%7Ecode/TITLE53A/htm/53A11a010200.htm[53A-11a-102], http://le.utah.gov/%7Ecode/TITLE53A/htm/53A11_090400.htm[53A-11-904], http://le.utah.gov/%7Ecode/TITLE53A/htm/53A11_010105.htm[53A-11-101.5] and http://le.utah.gov/%7Ecode/TITLE53A/htm/53A11a020100.htm[53A-11a-201].
