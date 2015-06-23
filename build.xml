@@ -8,8 +8,10 @@
 	<property name="build.dir" value="build"/>
 	<property name="target.dir" value="target" />
 	<property name="target.html.dir" value="${target.dir}/public_html"/>
+	<property name="target.html.asset.dir" value="${target.html.dir}/assets"/>
 	<property name="src.dir" value="src"/>
 	<property name="src.html.dir" value="${src.dir}/html/adoc" />
+	<property name="src.html.asset.dir" value="${src.html.dir}/assets" />
 	<property name="lib.dir" value="lib"/>
 
 	<!-- ivy properties -->
@@ -77,6 +79,11 @@
 							 backend="html5" imagesDir="src/html/adoc/assets/imgs" embedAssets="true" >
 			<!--  <attribute key="title" value="Asciidoc Ant"/> -->
 		</asciidoctor:convert>
+		
+		<!-- copy all asset files into target/public_html -->
+		<copy todir="${target.html.asset.dir}">
+		    <fileset dir="${src.html.asset.dir}"/>
+	  	</copy>
     </target>
 	
 <!-- ==================================================

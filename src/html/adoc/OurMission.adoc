@@ -1,5 +1,39 @@
 = Our Mission
 
+include::src/html/adoc/navbar.adoc[]
+
+++++
+       <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                    </li>
+                    <li>
+                        <a href="#DemandIt">Demand for IT</a>
+                    </li>
+                    <li>
+                        <a href="#TraditionalEducation">Traditional education</a>
+                    </li>
+                    <li>
+                        <a href="#CoreValues">WIT core values</a>
+                    </li>
+                    <li>
+                        <a href="#MissionStatement">WIT mission statement</a>
+                    </li>
+                    <li>
+                        <a href="#PortraitGraduate">Portrait of a WIT graduate</a>
+                    </li>
+                    <li>
+                        <a href="#DirectorsWelcome">School directors welcome</a>
+                    </li>
+                    <li>
+                        <a href="#WitHistory">WIT's history</a>
+                    </li>
+                </ul>
+            </div>
+++++
+
 == Demand for IT
 In a relatively short period of time, computers have transformed the world and now lie at the heart of our economy, scientific enterprise, and even our daily lives. Computer science is not limited to the information technology sector since a majority of companies across the country develop and use software that drives their core business processes from the assembly line to the cash register. Public and private companies alike increasingly need individuals who can develop and deploy customized software.
 
