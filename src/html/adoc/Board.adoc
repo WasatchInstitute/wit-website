@@ -1,1 +1,4 @@
 = Our Board
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]

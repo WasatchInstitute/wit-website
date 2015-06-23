@@ -1,1 +1,4 @@
 = Portrait of a WIT Graduate
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]

@@ -1,1 +1,4 @@
 = Next Generation Education
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]
