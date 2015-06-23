@@ -2,3 +2,7 @@
 
 == Enrollment Application
 We are now accepting applications for students for grades 9-11 for the 2015-2016 school year. To be considered for admission, please complete the information below.
+
+++++
+<script src="http://www.emailmeform.com/builder/forms/jsform/3cf7J2dFWdx9Dwp" type="text/javascript"></script>
+++++

@@ -18,6 +18,20 @@ image::ITSector.png["Computing Occupations by Sector", 600,float="top",align="Ce
 <<<
 
 == The Perfect WIT Student
+At WIT, we strive for:
+
+* *Maturity*: We are honest, respectful, have a positive attitude, and act responsible beyond our years. This means we don’t make excuses and clean up after ourselves--both literally and figuratively. 
+* *Focused*: We will pay attention when necessary or when asked, minimize our digital distractions, and keep ourselves free from negative addictions. 
+Seek to understand: We will ask questions and seek help when we are confused or don’t understand. 
+* *Committed*: We are dedicated, loyal, and don’t give up--even when it’s hard.
+Knows what really matters: We are forward-looking, embrace change, can filter information to identify what is important, and use technology as one tool to help us see the big picture. 
+* *Strong work ethic*: We balance work and play, always making sure that we complete the work--even when it’s hard or we don’t want to. 
+* *Self-disciplined*: We know what we want to become, are internally motivated, and act morally and ethically. 
+* *Knowledgable*: We are teachable and love to learn (even from our mistakes) so we are well-informed and see connections. 
+* *Productive*: We take advantage of opportunities to learn and make good use of our time. 
+* *Quality of work*: We put in good effort and take pride in our work. We iterate our work so we can better our best. 
+* *Well-rounded*: We embrace change, are open to learning new things, and have varied interests. 
+* *Critical thinkers*: By objectively evaluating pros and cons, we can break complex problems into smaller solvable steps so we can develop reasonable solutions using our knowledge, skills, creativity, and intuition. 
 
 == Girls in IT
 Women are woefully underrepresented in the technology industry–less than 10% of American engineers are female. The same is true for technology education in Utah, where less than 30% of the students were female in the 2010-2011 school year. Nationally, the percentage of women completing undergraduate degrees in computer science has declined sharply in the last two decades, from 37% in 1984 to only 20% in 1999 (Source: eWeek)
@@ -37,11 +51,49 @@ As a school, we wish to increase the number of females involved in information t
 == What to Expect
 The day starts at 8:30 with a fifteen-minute advisory, and then classes begin (including SCOPs). Lunch is from 11:30-12:15, followed by a 15 minute reading session. Classes resume until 3:15, with afternoon advisory and the day ends at 3:30.
 
-WIT curriculum is very fast paced due to our sprint length. Expect to work or expect to fail.
+WIT curriculum is very fast paced due to our sprint length. You should expect to be responsible for yourself and be able to manage yourself during the sprint. You should expect to do quality work, and strive to make sure that your work is satisfactory, without being told to. You will be expected to be in-charge of making sure your deliverables are completed and fulfill the requirements. Expect to be responsible for your actions, accountable for your grades and behavior, and in-charge of your learning.
+
 == Student Supplies
+Students should be prepared for school by bringing:
+
+* Notebooks/Paper
+* Writing Utensils
+* A Three Ring Binder
+* A Reading Book (Kindles are allowed after filling out our use of electronics policy)
+* A Laptop or personal Computer (If applicable, not required)
+
+Pencils are available for purchase at the office. Reading books are available to borrow.
 
 == Getting to WIT
+Most students get to WIT using public transportation. To figure out what routes you should use, visit http://www.rideuta.com/mc/?page=TripPlanner[UTA Trip Planner].
 
 == Location
+120 W Vine St. #200 Murray, UT 84107
+
+++++
+<center>
+    <style>
+      #map-canvas {
+        width: 500px;
+        height: 400px;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script>
+      function initialize() {
+        var mapCanvas = document.getElementById('map-canvas');
+        var mapOptions = {
+          center: new google.maps.LatLng(40.662503, -111.894838),
+          zoom: 18,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(mapCanvas, mapOptions)
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+ 
+    <div id="map-canvas"></div>
+++++
 
 == Shadowing
+Potential students may visit Wasatch Institute of Technology for a day, before deciding to enroll. Potential students can see how a day a WIT is like, and if it is a right fit for them. They will follow a current student around during the day, receiving information on day to day practices, as well as any exciting events occurring that day. To set up a date for your student to visit, contact us at info@wasatchinstitute.net
