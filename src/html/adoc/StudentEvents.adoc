@@ -1,0 +1,4 @@
+= News and Events
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]

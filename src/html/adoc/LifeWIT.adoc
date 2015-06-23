@@ -1,0 +1,4 @@
+= Life at WIT
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]

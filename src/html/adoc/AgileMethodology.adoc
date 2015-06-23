@@ -1,0 +1,4 @@
+= Agile Methodology
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]
