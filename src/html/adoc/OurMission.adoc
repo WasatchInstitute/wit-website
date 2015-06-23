@@ -82,8 +82,58 @@ As we work to achieve our mission, we value:
 * *Ethics and integrity:* We are role models whose behavior is consistent both in and out of the school.
 
 == Portrait of a WIT Graduate
-WIT graduates are expected to have spent time as an intern, completed all of their classes and be well-rounded in their SCOP experiences. Ideally, by their final year at WIT students will have begun achieving 4s in most, if not all, of their classes.  WIT graduates are motivated, responsible, and accept the consequences of their actions. By their fourth year, WIT students will have become ideal employees for an evolving tech world.
+Students at the Wasatch Institute of Technology are working to become: 
+
+* *Mature*: We are honest, respectful, have a positive attitude, and act responsible beyond our years. This means we don’t make excuses and clean up after ourselves--both literally and figuratively. 
+* *Focused*: We will pay attention when necessary or when asked, minimize our digital distractions, and keep ourselves free from negative addictions. 
+Seek to understand: We will ask questions and seek help when we are confused or don’t understand. 
+* *Committed*: We are dedicated, loyal, and don’t give up--even when it’s hard.
+Knows what really matters: We are forward-looking, embrace change, can filter information to identify what is important, and use technology as one tool to help us see the big picture. 
+* *Strong work ethic*: We balance work and play, always making sure that we complete the work--even when it’s hard or we don’t want to. 
+* *Self-disciplined*: We know what we want to become, are internally motivated, and act morally and ethically. 
+* *Knowledgable*: We are teachable and love to learn (even from our mistakes) so we are well-informed and see connections. 
+* *Productive*: We take advantage of opportunities to learn and make good use of our time. 
+* *Quality of work*: We put in good effort and take pride in our work. We iterate our work so we can better our best. 
+* *Well-rounded*: We embrace change, are open to learning new things, and have varied interests. 
+* *Critical thinkers*: By objectively evaluating pros and cons, we can break complex problems into smaller solvable steps so we can develop reasonable solutions using our knowledge, skills, creativity, and intuition. 
+
 
 == School Director's Welcome
+.47% of today's jobs will be computerized in the next couple of decades:
+[quote, "The Future of Employment", Oxford University, September 2013]
+
+According to a recent study by Oxford University, 47% of today’s jobs won’t exist in the next ten to twenty years.  How is this even possible?  One word: *technology*. As our economy has shifted from agriculture to manufacturing, from service to knowledge,  technology has replaced jobs requiring physical labor. Now computers are challenging humans in a wide variety of cognitive tasks from driving to surgery. 
+
+Technology is changing everything! Sadly, today's schools aren't preparing our children for today's reality--let alone the future of 2020 or 2030.  For our kids to thrive in this tech-driven reality, we need to abandon the failing educational paradigm of the past and look to the future. 
+
+At Wasatch Institute of Technology, we’re rebooting education to prepare our students for the top-paying technology jobs of the future through _Next Generation Education_.  _Next Generation Education_ is an Agile, hands-on, real world-focused approach that puts learning in context through non-Googleable projects.  Our three week sprints combine learning sessions, guest speakers, field trips, and hands-on activities all centered around a shared theme, like water, media, space, and--of course--technology. 
+
+At the Wasatch Institute of Technology, our learning extends beyond curriculum to developing character.  In fact, at WIT we are working to develop <<WITForMe.adoc#_the_perfect_wit_student,these key characteristics>>: 
+
+* Mature
+* Passionate about learning
+* Committed
+* Forward looking
+* Hard working
+* Self-disciplined
+* Productive
+* Well-rounded
+* Critical thinkers
+
+Our approach is to education so compelling that we have students attending from American Fork to Layton, Bluffdale to Bountiful, from Magna to Draper--and lots of places in  between.  All of our students are able to <<Transportation.adoc#_students_using_transit,conveniently and safely travel to WIT>> via Trax and FrontRunner. 
+
+If you are or know of a forward-looking 9th through 12th grader that wants to prepare for the future, consider <<EnrollNow.adoc#_enrollment_application,joining us for a life-changing experience>> at WIT]. 
+
+Here's to the future!
+
+David Moss
+School Director
 
 == WIT's History
+The Wasatch Institute of Technology is the brainchild of David Moss, our current School Director. After teaching college-level computer science full-time for nearly a decade, he was baffled by the declining abilities of incoming computer science students. Despite the fact that these incoming students had more exposure to computers than their predecessors, they were less capable of doing anything useful with them. 
+
+Rather than bemoan the declining capabilities, he worked to establish a computer science-focused high school accessible to as many students as possible. Combining his expertise as a network administrator, software developer, and ScrumMaster, David adapted the Agile software development methodology for education. The result is a <<Sprint.adoc#_sprint_planning,unique learning environment found nowhere else>>. 
+
+Based on our <<OurMission.adoc#_core_values,core values>>, WIT is learning laboratory, a place where we can continually try new things, innovate, and iterate as we work to prepare tomorrow's Network/Systems and Software Engineers through _Next Generation Education_. 
+
+Learn more about <<Sprint.adoc#_sprint_planning,how WIT works>>.
