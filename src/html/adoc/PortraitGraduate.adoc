@@ -2,3 +2,23 @@
 :sectanchors:
 
 include::src/html/adoc/navbar.adoc[]
+
+== Characteristics
+Students at the Wasatch Institute of Technology are working to become: 
+
+* *Mature*: We are honest, respectful, have a positive attitude, and act responsible beyond our years. This means we don’t make excuses and clean up after ourselves--both literally and figuratively. 
+* *Focused*: We will pay attention when necessary or when asked, minimize our digital distractions, and keep ourselves free from negative addictions. 
+Seek to understand: We will ask questions and seek help when we are confused or don’t understand. 
+* *Committed*: We are dedicated, loyal, and don’t give up--even when it’s hard.
+Knows what really matters: We are forward-looking, embrace change, can filter information to identify what is important, and use technology as one tool to help us see the big picture. 
+* *Strong work ethic*: We balance work and play, always making sure that we complete the work--even when it’s hard or we don’t want to. 
+* *Self-disciplined*: We know what we want to become, are internally motivated, and act morally and ethically. 
+* *Knowledgable*: We are teachable and love to learn (even from our mistakes) so we are well-informed and see connections. 
+* *Productive*: We take advantage of opportunities to learn and make good use of our time. 
+* *Quality of work*: We put in good effort and take pride in our work. We iterate our work so we can better our best. 
+* *Well-rounded*: We embrace change, are open to learning new things, and have varied interests. 
+* *Critical thinkers*: By objectively evaluating pros and cons, we can break complex problems into smaller solvable steps so we can develop reasonable solutions using our knowledge, skills, creativity, and intuition. 
+
+== Portfolio
+
+== Skills

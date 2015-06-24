@@ -19,6 +19,12 @@ include::src/html/adoc/navbar.adoc[]
                         <a href="#_contact_information">Contact information</a>
                     </li>
                     <li class="sidebar-brand">
+                        <a href="#_why_donate">Why donate?</a>
+                    </li>
+                    <li class="sidebar-brand">
+                        <a href="#_donate_now">Donate now</a>
+                    </li>
+                    <li class="sidebar-brand">
                         <a href="#_enroll_now">Enroll now</a>
                     </li>
                 </ul>
@@ -71,5 +77,36 @@ Bill: bill.clark@wasatchinstitute.net +
 Cory: cory.dixon@wasatchinstitute.net +
 Gail: gail@wasatchinstitute.net
 
+== Make a donation
+=== Why donate?
+If you care about the future of technology and education, consider making a donation to the Wasatch Institute of Technology today. Not only will your donation go back into the community, you will be able to see the impact that it makes on our students and school. The return upon investment for this donation is the well-being of future employees in the tech sector. The Wasatch Institute of Technology is nurturing the greatest minds of today, and we hope to produce the greatest minds of tomorrow.
+
+=== Donate now
+
+++++
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+    <!-- Identify your business so that you can collect the payments. -->
+    <input type="hidden" name="business"
+        value="david.moss@wasatchinstitute.net">
+
+    <!-- Specify a Donate button. -->
+    <input type="hidden" name="cmd" value="_donations">
+
+    <!-- Specify details about the contribution -->
+    <input type="hidden" name="item_name" value="Wasatch Institute of Technology">
+    <input type="hidden" name="item_number" value="School Assistance Fund">
+    <input type="hidden" name="currency_code" value="USD">
+
+    <!-- Display the payment button. -->
+    <h3 class=h3-donatebutton>
+    <input type="image" name="submit" border="0"
+    src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
+    alt="PayPal - The safer, easier way to pay online">
+    <img alt="" border="0" width="1" height="1"
+    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+       </h3>
+++++
+       
 == Enroll Now
 If you are interested in the Wasatch Institute of Technology and would like to enroll, fill out our <<EnrollNow.adoc#Enroll Now,online application>> and we will get back to you shortly.

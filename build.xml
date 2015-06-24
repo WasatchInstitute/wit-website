@@ -91,7 +91,7 @@
 	  	<!-- Insert Bootstrap navbar data into HTML head -->
 	  	<echo message="Inserting Bootstrap navbar into HTML files..." />
 		<loadresource property="bootstrap.navbar.contents">
-			<fileset file="${src.html.dir}/navbar.html" />
+			<fileset file="${src.html.dir}/NavigationBar.html" />
 		</loadresource>
 	
 		<replaceregexp replace="${bootstrap.navbar.contents}" flags="g" match='\&lt;head\&gt;'>

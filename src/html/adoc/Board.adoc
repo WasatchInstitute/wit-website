@@ -2,3 +2,26 @@
 :sectanchors:
 
 include::src/html/adoc/navbar.adoc[]
+
+== Overview
+The public ultimately owns our charter school. Our Board has the authority to govern our school on behalf of the public as it acts in a trustee relationship. Functioning as a single body, our Board will set policy to identify what needs to be done, and allow the Core Administrative Team to determine how (within the Board-defined policy limits) to achieve it. The Board will hold itself and the School Director accountable through a transparent evaluation processes. The primary purposes of our Board of Directors is to:
+
+image::WIT-board-responsibilities.png["WIT board responsibilities", 400,float="top",align="center"]
+
+'''
+
+== Board Bios
+=== Jason Farley, Board Member 
+Jason Farley of Salt Lake City Utah is an information technology leader with seventeen years experience in the food and drug retail industry.  A graduate of Westminster College in Salt Lake City, he earned a Master of Business Administration in Technology Management and Entrepreneurship. He is passionate about technology and science, focuses on advancing nonprofit organizational causes, grant writing and business development entrepreneurism. In recognizing the educational, mentoring and other life opportunities, a passion for giving back to the community and helping others is a significant driving goal in his life.
+
+=== Ben Rasmussen, Vice President of Compliance
+Ben has been a practicing attorney since 2002, with experience handling a wide variety of legal cases. He is presently an Assistant City Attorney with the City of Draper, where he is chiefly responsible for misdemeanor prosecutions and assisting in civil litigation. Ben has previously served as a member of his H.O.A. Board and as a political delegate.
+
+=== Isaac Strack, Secretary
+Isaac Strack currently works as a Design Technologist for Adobe Systems. Prior to Adobe, Isaac spent 11 years working for eBay as a Staff Software Engineer & Business Systems Analyst.  Collectively, he has nearly 15 years of experience in the Utah IT industry.  Issac sees WIT as a shining, universal opportunity for students to jump start their education and careers, and believes that WIT will become a national educational model to follow.  
+
+=== Ajay Kulkarni, Board member
+Ajay brings a wealth of experience in IT management, project management, and finance to the WIT Board of Directors.  He is currently the Director of Information Technology, Systems & Processes at NovaGroup.  Ajay has served as an IT department head for 6 years, a project manager for 8 years, and a finance director for 9 years. 
+
+==Board meetings
+Our upcoming Board meetings can be found on http://www.utah.gov/pmn/index.html[Utah Public Notices website]. Select _Schools_, then _Wasatch Institute of Technology_, then _Wasatch Institute of Technology Board_ for upcoming meetings and agendas. You can also review our https://drive.google.com/a/student.wasatchinstitute.net/folderview?ddrp=1&id=0BzkmKCgf2petMzg2YWE0NTEtNmExMS00Zjc4LThjYzYtYzQ1OTM2YTAxYTc1#[past Board meeting agendas and minutes].

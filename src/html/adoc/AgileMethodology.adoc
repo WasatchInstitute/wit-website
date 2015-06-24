@@ -1,4 +1,49 @@
-= Agile Methodology
+= Agile Software Development Methodology 
 :sectanchors:
 
 include::src/html/adoc/navbar.adoc[]
+
+On February 11-13, 2001, 17 software developers from around the country met at Snowbird, Utah to discuss lightweight software development methods (see http://agilemanifesto.org/history.html[Agile history]).  As a result of their meeting, they published the http://agilemanifesto.org[Agile Manifesto] that established the core values of the Agile software development approach.  The Wasatch Institute of Technology has adapted the principles underlying the Agile Manifesto for educational use:
+
+[cols="1*"]
+|===
+
+| Our highest priority is education of our students through early and continuous achievement of curricular learning objectives.
+
+| Welcome changes in learning objectives, curriculum, and instructional methods.  Agile processes harness change for the student’s competitive advantage.
+
+| Deliver evidence of learning objective mastery frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+
+| Students and staff must work together daily throughout the school year.
+
+| Build projects around motivated individuals.
+
+| Give students and staff the environment and support they need, and trust them to get their jobs done.
+
+| The most efficient and effective method of conveying information to and within a teaching team is face-to-face conversation.
+
+| Interdisciplinary student-initiated and created work is the primary measure of progress.
+
+| Agile processes promote sustainable learning.
+
+| The staff and students should be able to maintain a constant pace indefinitely.
+
+| Continuous attention to technical excellence and good design enhances agility.
+
+| Simplicity–the art of maximizing the amount of work not done–is essential.
+
+| The best plans, requirements, and designs emerge from self-organizing teams.
+
+| At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+|===
+
+In use for over 10 years, the Agile methodology has provided the following benefits for software development:
+
+* *Increased employee job satisfaction*.  The team-centered shared responsibility and self-direction philosophies allow team members to work at a more regular, sustainable pace.  This not only increases employee job satisfaction, but engages employees more, increases an employee’s quality of work, and reduces their overtime hours.  This can also potentially lead to significant gains in productivity when creative solutions are found by the team.
+* *Increased quality*.  Software development teams that adopt an Agile methodology  report a minimum 10% quality improvement; the median improvement is 63% (Source:  Cohn, Mike. Succeeding with Agile. Addison-Wesley 2010, p. 15),  Quality is improved is through better engineering practices; testing regularly and often as soon as possible (since testing at the end often gets eliminated); and moments of group reflection and suggestions for improvement fostered by the sprint retrospective meeting.
+* *Higher team productivity*.  Learning to think and work as a team causes collaboration to go to new highs.  In this world of shared responsibility, team members think collectively of tasks, not individually.  As team members start to see the vision for the finished product become reality, they become more excited and passionate; and as passion increases, so does productivity.
+* *Increased stakeholder satisfaction*.  With a better alignment of goals, the ability to regularly adjust priorities, delivering the highest-value items first, the improved visibility of the process, and a faster time to market, Agile leads to increased stakeholder satisfaction–78% of surveyed individuals believe that using an Agile process has led to increased stakeholder satisfaction (Cohn, p. 16).
+* *Continuous learning and improvement*.  To realize all the benefits of Agile, each team must constantly seek out new knowledge and share it with others.  Since teams are afforded both flexibility and time to implement a solution, they can often discover new or improved ways of doing things.  Team members then have many ways of sharing this improvement:  in the daily standup meeting, during the sprint retrospective, in communities of practice, or even in an impromptu meeting in the team’s shared work space.
+
+At WIT, we expect to see these same benefits through our educational adaption of the Agile software development methodology.

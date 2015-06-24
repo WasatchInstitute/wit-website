@@ -3,31 +3,7 @@
 
 include::src/html/adoc/navbar.adoc[]
 
-
-++++
-       <div id="wrapper">
-            <!-- Sidebar -->
-            <div id="sidebar-wrapper">
-                <ul class="sidebar-nav">
-                    <li class="sidebar-brand">
-                        <a href="#_staff_bios">Staff bios</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_teaching_team_responsibilities">Teaching team responsibilities</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_board_of_directors">Board of Directors</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_working_at_wit">Working at WIT</a>
-                    </li>
-                </ul>
-            </div>
-++++
-
-== Staff Bios
-
-=== Gail Schimmelpfennig
+== Gail Schimmelpfennig
 image::Gail.jpg["Gail, our English teacher", 200,float="right",align="right"]
 Gail teaches English, along with the French, Creative Writing, and Drama SCOPs. Additionally, she advises Yearbook and Literary Magazine. Gail was born in Ogden, Utah. She graduated from Weber State University with a Bachelor’s Degree in English with a minor in anthropology. She has taught English and preschool classes. Her book of poetry won a statewide contest in 2009 and was published by the Utah State Poetry Society. It was runner-up for the Utah Book Award in 2010. 
 
@@ -37,7 +13,7 @@ Contact Gail at: gail@wasatchinstitute.net
 
 '''
 
-=== Bill Clark
+== Bill Clark
 image::Bill.jpg["Bill, our math teacher", 200,float="left",align="left"]
 Clark teaches math, along with gym and chess. He was born in Salt Lake City, Utah. He has his Bachelor’s Degree in mathematics with a physics minor; and additionally has a Master’s Degree in education. 
 
@@ -47,7 +23,7 @@ Contact Bill at: bill.clark@wasatchinstitute.net
 
 '''
 
-=== Cory Dixon
+== Cory Dixon
 image::Cory.jpg["Cory", 200,float="right",align="right"]
 Cory is our history teacher, and also works with students on wiring and hardware projects. He was born in Granger, Utah and has an A.A.S. in electronic technology from Utah Technical College, and a Bachelor’s Degree in technology management from Utah Valley University, along with a Special Education Certification from Prescott College. He has worked as a paraeducator in three Special Education units., and implemented the educational/GED program in the Orem and Provo area. 
 
@@ -57,16 +33,16 @@ Contact Cory at: cory.dixon@wasatchinstitute.net
 
 '''
 
-=== Leif Nelson
+== Leif Nelson
 image::Leif.jpg["Leif", 200,float="left",align="left"]
-Leif is our business manager and vice principal, and additionally teaches music, German, and social studies classes. He was born in California and has an A.A. from the College of Eastern Utah and a B.S. from the University of Utah. He has taught at the College of Eastern Utah. 
-
-Leif loves music, and he has worked as a retail manager at a music store. Additionally, he has worked in financial services, business, and manufacturing.
+Leif has nearly 30 years of management experience in business, finance and retail. He served on the central management of a national financial services company and has started and grown businesses in the music and entertainment fields. He served for several years as the financial supervisor for his local church where he handled collections, deposits, budgets, forecasts, payables, reconciliations, auditing and research. He worked as a volunteer for other non-profit foundations, including the March of Dimes and the American Red Cross. Serving on the resident council of the Utah State Veterans Nursing Home, he assisted them with fundraising and other volunteer efforts. Leif graduated with his Bachelor's degree in Business Management.
 
 Contact Leif at: leif.nelson@wasatchinstitute.net
 
-== Teaching Team Responsibilities 
+'''
 
-== Board of Directors
+== David Moss
+image::David.jpg["David, School Director", 200,float="Right",align="Right"]
+David Moss has a rare blend of depth and breadth in the technical and managerial realms stemming from his 15+ years of full-time experience in the IT industry covering the realms of network administration, business analysis, software development, and academia.  During his 9 years in higher education, he ultimately became the Department Chair for the largest computer science program in Utah at Salt Lake Community College.  David earned a Masters degree in Information Resources Management from the top-rated Information Systems school in the country, Syracuse University.  At the Wasatch Institute of Technology, David plans to create an ecosystem that inspires and empowers individuals to make a difference.  
 
-== Working at WIT
+Contact David at: david.moss@wasatchinstitute.net
