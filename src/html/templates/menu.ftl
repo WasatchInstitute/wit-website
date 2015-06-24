@@ -18,11 +18,11 @@
 		      		<ul class="nav navbar-nav navbar-right">
 
 						<!-- HOME -->
-				        <li class="dropdown"><a href="index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home</a></li>
+				        <li class="dropdown"><a href="index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">HOME</a></li>
 
 
 						<!-- WHY WIT -->
-				        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Why WIT?<span class="caret"></span></a>
+				        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">WHY WIT?<span class="caret"></span></a>
 				        	<ul class="dropdown-menu" role="menu">
             					<li><a href="TheProblem.html">The Problem</a></li>
             					<li><a href="AgileMethodology.html">Agile Methodology</a></li>
@@ -44,7 +44,7 @@
           				</li>
 
             			<!-- ABOUT WIT -->
-		        		<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About WIT<span class="caret" /></a>
+		        		<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">ABOUT WIT<span class="caret" /></a>
           					<ul class="dropdown-menu" role="menu">
             					<li><a class="sscroll" href="OurMission.html">Mission and History</a></li>
             					<li><a class="sscroll" href="PoliciesProcedures.html">Policies and Procedures</a></li>
@@ -57,7 +57,7 @@
           				</li>
 
             			<!-- POTENTIAL STUDENTS -->
-          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Potential Students<span class="caret" /></a>
+          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">POTENTIAL STUDENTS<span class="caret" /></a>
           					<ul class="dropdown-menu" role="menu">
             					<li><a class="sscroll" href="WITForMe.html">Is WIT for me?</a></li>
             					<li><a class="sscroll" href="LoveWIT.html">Why we love WIT</a></li>
@@ -68,7 +68,7 @@
           				</li>
 
             			<!-- NEWS AND EVENTS -->
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">News and Events<span class="caret"></span></a>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">NEWS AND EVENTS<span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">
             					<li><a class="sscroll" href="Calendar.html">Calendar</a></li>
             					<li><a class="sscroll" href="News.html">News and Events</a></li>
@@ -76,7 +76,7 @@
           				</li>
 
             			<!-- CURRENT STUDENTS -->
-          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Current Students<span class="caret"></span></a>
+          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">CURRENT STUDENTS<span class="caret"></span></a>
           					<ul class="dropdown-menu" role="menu">
             					<li><a class="sscroll" href="Calendar.html">Calendar</a></li>
             					<li><a class="sscroll" href="StudentEvents.html">News and Events</a></li>
@@ -84,7 +84,7 @@
           				</li>
 
             			<!-- YOU AND WIT  -->
-          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">You and WIT<span class="caret"></span></a>
+          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">YOU AND WIT<span class="caret"></span></a>
           					<ul class="dropdown-menu" role="menu">
             					<li><a class="sscroll" href="WorkWIT.html">Work at WIT</a></li>
             					<li><a class="sscroll" href="PartneringWIT.html">Partner with WIT</a></li>

@@ -12,7 +12,7 @@ image::imgs/WIT-board-responsibilities.png["WIT board responsibilities", 400,flo
 '''
 
 == Board Bios
-=== Jason Farley, Board Member 
+=== Jason Farley, Board President 
 Jason Farley of Salt Lake City Utah is an information technology leader with seventeen years experience in the food and drug retail industry.  A graduate of Westminster College in Salt Lake City, he earned a Master of Business Administration in Technology Management and Entrepreneurship. He is passionate about technology and science, focuses on advancing nonprofit organizational causes, grant writing and business development entrepreneurism. In recognizing the educational, mentoring and other life opportunities, a passion for giving back to the community and helping others is a significant driving goal in his life.
 
 === Ben Rasmussen, Vice President of Compliance
