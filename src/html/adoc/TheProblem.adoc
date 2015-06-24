@@ -2,3 +2,44 @@
 :sectanchors:
 
 include::src/html/adoc/navbar.adoc[]
+
+== Demand for IT
+In a relatively short period of time, computers have transformed the world and now lie at the heart of our economy, scientific enterprise, and even our daily lives. Computer science is not limited to the information technology sector since a majority of companies across the country develop and use software that drives their core business processes from the assembly line to the cash register. Public and private companies alike increasingly need individuals who can develop and deploy customized software.
+
+[[img-PopulationWorkforce]]
+image::PopulationWorkforce.gif["Numeric change in the population and labor force", 300,float="right",align="right"]
+
+Nationally, computer and information technology occupations are projected to grow by 22 percent, adding 758,800 new jobs from 2010 to 2020 (Source: http://www.bls.gov/ooh/#overview[2010-2020 Occupational Outlook], U.S. Bureau of Labor Statistics).
+
+Locally, the story is similar. Utah has over 7,100 technology companies that employ over 76,000 people paying average salaries 62% higher than the statewide nonagricultural wage.  Utah’s 10-year percent change in computing jobs has been 38.8% (Source: https://www.ncwit.org/edjobsmap[Computing Education and Future Jobs]).  Last year alone, the Governor’s Office of Economic Development reported a 6% increase in the number of employees working in the Information Technology sector. This growth is expected to continue, as Utah will see a 33% increase in Science, Technology, Engineering, and Math (STEM) jobs by 2018–16 percentage points above the national average.  Nearly half of those STEM jobs will be in Computer Occupations, including Computer Technicians, Programmers, and Scientists (Source: STEM States Analysis, Georgetown University).  No wonder Salt Lake City is the #5 best city to get an IT job in the nation! (Forbes magazine, 2011)
+
+.Despite the bright future, Utah is facing a technology talent shortage which is now impacting our economy:
+[quote, John Spigiel of Watson Labs, April 2012 Utah Technology Council’s annual summit]     
+Right now, it’s a limited talent pool and there are too many businesses within our industry that are competing for the same resources. We need to recognize that this is a problem in Utah. If we have a highly technical and educated workforce, then companies will come.
+
+Utah tech companies fear that the slim talent pool will impede expansion. A recent search on Indeed.com shows that there are over 2,300 available IT positions within 25 miles of Salt Lake City. Business leaders are calling for partnerships with universities and support of K-12 education programs to improve Utah’s fleeting talent pool and raise a skilled workforce to meet Utah’s talent demands.
+
+But Utah’s educational system isn’t meeting the demand. Combined, Utah’s universities only add about https://docs.google.com/spreadsheets/d/1EnTuhHZuENFnio0KThT5Zrcru6xVJzs6JRL_tCoSJcc/edit#gid=0[500 tech graduates per year]–and  those that do graduate are http://www.computerworlduk.com/tutorial/careers/key-it-skills-that-university-graduates-are-missing-3310734/[lacking significant skills]. The maps below show Utah high school computer science enrollment along the Wasatch Front for computer networking and programming. The schools represented as small red dots don’t offer programming or networking computer science courses. 71% of Utah schools do not offer programming and networking computer science courses. Salt Lake county high schools represent only 5.9% of state computer science enrollments—yet represent over 35% of Utah’s high school students.
+
+++++
+<table>
+<tbody>
+<tr>
+<th>
+<h3 dir="ltr">Wasatch Front High School Networking</h3>
+</th>
+<th>
+<h3 dir="ltr">Wasatch Front High School Programming</h3>
+</th>
+</tr>
+<tr>
+<td><iframe src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col1+from+187xv3yOQE90yFxcbkYGcfo8KRk9DVMJFl_wYm0U&amp;h=false&amp;lat=40.79570870930675&amp;lng=-111.71710878593753&amp;z=9&amp;t=1&amp;l=col1" height="800" width="500" frameborder="no" scrolling="no"></iframe></td>
+<td><iframe src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col1+from+15l20Vx_1naHrkL-14god5YGducEK8om7b1-TfQU&amp;h=false&amp;lat=40.8860959137611&amp;lng=-111.89838320000001&amp;z=8&amp;t=1&amp;l=col1" height="800" width="500" frameborder="no"></iframe></td>
+</tr>
+</tbody>
+</table>
+++++
+
+Despite the critical and growing economic importance of computer science, students lack the fundamental computer science knowledge and skills needed for the jobs of the 21st century. As a state and as a nation, we can’t afford these failings in the digital age. Something has to change.
+
+== Traditional Education

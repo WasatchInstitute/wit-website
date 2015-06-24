@@ -1,4 +1,4 @@
-= SCOPS
+= Extracurricular Activities
 :sectanchors:
 
 include::src/html/adoc/navbar.adoc[]

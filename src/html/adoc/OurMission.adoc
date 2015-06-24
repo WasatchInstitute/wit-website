@@ -1,4 +1,4 @@
-= Our Mission
+= Our Mission and History
 :sectanchors:
 
 include::src/html/adoc/navbar.adoc[]
@@ -9,16 +9,10 @@ include::src/html/adoc/navbar.adoc[]
             <div id="sidebar-wrapper">
                 <ul class="sidebar-nav">
                     <li class="sidebar-brand">
-                        <a href="#_demand_for_it">Demand for IT</a>
+                        <a href="#_mission_statement">Mission Statment</a>
                     </li>
                     <li class="sidebar-brand">
-                        <a href="#_wit_mission_and_values">WIT mission and values</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_portrait_of_a_wit_graduate">Portrait of a WIT graduate</a>
-                    </li>
-                    <li class="sidebar-brand">
-                        <a href="#_school_director_s_welcome">School Director's welcome</a>
+                        <a href="#_core_values">Core Values</a>
                     </li>
                     <li class="sidebar-brand">
                         <a href="#_wit_s_history">WIT's history</a>
@@ -27,52 +21,12 @@ include::src/html/adoc/navbar.adoc[]
             </div>
 ++++
 
-== Demand for IT
-In a relatively short period of time, computers have transformed the world and now lie at the heart of our economy, scientific enterprise, and even our daily lives. Computer science is not limited to the information technology sector since a majority of companies across the country develop and use software that drives their core business processes from the assembly line to the cash register. Public and private companies alike increasingly need individuals who can develop and deploy customized software.
-
-[[img-PopulationWorkforce]]
-image::PopulationWorkforce.gif["Numeric change in the population and labor force", 300,float="right",align="right"]
-
-Nationally, computer and information technology occupations are projected to grow by 22 percent, adding 758,800 new jobs from 2010 to 2020 (Source: http://www.bls.gov/ooh/#overview[2010-2020 Occupational Outlook], U.S. Bureau of Labor Statistics).
-
-Locally, the story is similar. Utah has over 7,100 technology companies that employ over 76,000 people paying average salaries 62% higher than the statewide nonagricultural wage.  Utah’s 10-year percent change in computing jobs has been 38.8% (Source: https://www.ncwit.org/edjobsmap[Computing Education and Future Jobs]).  Last year alone, the Governor’s Office of Economic Development reported a 6% increase in the number of employees working in the Information Technology sector. This growth is expected to continue, as Utah will see a 33% increase in Science, Technology, Engineering, and Math (STEM) jobs by 2018–16 percentage points above the national average.  Nearly half of those STEM jobs will be in Computer Occupations, including Computer Technicians, Programmers, and Scientists (Source: STEM States Analysis, Georgetown University).  No wonder Salt Lake City is the #5 best city to get an IT job in the nation! (Forbes magazine, 2011)
-
-.Despite the bright future, Utah is facing a technology talent shortage which is now impacting our economy:
-[quote, John Spigiel of Watson Labs, April 2012 Utah Technology Council’s annual summit]     
-Right now, it’s a limited talent pool and there are too many businesses within our industry that are competing for the same resources. We need to recognize that this is a problem in Utah. If we have a highly technical and educated workforce, then companies will come.
-
-Utah tech companies fear that the slim talent pool will impede expansion. A recent search on Indeed.com shows that there are over 2,300 available IT positions within 25 miles of Salt Lake City. Business leaders are calling for partnerships with universities and support of K-12 education programs to improve Utah’s fleeting talent pool and raise a skilled workforce to meet Utah’s talent demands.
-
-But Utah’s educational system isn’t meeting the demand. Combined, Utah’s universities only add about https://docs.google.com/spreadsheets/d/1EnTuhHZuENFnio0KThT5Zrcru6xVJzs6JRL_tCoSJcc/edit#gid=0[500 tech graduates per year]–and  those that do graduate are http://www.computerworlduk.com/tutorial/careers/key-it-skills-that-university-graduates-are-missing-3310734/[lacking significant skills]. The maps below show Utah high school computer science enrollment along the Wasatch Front for computer networking and programming. The schools represented as small red dots don’t offer programming or networking computer science courses. 71% of Utah schools do not offer programming and networking computer science courses. Salt Lake county high schools represent only 5.9% of state computer science enrollments—yet represent over 35% of Utah’s high school students.
-
-++++
-<table>
-<tbody>
-<tr>
-<th>
-<h3 dir="ltr">Wasatch Front High School Networking</h3>
-</th>
-<th>
-<h3 dir="ltr">Wasatch Front High School Programming</h3>
-</th>
-</tr>
-<tr>
-<td><iframe src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col1+from+187xv3yOQE90yFxcbkYGcfo8KRk9DVMJFl_wYm0U&amp;h=false&amp;lat=40.79570870930675&amp;lng=-111.71710878593753&amp;z=9&amp;t=1&amp;l=col1" height="800" width="500" frameborder="no" scrolling="no"></iframe></td>
-<td><iframe src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col1+from+15l20Vx_1naHrkL-14god5YGducEK8om7b1-TfQU&amp;h=false&amp;lat=40.8860959137611&amp;lng=-111.89838320000001&amp;z=8&amp;t=1&amp;l=col1" height="800" width="500" frameborder="no"></iframe></td>
-</tr>
-</tbody>
-</table>
-++++
-
-Despite the critical and growing economic importance of computer science, students lack the fundamental computer science knowledge and skills needed for the jobs of the 21st century. As a state and as a nation, we can’t afford these failings in the digital age. Something has to change.
-
-== WIT Mission and Values
-=== Mission Statement
+== Mission Statement
 The mission of the Wasatch Institute of Technology is to prepare tomorrow’s Software Engineers through _Next Generation Education_. 
 
 By teaching skills required for the jobs of the 21st century, WIT students will form the foundation for tomorrow’s innovation economy. Not only will WIT students graduate with traditional high school diplomas, they will have a tremendous career advantage since they will understand technology well enough to use it in truly innovative ways–thus enabling the true computer revolution.
 
-=== Core Values
+== Core Values
 As we work to achieve our mission, we value: 
 
 * *Innovation and creativity:* We follow and create best practices, not limiting ourselves to the box. 
@@ -80,54 +34,6 @@ As we work to achieve our mission, we value:
 * *Honesty and transparency:* We are open about what we do, how we do it, and what we can do better. 
 * *Equality and compassion:* We are valued for what we do in our meritocracy and are concerned about our collective welfare. 
 * *Ethics and integrity:* We are role models whose behavior is consistent both in and out of the school.
-
-== Portrait of a WIT Graduate
-Students at the Wasatch Institute of Technology are working to become: 
-
-* *Mature*: We are honest, respectful, have a positive attitude, and act responsible beyond our years. This means we don’t make excuses and clean up after ourselves--both literally and figuratively. 
-* *Focused*: We will pay attention when necessary or when asked, minimize our digital distractions, and keep ourselves free from negative addictions. 
-Seek to understand: We will ask questions and seek help when we are confused or don’t understand. 
-* *Committed*: We are dedicated, loyal, and don’t give up--even when it’s hard.
-Knows what really matters: We are forward-looking, embrace change, can filter information to identify what is important, and use technology as one tool to help us see the big picture. 
-* *Strong work ethic*: We balance work and play, always making sure that we complete the work--even when it’s hard or we don’t want to. 
-* *Self-disciplined*: We know what we want to become, are internally motivated, and act morally and ethically. 
-* *Knowledgable*: We are teachable and love to learn (even from our mistakes) so we are well-informed and see connections. 
-* *Productive*: We take advantage of opportunities to learn and make good use of our time. 
-* *Quality of work*: We put in good effort and take pride in our work. We iterate our work so we can better our best. 
-* *Well-rounded*: We embrace change, are open to learning new things, and have varied interests. 
-* *Critical thinkers*: By objectively evaluating pros and cons, we can break complex problems into smaller solvable steps so we can develop reasonable solutions using our knowledge, skills, creativity, and intuition. 
-
-
-== School Director's Welcome
-.47% of today's jobs will be computerized in the next couple of decades:
-[quote, "The Future of Employment", Oxford University, September 2013]
-
-According to a recent study by Oxford University, 47% of today’s jobs won’t exist in the next ten to twenty years.  How is this even possible?  One word: *technology*. As our economy has shifted from agriculture to manufacturing, from service to knowledge,  technology has replaced jobs requiring physical labor. Now computers are challenging humans in a wide variety of cognitive tasks from driving to surgery. 
-
-Technology is changing everything! Sadly, today's schools aren't preparing our children for today's reality--let alone the future of 2020 or 2030.  For our kids to thrive in this tech-driven reality, we need to abandon the failing educational paradigm of the past and look to the future. 
-
-At Wasatch Institute of Technology, we’re rebooting education to prepare our students for the top-paying technology jobs of the future through _Next Generation Education_.  _Next Generation Education_ is an Agile, hands-on, real world-focused approach that puts learning in context through non-Googleable projects.  Our three week sprints combine learning sessions, guest speakers, field trips, and hands-on activities all centered around a shared theme, like water, media, space, and--of course--technology. 
-
-At the Wasatch Institute of Technology, our learning extends beyond curriculum to developing character.  In fact, at WIT we are working to develop <<WITForMe.adoc#_the_perfect_wit_student,these key characteristics>>: 
-
-* Mature
-* Passionate about learning
-* Committed
-* Forward looking
-* Hard working
-* Self-disciplined
-* Productive
-* Well-rounded
-* Critical thinkers
-
-Our approach is to education so compelling that we have students attending from American Fork to Layton, Bluffdale to Bountiful, from Magna to Draper--and lots of places in  between.  All of our students are able to <<Transportation.adoc#_students_using_transit,conveniently and safely travel to WIT>> via Trax and FrontRunner. 
-
-If you are or know of a forward-looking 9th through 12th grader that wants to prepare for the future, consider <<EnrollNow.adoc#_enrollment_application,joining us for a life-changing experience>> at WIT]. 
-
-Here's to the future!
-
-David Moss
-School Director
 
 == WIT's History
 The Wasatch Institute of Technology is the brainchild of David Moss, our current School Director. After teaching college-level computer science full-time for nearly a decade, he was baffled by the declining abilities of incoming computer science students. Despite the fact that these incoming students had more exposure to computers than their predecessors, they were less capable of doing anything useful with them. 

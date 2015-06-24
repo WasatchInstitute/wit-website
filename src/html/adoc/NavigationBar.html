@@ -1,12 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <link href="assets/css/cosmo.bootstrap.css" rel="stylesheet">
-        <link href="assets/plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" media="all">
-        <link href="assets/plugins/hover.css" rel="stylesheet">
-        <link href="assets/css/wit_main.css" rel="stylesheet">
-    </head>
-    <body>
+<head>
+ <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta name="description" content="">
+            <meta name="author" content="">
+            
+            <link href="css/style.css" rel="stylesheet">
+            <link href="assets/css/cosmo.bootstrap.css" rel="stylesheet">
+            <link href="assets/plugins/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+            <link href="assets/plugins/hover.css" rel="stylesheet">
+            <link href="assets/css/wit_main.css" rel="stylesheet">
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+            <script>
+	           $(function() {
+	               $('a[href*=#]:not([href=#])').click(function() {
+	                   if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	                       var target = $(this.hash);
+	                       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	                       if (target.length) {
+	                           $('html,body').animate({
+	                               scrollTop: target.offset().top
+	                           }, 1000);
+	                       return false;
+	                       }
+	                   }
+	               });
+	           });
+	       </script>
+	       
             <nav class="navbar navbar-default">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -30,7 +53,18 @@
             <li><a href="AgileMethodology.html">Agile Methodology</a></li>
             <li><a href="NextGeneration.html">Next Generation Education</a></li>
             <li><a href="PortraitGraduate.html">Portrait of a WIT Graduate</a></li>
-            <li><a href="#">How WIT works</a></li>
+            <li class="dropdown-submenu"><a tabindex="1" href="#">How WIT works</a>
+             <ul class="dropdown-menu">
+                                                <a href="Sprint.html">Sprints</a>
+                                                <br>
+                                                <a href="SCOPS.html">Extracurricular Activities</a>
+                                                <br>
+                                                <a href="GradingWIT.html">Grading</a>
+                                                <br>
+                                                <a href="Portfolio.html">Portfolio</a>
+                                                <br>
+                                                <a href="Internships.html">Internships</a>
+                                            </ul>
             <li><a href="LifeWIT.html">Life at WIT</a></li>
           </ul>
         </li>
@@ -77,22 +111,7 @@
             <li><a href="PartneringWIT.html">Partner with WIT</a></li>
           </ul>
         </li>
-      </ul>
-      <!--<form class="navbar-form navbar-right" role="search">
-        <div class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
-        </div>
-        <button type="submit" class="btn btn-default"><span class="fa fa-search pull-left"></span>Submit</button>
-      </form>
-      <ul class="nav navbar-nav navbar-right">-->
-      </ul>
-      </div>
-    </nav>
-                <!--Navbar end here-->
-  <!-- Indicators -->
-
-  <!-- Wrapper for slides -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    </body>
-</html>
+                            </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </nav> <!-- NAVBAR ENDS HERE !-->
