@@ -88,7 +88,7 @@
 		    <fileset dir="${src.html.asset.dir}"/>
 	  	</copy>
 	  	
-	  	<!-- Insert Bootstrap navbar data into HTML head -->
+	  	<!-- Insert Bootstrap navbar data into HTML head 
 	  	<echo message="Inserting Bootstrap navbar into HTML files..." />
 		<loadresource property="bootstrap.navbar.contents">
 			<fileset file="${src.html.dir}/NavigationBar.html" />
@@ -96,7 +96,7 @@
 	
 		<replaceregexp replace="${bootstrap.navbar.contents}" flags="g" match='\&lt;head\&gt;'>
  			<fileset dir="${target.html.dir}" />
-		</replaceregexp>
+		</replaceregexp>  -->
     </target>
 	
 <!-- ==================================================

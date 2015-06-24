@@ -7,7 +7,7 @@
 == Overview
 The public ultimately owns our charter school. Our Board has the authority to govern our school on behalf of the public as it acts in a trustee relationship. Functioning as a single body, our Board will set policy to identify what needs to be done, and allow the Core Administrative Team to determine how (within the Board-defined policy limits) to achieve it. The Board will hold itself and the School Director accountable through a transparent evaluation processes. The primary purposes of our Board of Directors is to:
 
-image::WIT-board-responsibilities.png["WIT board responsibilities", 400,float="top",align="center"]
+image::imgs/WIT-board-responsibilities.png["WIT board responsibilities", 400,float="top",align="center"]
 
 '''
 
