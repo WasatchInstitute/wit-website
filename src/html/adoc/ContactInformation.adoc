@@ -10,22 +10,22 @@ include::src/html/adoc/navbar.adoc[]
             <div id="sidebar-wrapper">
                 <ul class="sidebar-nav">
                     <li class="sidebar-brand">
-                        <a href="#_hours_of_operation">Hours of operation</a>
+                        <a href="#_hours_of_operation">Hours of Operation</a>
                     </li>
                     <li class="sidebar-brand">
                         <a href="#_location">Location</a>
                     </li>
                     <li class="sidebar-brand">
-                        <a href="#_contact_information">Contact information</a>
+                        <a href="#_contact_information">Contact Information</a>
                     </li>
                     <li class="sidebar-brand">
-                        <a href="#_why_donate">Why donate?</a>
+                        <a href="#_why_donate">Why Donate?</a>
                     </li>
                     <li class="sidebar-brand">
-                        <a href="#_donate_now">Donate now</a>
+                        <a href="#_donate_now">Donate Now</a>
                     </li>
                     <li class="sidebar-brand">
-                        <a href="#_enroll_now">Enroll now</a>
+                        <a href="#_enroll_now">Enroll Now</a>
                     </li>
                 </ul>
             </div>

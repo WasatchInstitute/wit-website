@@ -15,6 +15,9 @@ include::src/html/adoc/navbar.adoc[]
                         <a href="#_extracurricular_fees">Extracurricular Fees</a>
                     </li>
                     <li class="sidebar-brand">
+                        <a href="#_replacement_fees">Replacement Fees</a>
+                    </li>
+                    <li class="sidebar-brand">
                         <a href="#_fees">Fee Waivers</a>
                     </li>
                     <li class="sidebar-brand">
@@ -55,6 +58,9 @@ Our 2015-2016 school fees are:
 
 == Extracurricular Fees
 Fees may be charged for extracurricular activities, since participation is voluntary and does not affect a student's grade or ability to participate fully in any course taught during the regular school day. Extracurricular fees are not eligible for a fee waiver (see http://www.rules.utah.gov/publicat/code/r277/r277-407.htm#T4[R277-407-4]). As a school, our goal is for all extracurricular activities to be as financially self-sufficient as possible, supported either by student government funds, outside donations, fund raising, fees, etc.
+
+== Replacement Fees
+Currently, the replacement fee for a UTA Transit pass is $10. This fee can be handled in the main office during <<ContactInformation.adoc#Hours of Operation,office hours>>.
 
 == Fee Waivers
 To ensure the participation of all students, fees are waived for eligible students for any required class, program, or activity held during the regular school hours that affects the student's grade. Fee waivers are not available for extracurricular activities. The process of applying for fee waivers will be handled confidentially and without discrimination. Only school staff with a need and right to know should be aware of student fee waiver status. Student aides or parent volunteers will never assist in the fee waiver process.

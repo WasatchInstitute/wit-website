@@ -36,7 +36,7 @@ image::Frontrunner.jpg["Frontrunner", 300,float="left",align="center"]
 image::Bus.jpg["Bus", 300,float="left",align="right"]
 
 == Transit Pass Information
-All Wasatch Institute of Technology students receive a Utah Transit Authority Premium Transit pass which they will use throughout the school year. This pass offers unlimited access to TRAX, FrontRunner, and UTA busses (except ski buses). The transit pass is the property of WIT, is non-transferrable, and is valid from mid-August to mid-June. Students keep their pass throughout their time at WIT. Replacement passes are available; see the <<EnrollmentProcess.adoc#Fees,fees page>> for the current replacement price.
+All Wasatch Institute of Technology students receive a Utah Transit Authority Premium Transit pass which they will use throughout the school year. This pass offers unlimited access to TRAX, FrontRunner, and UTA busses (except ski buses). The transit pass is the property of WIT, is non-transferrable, and is valid from mid-August to mid-June. Students keep their pass throughout their time at WIT. Replacement passes are available; see the <<Fees.adoc#replacement fees,fees page>> for the current replacement price.
 
 Parents are required to pay the first month's payment for the pass as part of the student's registration fees; WIT will pay the remaining monthly payments so long as the student remains at WIT. 
 

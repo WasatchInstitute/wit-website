@@ -1,0 +1,193 @@
+= Instructional Methods
+:sectanchors:
+
+include::src/html/adoc/navbar.adoc[]
+
+[quote, Elbert Hubbard, early 20th century philosopher]     
+A school should not be a preparation for life, it should be life.
+
+Life is inherently interdisciplinary; consider a conscious trip to the grocery store. Before even arriving at the store you craft your plan: create a shopping list, examine store ads, find relevant coupons, and plan your route. Once you are at the store, you can begin finding, weighing, evaluating, estimating, comparing, selecting, and totaling. Look what has just happened: important skills of organization, comparison, budgeting, math, critical thinking, logic, nutrition, and even the environment have just been exercised, crossing several subject areas.
+
+We wish to return the locus of control back to the classroom by removing as many barriers to learning as possible. To that end, we are binding teachers together in cross-functional, self-organizing, and accountable teams while giving them the autonomy to determine who, how, and when they will be teaching. These Teaching Teams become responsible to provide active learning opportunities and to guide students in that learning. The students, on the other hand, have the responsibility of learning, but have the flexibility to demonstrate what they have learned in any way they choose. By collaborating to solve real-world problems across discipline boundaries and grade levels, students and teachers will go beyond a mere acquisition of knowledge to cultivating capacities to think and to solve problems. These learners will become generalists capable of rapidly adapting to a variety of situations in our ever-changing world. To help us achieve this, we may incorporate the following instructional methods.
+
+[cols="2*"]
+|===
+
+a| [large]#*Electronic Portfolios*# +
+Assessment involves application of knowledge, often to new situations, and the ability to explain or demonstrate mastery of subject matter. This is best done through multiple means such as interdisciplinary projects, writing, and oral presentations with reflection serving as a key component to provide constant examination and re-examination of the learning process. As such, electronic portfolios with their student-original web pages, reflective journals, photography, presentations, art, music, videos, and spreadsheets are a critical component of our curriculum. Instead of simply regurgitating information, our students are responsible to creatively demonstrate their proficiency in the assigned learning outcomes.
+
+Benefits to electronic portfolio use include:
+
+* More holistic course assessment
+* Increased student learning effectiveness
+* Increased student engagement
+* A student understanding the interconnectedness of their entire learning experience
+* A deeper understanding of the learning objective’s significance
+* More time for the teacher (since they’re no longer tasked with creating assignments for their students)
+a| [large]#*Sources*# +
+AAC&U. (2007). College Learning for the New Global Century. Washington, DC: Association of American Colleges and Universities.
+
+Blackburn, Jessica L., and Hakel, Milton D., (2006) “Enhancing Self‐Regulation and Goal Orientation with e Portfolios,” Handbook of Research on ePortfolios. Idea Group.
+
+Bresciani, M. (2005). “Electronic Co‐Curricular Student Portfolios—Putting Them into Practice.” New Directions for Student Services. Number 112. Winter, 2005.
+
+Cambridge, B. L., “Electronic Portfolios: Emerging Practices in Student, Faculty, and Institutional Learning”. Washington, DC: American Association for Higher Education.
+
+Chappell, David S., and Schermerhorn, Jr., John R. “Using Electronic Student Portfolios in Management Education: A Stakeholder Perspective,” Journal of Management Education, Volume 23, number 6.
+
+Doig, Bob, et al., (2006) “Using ePortfolios to Enhance Reflective Learning and Development,”, Handbook of Research on ePortfolios. Idea Group.
+
+Eynon, Bret, (2009a) “It Helped Me See a New Me: ePortfolio, Learning and Change at LaGuardia Community College,” Posted January 7, 2009 to Academic Commons.
+
+Eynon, Bret, (2009b) “’The Future of ePortfolio’ Roundtable,” Filtered: The Academic Commons Magazine. January, 2009.
+
+Fitch, D. (2008). “The Use of ePortfolios in Evaluating the Curriculum and Student Learning.” Journal of Social Work Education. Fall, 2008. Retrieved from Findarticles.com.
+
+Goldsmith, Diane J., “Enhancing Learning and Assessment Through e‐Portfolios: A Collaborative Effort in Connecticut,” New Directions for Student Services, number 117. Fall 2007, page 37.
+
+Hart Research Associates, (2009) “Trends in Learning Outcomes, General Education, and Assessment,” A Survey Among Members of the Association of American Colleges and Universities. April, 2009.
+
+Johnson, G., and Rayman, J. (2007). “EPortfolios: A Collaboration Between Student Affairs and Faculty.” New Directions for Student Services, number 19. Fall, 2007.
+
+Knight, W., Hakel, M., and Gromko, M. (2008) “The Relationship Between Electronic Portfolio Participation and Student Success.” Professional File of the Association for Institutional Research. Number 107. Spring, 2008.
+
+Lorenzo, G., and Ittleson, J. (2005). “An Overview of EPortfolios”. Educause Learning Inititive Paper 1. July, 2005. Available from www.educause.edu.
+
+Meyer, Barbara, and Latham, Nancy. (2008) “Implementing Electronic Portfolios: Benefits, Challenges and Suggestions.” Educause Quarterly, Volume 31, Number 1.
+
+Miller, Ross, and Morgaine, Wende. (2009) “The Benefits of E‐portfolios for Students and Faculty in Their Own Words,” Peer Review. Winter, 2009.
+
+Ring, G., Weaver, B., and Jones, Jr., J. (2008). “Electronic Portfolios: Engaged Students Create Multimedia‐Rich Artifacts.” Practice, 4(2). Fall, 2008. Online version.
+
+Rogers, G. M., and Williams, J., (2009) “Promise and Pitfalls of Electronic Portfolios: Lessons Learned from Experience.” Accreditation Board for Engineering Technology. 2001. As cited in John Zubizarreta, The Learning Portfolio. Reflective Practice for Improving Student Learning. 2nd edition. Jossey‐Bass.
+
+Rowh, M. (2008). “Building an EPortfolio”. Career World. November/December 2008. 26‐28.
+
+a| [large]#*Problem-based Learning*# +
+A Teaching Team member may decide to solve a problem to achieve the assigned learning objective(s) of the learning session. Larger problems will require coordination across multiple learning sessions and usually involve more than one Teaching Team member. In problem-based learning, information and instructional materials are no longer the focus, but are one of many reference resources to be used in solving the problem. The problems we attempt to solve are real and meaningful: internal projects (school computer network, writing Pennant modules, fixing defects in Pennant); inspiration from current events or hot topics; problems faced by our business partners submitted through our Small Business IT Solutions Center; participation in open source projects; or by doing other service learning work.
+
+This approach requires significant teacher knowledge and a loss of teacher control: the learners have ownership of the problem, and the teacher is to guide and facilitate. Typically, the teacher will come to a learning session with a rough outline of what they would like to accomplish. However, the questions that students ask, or the assistance that students need as they develop their portfolio artifacts may cause the teacher to deviate from or even abandon their outline. As long as the deviation is focused on the learning objective(s), it is allowed. This is what is meant by a “loss of teacher control”.
+
+The learning session is no longer knowledge driven, but rather focused on a metacognitive process involving collaboration, personal autonomy, reflectivity, active engagement, personal relevance, and pluralism–with the ultimate goal of student independence. If done well, these ingredients can combine to create a highly effective learning environment.  Benefits to problem-based learning include:
+
+* Students are actively engaged
+* Students immediately apply the knowledge they learn
+* Students think critically and creatively and monitor their own understanding
+* Courses become more fluid and dynamic
+* Students seem to retain their knowledge longer than traditional students
+* Fosters sustained learning
+* Reduced student discipline problems
+a| [large]#*Sources*# +
+Boud, D. & Feletti, G. (Eds.) (1991).”The Challenge of Problem Based Learning.” New York: St. Martin’s Press.
+
+Bridges, E., Hallinger, P. (1992). ”Problem Based Learning For Administrators.” ERIC Clearinghouse on Educational Management, University of Oregon.
+
+Lebow, D. (1993). “Constructivist Values for Systems Design: Five Principles Toward a New Mindset.” Educational Technology Research and Development, 41, 4-16.
+
+Savery, John R. & Diffy, Thomas M. (June, 2001). “Problem Based Learning: An Instructional Model and its Constructivist Framework.” Center for Research on Learning and Technology, Indiana University.
+
+a| [large]#*Service Learning*# +
+Service learning takes problem-based learning to the next level. By working with community organizations to find solutions to real-world issues and social problems, students gain an understanding of community issues, community assets, and community processes for making change happen. In our service learning projects, we help our community partner reach their self-defined needs.  Meaningful service to the community interwoven with high-quality classroom instruction benefits students in these areas:
+
+* Enhances student academic skills
+* Enriches and enlivens teaching and learning
+* Engages students in active learning that demonstrates the relevance and importance of academic work for their life experience and career choices
+* Increases opportunities for professional recognition and reward
+* Higher academic achievement and interest in furthering their education
+* Fosters a commitment to civic participation
+* Increases awareness of current societal issues as they relate to academic areas of interest
+* Develops civic responsibility through active community involvement
+* Provides human resources to meet educational, human, safety, and environmental needs of local communities
+* Fosters an ethic of service and civic participation in students who will be tomorrow’s volunteers and civic leaders
+* Creates potential for additional partnerships and collaboration with our school
+* Sharpens in-demand skills
+* Improves interpersonal skills
+* Enhanced problem-solving skills, ability to work in teams, and planning abilities
+* Increased sense of self-efficacy as young people learn that they can impact real social challenges, problems, and needs
+*Broadens perspectives of diversity issues and enhances critical thinking skills
+a|[large]#*Sources*# +
+Almonte Paul, Dorell, Hafflin et.al. “Service Learning at Salt Lake Community College, A Faculty Handbook”.
+
+Chung, A. N. (1997). Service as a strategy in out-of-school time: A how-to manual. Washington, DC: Corporation for National Service. Retrieved from http://www.nationalserviceresources.org/learns/service-ost
+
+Coe-Regan, J. R., & O’Donnell, J. (2006). Best practices for integrating technology and service learning in a youth development program. Journal of Evidence-Based Social Work, 3, 201-220.
+
+Currents: The Newsletter of Youth Service California, Volume IX, Number 3, 2001.
+
+Lewis-Charp, H., HanhCao Yu, H., Soukamneuth, S., & Lacoe, J. (2003). Extending the reach of youth development through civic activism: Research results from the youth leadership for development initiative. Takoma Park, MD: Innovation Center for Community and Youth Development.
+
+Tannenbaum, S. C. (2007). Tandem pedagogy: Embedding service-learning into an after-school program. Journal of Experiential Education, 29(2), 111-125.
+
+YMCA of the USA. (2004). The YMCA service-learning guide: A tool for enriching the member, the participant, the YMCA, and the community (2nd ed.). Chicago, IL.
+
+a| [large]#*Mentoring*# +
+Students are assigned a mentor when they enter the school, and will remain with that mentor throughout their stay at our school. The mentor’s purpose is to regularly provide support, guidance, and assistance through a stable, non-threatening relationship. As there is no credit associated with mentoring, other non-teaching full-time employees can help. Each regular full-time employee in the school will be involved in a mentoring relationship with approximately 18 students. The mentor’s task is to look holistically at the mentee, ideally becoming a friend and advocate. In these small groups and occasionally individually, the group will read, write, discuss and learn from each other.
+
+Benefits to meaningful mentoring include:
+
+* Better attendance
+* Better chance of going on to higher education
+* Better attitudes toward school
+* Better chance of preventing substance abuse
+* Promotes positive social attitudes and relationships
+* The longer the mentoring relationship, the better the outcome
+a| [large]#*Sources*# +
+Allen, J., Aber, J. and Leadbeter, B. (1990) “Adolescent problem behaviors: The influence of attachment and autonomy.” Psychiatric Clinics of North America 13, 455-467.
+
+Jekielek, Susan M. et. al. (February 2002). “Mentoring: A Promising Strategy for Youth Development”, Child Trends.
+
+Scales, P., & Gibbons, J. (1996). “Extended family members and unrelated adults in the lives of younger adolescents: A research agenda”. Journal of Early Adolescence, 16(4), 365-389.
+
+2+^.^a| [large]#*Reading*# +
+The word literacy connotes a high degree of competency and usually means that a person knows how to read and write. A literate person, on the other hand, is well read, using and applying high level thinking skills across a broad range of topics. These high level thinking skills continue to expand as the reader is continuously exposed to new ideas and words from all over the world and across different time periods. Depending on the books being read, the reader may enlarge their frame of reference and better understand things happening around them.
+
+For these reasons, we will have a daily 30 minute reading time for our students Mondays through Thursdays. During this time, students will read nearly anything except their reading assignments. Students will be encouraged to read from a variety of genres. Every student will record their observations, thoughts, and comments about their reading on their reading blog, which will be accessible to everyone throughout the school. Students may join with other students to read the same book; throughout their reading they may meet to discuss thoughts, feelings, ideas, or impressions they had while reading.
+
+a| [large]#*Exercise*# +
+Everyone is aware of the physical benefits to exercise, but not many actually get around to regularly doing it. Dr. Antronette Yancey, Director of the Center to Eliminate Health Disparities notes the educational benefits of regular exercise in education:
+
+Kids pay better attention to their subjects when they’ve been active
+Kids are less likely to be disruptive in terms of their classroom behavior when they’re active
+Kids feel better about themselves, have higher self-esteem, less depression, and less anxiety when they’re active
+Studies have found that students that exercise daily do better on language, reading, and the basic battery of tests–even when their academic time is reduced to allow for exercise. With ⅔ of Americans overweight, trying to get people to exercise during their leisure time isn’t working.
+
+Based on principles found in Dr. Yancey’s book, Instant Recess: Building a Fit Nation 10 Minutes at a Time, we will be holding a daily exercise period Monday through Thursday. On Fridays, we expect that many students will choose to participate in a sports-oriented Student Community of Practice such as tennis, swimming, basketball, etc.
+a| [large]#*Sources*# +
+Yancey, Antronette. (2010) “Instant Recess: Building a Fit Nation 10 Minutes at a Time”. University of California Press, 1st edition.
+
+a| [large]#*Just-In-Time Learning*# +
+The Just-In-Time (JIT) instruction methodology, a type of experiential learning where students learn concepts immediately before they apply them in a meaningful project, helps students better understand and retain information since they are applying what they’ve just learned to a “real world” problem.
+a| [large]#*Sources*# +
+Maxim, B.R., Akingbehin, K. & Modesitt, K.L. (1999). “Just-in-Time Learning in Software Engineering.” Journal of Computers in Mathematics and Science Teaching, 18(3), 287-301. Charlotesville, VA: AACE.
+
+a| [large]#*POGIL*# +
+Process Oriented Guided Inquiry Learning (POGIL) is a classroom and laboratory technique that seeks to simultaneously teach content and key process skills such as the ability to think analytically and work effectively as part of a collaborative team.  A POGIL classroom or lab consists of any number of students working in small groups on specially designed guided inquiry materials. These materials supply students with data or information followed by leading questions designed to guide them toward formulation of their own valid conclusions—essentially a recapitulation of the scientific method. The teacher serves as facilitator, observing and periodically addressing individual and classroom-wide needs.
+
+POGIL is based on research indicating that a) teaching by telling does not work for most students, b) students who are part of an interactive community are more likely to be successful, and c) knowledge is personal; students enjoy themselves more and develop greater ownership over the material when they are given an opportunity to construct their own understanding.
+
+POGIL’s effectiveness has been assessed at a range of institutions and for a variety of courses. Several common outcomes are observed in all of these studies:
+
+* Student attrition is lower for POGIL than traditional methods
+* Student mastery of content is generally higher for POGIL than traditional methods
+* Most students prefer POGIL over traditional methods
+
+A discovery-based team environment energizes students and provides instructors with instant and constant feedback about what their students understand and misunderstand. Students quickly pick up the message that logical thinking and teamwork are prized above simply getting the “correct” answer. This emphasizes that learning is not a solitary task of memorizing information, but an interactive process of refining one’s understanding and developing one’s skills.
+a| [large]#*Sources*# +
+POGIL website. Accessed 24 Jan 2011. Available at http://www.pogil.org/about
+
+Farrell, J. J., Moog, R. S., and Spencer, J. N. (1999). “A guided inquiry general chemistry course.” Journal of Chemistry Education, 76, 570-574.
+
+Hanson, D., and Wolfskill, T. (2000). “Process Workshops – A New Model for Instruction.” Journal of Chemistry Education, 77, 120-130.
+
+Hinde, R. J., and Kovac, J. (2001). “Student Active Learning in Physical Chemistry.” Journal of Chemistry Education, 78, 93-99.
+
+Lewis, J. E., and Lewis, S. E. (2005). “Departing from Lectures: An Evaluation of a Peer-led Guided Inquiry Alternative.” Journal of Chemistry Education, 82(1), 135-139.
+
+McKnight, G. (2004). Unpublished results.
+
+Straumanis A., and Simons E. (2006). “Assessment of Student Learning in POGIL Organic Chemistry.” Abstracts of papers of the American Chemical Society, 26 Mar 2006, Vol. 231. Meeting abstract: 1272-CHED
+
+2+^.^a| [large]#*Field Experience*# +
+Students will regularly have field experiences during as part of their Student Communities of Practice. Depending on the SCOP, students will leave the school in small groups to go on field trips. Other SCOPs may host guest speakers or outside presenters.
+
+|===
