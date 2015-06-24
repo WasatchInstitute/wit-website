@@ -3,9 +3,6 @@
 
 include::src/html/adoc/navbar.adoc[]
 
-
-== Portrait of a WIT Graduate
-
 == Characteristics
 Students at the Wasatch Institute of Technology are working to become: 
 
