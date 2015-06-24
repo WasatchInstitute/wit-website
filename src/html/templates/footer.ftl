@@ -1,15 +1,34 @@
-    </div>
-    <!-- END OUTTER -->
+	<footer class="footer white section-wrapper">
+    	<nav class="footer-nav" role="navigation">
+        	<ul>
+            	<li><a class="sscroll" href="#about"><i class="fa fa-home fa-2x"/></i>&nbsp;About WIT</a></li>
+				<li><a href="blog.html"><i class="fa fa-book fa-2x"></i>&nbsp;Blog</a>
+                <li><a href="#somewhere"><i class="fa fa-video-camera fa-2x"></i>&nbsp;News & Events</a></li>
+                <li><a href="#contact"><i class="fa fa-phone fa-2x"></i>&nbsp;Contact</a></li>
+                <li><a href="http://www.twitter.com/WITInfo"><i class="fa fa-twitter fa-2x"></i>&nbsp;Twitter</a></li>
+                <li><a href="http://www.facebook.com/WITInfo"><i class="fa fa-facebook fa-2x"></i>&nbsp;Facebook</a></li>
+            </ul>
+        </nav>
+        
+        <p class="copyright">&copy; 2015 Wasatch Institute of Technology. All Rights Reserved</p>
+        <div class="footer-logo">
+        	<img src="images/wit-logo-white.png" alt="WIT logo">
+        </div>
+        
+	    <!-- BACK TO TOP -->
+    	<div class="totop" id="backtotop">
+        	<span>
+    	        <a href="#home" class="hover sscroll"><i class="fa fa-angle-up"></i></a>
+        	</span>
+    	</div>
+	    <!-- END BACK TO TOP -->
 
-    <!-- BACK TO TOP -->
-    <div class="totop" id="backtotop">
-        <span>
-            <a href="#home" class="first sscroll"><i class="fa fa-angle-up"></i></a>
-            <a href="#home" class="hover sscroll"><i class="fa fa-angle-up"></i></a>
-        </span>
-  	  	<p>&copy; 2015 Wasatch Institute of Technology</p>
+        <div class="spacer big"></div>
+    </footer>
+
     </div>
-    <!-- END BACK TO TOP -->
+	<!-- END CONTENT SECTION -->
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

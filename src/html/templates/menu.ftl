@@ -24,24 +24,24 @@
 						<!-- WHY WIT -->
 				        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">WHY WIT?<span class="caret"></span></a>
 				        	<ul class="dropdown-menu" role="menu">
-            					<li><a href="TheProblem.html">The Problem</a></li>
-            					<li><a href="AgileMethodology.html">Agile Methodology</a></li>
-            					<li><a href="NextGeneration.html">Next Generation Education</a></li>
-            					<li><a href="PortraitGraduate.html">Portrait of a WIT Graduate</a></li>
-            					
-            					<li class="dropdown-submenu"><a tabindex="1" href="#">How WIT works</a>
-					            	<ul class="dropdown-menu">
-               							<li><a href="Sprint.html">Sprints</a></li>
-               							<li><a href="SCOPS.html">Extracurricular</a></li>
-               							<li><a href="GradingWIT.html">Grading</a></li>
-               							<li><a href="Portfolio.html">Portfolio</a></li>
-               							<li><a href="Internships.html">Internships</a></li>
-             						</ul>
-             					</li>
-
-            					<li><a href="LifeWIT.html">Life at WIT</a></li>
+            					<li><a class="sscroll" href="TheProblem.html">The Problem</a></li>
+            					<li><a class="sscroll" href="AgileMethodology.html">Agile Methodology</a></li>
+            					<li><a class="sscroll" href="NextGeneration.html">Next Generation Education</a></li>
+            					<li><a class="sscroll" href="PortraitGraduate.html">Portrait of a WIT Graduate</a></li>
           					</ul>
           				</li>
+          				
+						<!-- HOW WIT WORKS -->
+				        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">HOW WIT WORKS<span class="caret"></span></a>
+			            	<ul class="dropdown-menu" role="menu">
+       							<li><a class="sscroll" href="Sprint.html">Sprints</a></li>
+               					<li><a class="sscroll" href="SCOPS.html">Extracurricular</a></li>
+               					<li><a class="sscroll" href="GradingWIT.html">Grading</a></li>
+               					<li><a class="sscroll" href="Portfolio.html">Portfolio</a></li>
+               					<li><a class="sscroll" href="Internships.html">Internships</a></li>
+            					<li><a class="sscroll" href="LifeWIT.html">Life at WIT</a></li>
+							</ul>
+						</li>
 
             			<!-- ABOUT WIT -->
 		        		<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">ABOUT WIT<span class="caret" /></a>
