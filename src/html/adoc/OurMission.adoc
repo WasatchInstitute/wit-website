@@ -38,7 +38,7 @@ As we work to achieve our mission, we value:
 == WIT's History
 The Wasatch Institute of Technology is the brainchild of David Moss, our current School Director. After teaching college-level computer science full-time for nearly a decade, he was baffled by the declining abilities of incoming computer science students. Despite the fact that these incoming students had more exposure to computers than their predecessors, they were less capable of doing anything useful with them. 
 
-Rather than bemoan the declining capabilities, he worked to establish a computer science-focused high school accessible to as many students as possible. Combining his expertise as a network administrator, software developer, and ScrumMaster, David adapted the Agile software development methodology for education. The result is a <<Sprint.adoc#_sprint_planning,unique learning environment found nowhere else>>. 
+Rather than bemoan the declining capabilities, he worked to establish a computer science-focused high school accessible to as many students as possible. Combining his expertise as a network administrator, software developer, and ScrumMaster, David adapted the Agile software development methodology for education. The result is a <<NextGeneration.adoc#_Next_Generation_Education,unique learning environment found nowhere else>>. 
 
 Based on our <<OurMission.adoc#_core_values,core values>>, WIT is learning laboratory, a place where we can continually try new things, innovate, and iterate as we work to prepare tomorrow's Network/Systems and Software Engineers through _Next Generation Education_. 
 

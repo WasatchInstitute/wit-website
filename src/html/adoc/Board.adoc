@@ -23,5 +23,5 @@ Isaac Strack currently works as a Design Technologist for Adobe Systems. Prior t
 === Ajay Kulkarni, Board member
 Ajay brings a wealth of experience in IT management, project management, and finance to the WIT Board of Directors.  He is currently the Director of Information Technology, Systems & Processes at NovaGroup.  Ajay has served as an IT department head for 6 years, a project manager for 8 years, and a finance director for 9 years. 
 
-==Board meetings
+== Board meetings
 Our upcoming Board meetings can be found on http://www.utah.gov/pmn/index.html[Utah Public Notices website]. Select _Schools_, then _Wasatch Institute of Technology_, then _Wasatch Institute of Technology Board_ for upcoming meetings and agendas. You can also review our https://drive.google.com/a/student.wasatchinstitute.net/folderview?ddrp=1&id=0BzkmKCgf2petMzg2YWE0NTEtNmExMS00Zjc4LThjYzYtYzQ1OTM2YTAxYTc1#[past Board meeting agendas and minutes].
