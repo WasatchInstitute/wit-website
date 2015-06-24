@@ -164,7 +164,7 @@
 	        <arg value="-b"/>
     	    <classpath>
 	    	    <fileset dir="${lib.dir}">
-	    	    	<include name="*.jar"/>
+	    	    	<include name="**/*.jar"/>
 		      </fileset>
 	        </classpath>
        </java>
