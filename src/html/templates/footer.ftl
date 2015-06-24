@@ -10,7 +10,7 @@
             </ul>
         </nav>
         
-        <p class="copyright">&copy; 2015 Wasatch Institute of Technology. All Rights Reserved</p>
+        <p class="copyright">&copy; 2015 Wasatch Institute of Technology. All Rights Reserved.</p>
         <div class="footer-logo">
         	<img src="images/wit-logo-white.png" alt="WIT logo">
         </div>
