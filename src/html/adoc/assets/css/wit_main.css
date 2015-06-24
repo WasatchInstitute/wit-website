@@ -1,0 +1,114 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-family: inherit;
+    font-weight: 50;
+    line-height: 1.3em;
+}
+h3 {
+    font-weight: 5;
+    font-family: inherit;
+    font-size: 120px; 
+    text-align: center; 
+    color: black; 
+    -webkit-text-stroke-width: 1.337px;
+}
+
+.h3-subtitle {
+    font-weight: 750; 
+    font-family: inherit;
+    font-size: 20px; 
+    margin-left: 8cm;
+    text-align: left;
+    color: #0187D2; 
+    -webkit-text-stroke-width: 1px;
+}
+
+.h3-sprintheading {
+    font-weight: 750;
+    font-family: inherit;
+    font-size: 50px;
+    text-align: left;
+    margin-left: 8cm;
+    color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+.h3-bodytext {
+    font-weight: 10;
+    font-family: inherit;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 8cm;
+    margin-right: 8cm;
+    color: #424242;
+    -webkit-text-stroke-width: 1px;
+}
+
+/* Gradient transparent - color - transparent */
+
+.hr-line {
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, rgba(1,135,210,0), rgba(1,135,210,0.75), rgba(1,135,210,0));
+    background-image:    -moz-linear-gradient(left, rgba(1,135,210,0), rgba(1,135,210,0.75), rgba(1,135,210,0));
+    background-image:     -ms-linear-gradient(left, rgba(1,135,210,0), rgba(1,135,210,0.75), rgba(1,135,210,0));
+    background-image:      -o-linear-gradient(left, rgba(1,135,210,0), rgba(1,135,210,0.75), rgba(1,135,210,0));
+}
+
+.footer-style {
+    font-family: inherit;
+    font-size: 14px;
+    text-align: center;
+    color: white;
+    background-color: #222222;
+    width: 100%;
+    height: 1cm;
+    -webkit-text-stroke-width: 1px;
+}
+
+.h7-heading {
+    font-weight: 750;
+    font-family: inherit;
+    font-size: 80px;
+    text-align: center;
+    color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+.h7-subtitle {
+    font-weight: 750; 
+    font-family: inherit;
+    font-size: 30px; 
+    text-align: center;
+    color: #0187D2; 
+    -webkit-text-stroke-width: 1px;
+}
+
+.h7-bodytext {
+    font-weight: 10;
+    font-family: inherit;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 8cm;
+    margin-right: 8cm;
+    color: #424242;
+    -webkit-text-stroke-width: 1px;
+}
+
+.h3-donatebutton {
+    align-content: center;
+}
+
+.navbar-brandimage {
+    padding-right: 1cm;
+    position: relative;
+    z-index: 3;
+}
+a.home-foot{
+text-decoration: none;
+color: white;
+}
+a.home-foot:hover{
+text-decoration: underline;
+color: #0187D2;
+}
