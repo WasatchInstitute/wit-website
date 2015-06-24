@@ -33,6 +33,7 @@
                							<li><a href="Portfolio.html">Portfolio</a></li>
                							<li><a href="Internships.html">Internships</a></li>
              						</ul>
+             					</li>
 
             					<li><a href="LifeWIT.html">Life at WIT</a></li>
           					</ul>

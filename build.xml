@@ -2,7 +2,7 @@
 <project 
 	xmlns:ivy="antlib:org.apache.ivy.ant" 
 	xmlns:asciidoctor="antlib:org.asciidoctor.ant"
-	name="wit-website" default="adoc" basedir=".">
+	name="wit-website" default="jbake" basedir=".">
 <description>Generates HTML source code for the WIT website from asciidoctor source</description>
 
 	<property name="build.dir" value="build"/>
