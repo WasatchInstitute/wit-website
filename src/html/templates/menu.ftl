@@ -10,20 +10,24 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" href="#">
-                        <img src="images/wit-logo-white.png" alt="WIT" height=50px></a>
+                        <img src="images/wit-logo-white.png" alt="WIT" height="60px" /></a>
                 </div>
 
 			    <!-- Collect the nav links, forms, and other content for toggling -->
 			    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		      		<ul class="nav navbar-nav navbar-right">
 
+						<!-- HOME -->
+				        <li class="dropdown"><a href="index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Home</a></li>
+
+
 						<!-- WHY WIT -->
-				        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Why WIT?<span class="caret" /></a>
+				        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Why WIT?<span class="caret"></span></a>
 				        	<ul class="dropdown-menu" role="menu">
-            					<li><a class="sscroll" href="TheProblem.html">The Problem</a></li>
-            					<li><a class="sscroll" href="AgileMethodology.html">Agile Methodology</a></li>
-            					<li><a class="sscroll" href="NextGeneration.html">Next Generation Education</a></li>
-            					<li><a class="sscroll" href="PortraitGraduate.html">Portrait of a WIT Graduate</a></li>
+            					<li><a href="TheProblem.html">The Problem</a></li>
+            					<li><a href="AgileMethodology.html">Agile Methodology</a></li>
+            					<li><a href="NextGeneration.html">Next Generation Education</a></li>
+            					<li><a href="PortraitGraduate.html">Portrait of a WIT Graduate</a></li>
             					
             					<li class="dropdown-submenu"><a tabindex="1" href="#">How WIT works</a>
 					            	<ul class="dropdown-menu">
