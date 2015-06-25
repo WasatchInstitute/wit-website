@@ -23,7 +23,6 @@
     	</div>
 	    <!-- END BACK TO TOP -->
 
-        <div class="spacer big"></div>
     </footer>
 
     </div>
