@@ -16,6 +16,9 @@ a {
 .main-color {
   color: #e9bd00;
 }
+.main-background-color {
+  background-color: #e9bd00;
+}
 .slides-navigation a:hover {
   background: #e9bd00;
 }
