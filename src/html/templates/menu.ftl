@@ -19,83 +19,32 @@
 		      		<ul class="nav navbar-nav navbar-left">
 
 						<!-- HOME -->
-				        <li class="dropdown"><a href="index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">HOME</a></li>
+				        <li><a href="index.html" role="button" aria-expanded="false">HOME</a></li>
+
+				        <li><a href="#problem" role="button" aria-expanded="false">THE PROBLEM</a>
+</li>
+
+				        <li><a href="#agile" role="button" aria-expanded="false">BENEFITS</a>
+</li>
+
+				        <li><a href="#nextgeneration" role="button" aria-expanded="false">NEXT GENERATION EDUCATION</a>
+</li>
+
+				        <li><a href="#portfolio" role="button" aria-expanded="false">HOW WE TEACH</a>
+</li>
+
+				        <li><a href="#graduatePortrait"
+role="button" aria-expanded="false">STUDENT CHARACTERISTICS</a>
+</li>
+
+<li><a href="#contact" role="button" aria-expanded="false">CONTACT US</a>
+</li>
 
 
-						<!-- WHY WIT -->
-				        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">WHY WIT?<span class="caret"></span></a>
-				        	<ul class="dropdown-menu" role="menu">
-            					<li><a class="sscroll" href="TheProblem.html">The Problem</a></li>
-            					<li><a class="sscroll" href="AgileMethodology.html">Agile Methodology</a></li>
-            					<li><a class="sscroll" href="NextGeneration.html">Next Generation Education</a></li>
-            					<li><a class="sscroll" href="PortraitGraduate.html">Portrait of a WIT Graduate</a></li>
-          					</ul>
-          				</li>
-          				
-						<!-- HOW WIT WORKS -->
-				        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">HOW WIT WORKS<span class="caret"></span></a>
-			            	<ul class="dropdown-menu" role="menu">
-       							<li><a class="sscroll" href="Sprint.html">Sprints</a></li>
-               					<li><a class="sscroll" href="SCOPS.html">Extracurricular</a></li>
-               					<li><a class="sscroll" href="GradingWIT.html">Grading</a></li>
-               					<li><a class="sscroll" href="Portfolio.html">Portfolio</a></li>
-               					<li><a class="sscroll" href="Internships.html">Internships</a></li>
-            					<li><a class="sscroll" href="LifeWIT.html">Life at WIT</a></li>
-							</ul>
-						</li>
-
-            			<!-- ABOUT WIT -->
-		        		<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">ABOUT WIT<span class="caret" /></a>
-          					<ul class="dropdown-menu" role="menu">
-            					<li><a class="sscroll" href="OurMission.html">Mission and History</a></li>
-            					<li><a class="sscroll" href="PoliciesProcedures.html">Policies and Procedures</a></li>
-            					<li><a class="sscroll" href="OurLocation.html">Location</a></li>
-            					<li><a class="sscroll" href="Transportation.html">Transportation</a></li>
-            					<li><a class="sscroll" href="OurStaff.html">Staff</a></li>
-            					<li><a class="sscroll" href="Board.html">Board</a></li>
-            					<li><a class="sscroll" href="ContactInformation.html">Contact Us</a></li>
-          					</ul>
-          				</li>
-
-            			<!-- POTENTIAL STUDENTS -->
-          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">POTENTIAL STUDENTS<span class="caret" /></a>
-          					<ul class="dropdown-menu" role="menu">
-            					<li><a class="sscroll" href="WITForMe.html">Is WIT for me?</a></li>
-            					<li><a class="sscroll" href="LoveWIT.html">Why we love WIT</a></li>
-            					<li><a class="sscroll" href="EnrollmentProcess.html">Enrollment Process</a></li>
-            					<li><a class="sscroll" href="Fees.html">Fees</a></li>
-            					<li><a class="sscroll" href="EnrollNow.html">Enroll now</a></li>
-          					</ul>
-          				</li>
-
-            			<!-- NEWS AND EVENTS -->
-						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">NEWS AND EVENTS<span class="caret"></span></a>
-							<ul class="dropdown-menu" role="menu">
-            					<li><a class="sscroll" href="Calendar.html">Calendar</a></li>
-            					<li><a class="sscroll" href="News.html">News and Events</a></li>
-          					</ul>
-          				</li>
-
-            			<!-- CURRENT STUDENTS -->
-          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">CURRENT STUDENTS<span class="caret"></span></a>
-          					<ul class="dropdown-menu" role="menu">
-            					<li><a class="sscroll" href="Calendar.html">Calendar</a></li>
-            					<li><a class="sscroll" href="StudentEvents.html">News and Events</a></li>
-          					</ul>
-          				</li>
-
-            			<!-- YOU AND WIT  -->
-          				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">YOU AND WIT<span class="caret"></span></a>
-          					<ul class="dropdown-menu" role="menu">
-            					<li><a class="sscroll" href="WorkWIT.html">Work at WIT</a></li>
-            					<li><a class="sscroll" href="PartneringWIT.html">Partner with WIT</a></li>
-          					</ul>
-          				</li>
-					</ul>
-					
-					<ul class="nav navbar-nav navbar-right">
+<!-- ENROLL NOW -->
+<ul class="nav navbar-nav navbar-right">
         				<!-- <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li> -->
-        				<li class="main-background-color"><a href="#"><span class="glyphicon glyphicon-user"></span> Enroll now</a></li>
+        				<li class="main-background-color"><a href="#contact"><span class="glyphicon glyphicon-user"></span> Enroll now</a></li>
       				</ul>
 				</div><!-- /.navbar-collapse -->
 			</div><!-- /.container-fluid -->

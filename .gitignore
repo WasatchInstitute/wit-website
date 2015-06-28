@@ -8,6 +8,8 @@
 
 /target
 
+/qa
+
 # Compiled source #
 ###################
 *.com

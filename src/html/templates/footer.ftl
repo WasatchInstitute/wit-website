@@ -1,9 +1,12 @@
 	<footer class="footer white section-wrapper">
     	<nav class="footer-nav" role="navigation">
         	<ul>
+<!--
             	<li><a class="sscroll" href="#about"><i class="fa fa-home fa-2x"/></i>&nbsp;About WIT</a></li>
 				<li><a href="blog.html"><i class="fa fa-book fa-2x"></i>&nbsp;Blog</a>
                 <li><a href="#somewhere"><i class="fa fa-video-camera fa-2x"></i>&nbsp;News & Events</a></li>
+
+-->
                 <li><a href="#contact"><i class="fa fa-phone fa-2x"></i>&nbsp;Contact</a></li>
                 <li><a href="http://www.twitter.com/WITInfo"><i class="fa fa-twitter fa-2x"></i>&nbsp;Twitter</a></li>
                 <li><a href="http://www.facebook.com/WITInfo"><i class="fa fa-facebook fa-2x"></i>&nbsp;Facebook</a></li>
