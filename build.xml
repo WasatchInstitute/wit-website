@@ -5,8 +5,6 @@
 	name="wit-website" default="jbake" basedir=".">
 <description>Generates HTML source code for the WIT website from asciidoctor source</description>
 
-	<loadproperties srcFile="build.properties" />
-
 	<property name="build.dir" value="build"/>
 	<property name="target.dir" value="target" />
 	<property name="target.html.dir" value="${target.dir}/public_html"/>
@@ -36,6 +34,13 @@
 	</target>
 
 	<target name="deploy" depends="jbake" description="--> Deploy webapp to local deploy webdir">
+		<if>
+    	    <available file="abc.txt"/>
+        	<then>
+				<loadproperties srcFile="build.properties" />
+	        </then>
+    	</if>
+
 		<!-- copy all asset files into target/public_html -->
 		<echo message="Syncing HTML asset files..." />
 		<copy todir="${deploy.dir}">
