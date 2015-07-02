@@ -31,8 +31,9 @@
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
     <![endif]-->
-
-	<!--  <link href="css/wit_main.css" rel="stylesheet">  -->
+    
+	<!-- WIT COLOR SCHEME CSS -->
+    <link href="css/scheme/wit.css" rel="stylesheet">
 </head>
 
 <body data-spy="scroll" data-target=".navbar-collapse">
