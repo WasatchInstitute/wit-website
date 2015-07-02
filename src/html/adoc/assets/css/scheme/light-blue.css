@@ -1,69 +1,69 @@
 /* CSS crunched with Crunch - http://crunchapp.net/ */
 .navbar .navbar-brand {
-  background: #4cddf3;
+  background: #0095FF;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #4cddf3;
+  background-color: #0095FF;
 }
 .dropdown-menu {
-  background-color: #4cddf3;
+  background-color: #0095FF;
 }
 a {
-  color: #4cddf3;
+  color: #0095FF;
 }
 .main-color {
-  color: #4cddf3;
+  color: #0095FF;
 }
 .main-background-color {
-  background-color: #4cddf3;
+  background-color: #0095FF;
 }
 .slides-navigation a:hover {
-  background: #4cddf3;
+  background: #0095FF;
 }
 .slides-pagination a.current {
-  background: #4cddf3;
+  background: #0095FF;
 }
 .header-center a:hover {
-  color: #4cddf3;
+  color: #0095FF;
 }
 .totop:hover span > a.hover {
-  color: #4cddf3;
+  color: #0095FF;
 }
 .left-icon .icon {
-  background: #4cddf3;
+  background: #0095FF;
 }
 .styled div span {
-  background: #4cddf3;
+  background: #0095FF;
 }
 footer.footer {
-  background: #4cddf3;
+  background: #0095FF;
 }
 .post .post-meta .post-icon:hover {
-  background: #4cddf3;
+  background: #0095FF;
 }
 .post .post-meta span a {
-  color: #4cddf3;
+  color: #0095FF;
 }
 .post .read-more {
-  border: 1px solid #4cddf3;
+  border: 1px solid #0095FF;
 }
 .mejs-controls .mejs-time-rail .mejs-time-current {
-  background-color: #4cddf3;
+  background-color: #0095FF;
 }
 .mejs-horizontal-volume-current {
-  background: #4cddf3;
+  background: #0095FF;
 }
 .skill-bar ul li .bar {
-  background: #4cddf3;
+  background: #0095FF;
 }
 .pagination .pag-prev a,
 .pagination .pag-next a {
-  background: #4cddf3;
-  border-color: #4cddf3;
+  background: #0095FF;
+  border-color: #0095FF;
 }
 .testimonial-list .testimonial-item a.current ~ .testi-link,
 .testimonial-list .testimonial-item a:hover ~ .testi-link {
-  background: rgba(76, 221, 243, 0.8);
+  background: rgba(0, 149, 255, 0.8);
 }
