@@ -33,7 +33,7 @@
     <![endif]-->
     
 	<!-- WIT COLOR SCHEME CSS -->
-    <link href="css/scheme/wit.css" rel="stylesheet">
+    <link href="css/wit.css" rel="stylesheet">
 </head>
 
 <body data-spy="scroll" data-target=".navbar-collapse">

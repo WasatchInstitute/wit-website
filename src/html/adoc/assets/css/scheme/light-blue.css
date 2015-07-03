@@ -1,69 +1,69 @@
 /* CSS crunched with Crunch - http://crunchapp.net/ */
 .navbar .navbar-brand {
-  background: #0095FF;
+  background: #fbfbfb;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #0095FF;
+  background-color: #3b77ff;
 }
 .dropdown-menu {
-  background-color: #0095FF;
+  background-color: #3b77ff;
 }
 a {
-  color: #0095FF;
+  color: #3b77ff;
 }
 .main-color {
-  color: #0095FF;
+  color: #3b77ff;
 }
 .main-background-color {
-  background-color: #0095FF;
+  background-color: #3b77ff;
 }
 .slides-navigation a:hover {
-  background: #0095FF;
+  background: #3b77ff;
 }
 .slides-pagination a.current {
-  background: #0095FF;
+  background: #3b77ff;
 }
 .header-center a:hover {
-  color: #0095FF;
+  color: #3b77ff;
 }
 .totop:hover span > a.hover {
-  color: #0095FF;
+  color: #3b77ff;
 }
 .left-icon .icon {
-  background: #0095FF;
+  background: #3b77ff;
 }
 .styled div span {
-  background: #0095FF;
+  background: #3b77ff;
 }
 footer.footer {
-  background: #0095FF;
+  background: #3b77ff;
 }
 .post .post-meta .post-icon:hover {
-  background: #0095FF;
+  background: #3b77ff;
 }
 .post .post-meta span a {
-  color: #0095FF;
+  color: #3b77ff;
 }
 .post .read-more {
-  border: 1px solid #0095FF;
+  border: 1px solid #3b77ff;
 }
 .mejs-controls .mejs-time-rail .mejs-time-current {
-  background-color: #0095FF;
+  background-color: #3b77ff;
 }
 .mejs-horizontal-volume-current {
-  background: #0095FF;
+  background: #3b77ff;
 }
 .skill-bar ul li .bar {
-  background: #0095FF;
+  background: #3b77ff;
 }
 .pagination .pag-prev a,
 .pagination .pag-next a {
-  background: #0095FF;
-  border-color: #0095FF;
+  background: #3b77ff;
+  border-color: #3b77ff;
 }
 .testimonial-list .testimonial-item a.current ~ .testi-link,
 .testimonial-list .testimonial-item a:hover ~ .testi-link {
-  background: rgba(0, 149, 255, 0.8);
+  background: rgba(59, 119, 255, 0.8);
 }
