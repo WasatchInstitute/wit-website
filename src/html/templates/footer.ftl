@@ -25,7 +25,7 @@
     </div>
     <div class="footer-copyright">
       <div class="container">
-       &copy; 2015 Austin Miles &amp; David Moss. All rights reserved</a>
+       &copy; 2015 Austin Miles &amp; David Moss. All rights reserved.
       </div>
     </div>
   </footer>
@@ -45,6 +45,6 @@
           $('.slider').slider({full_width: true});
         	$('.modal-trigger').leanModal();  // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
       });
-
 </script>
+</body>
 </html>
