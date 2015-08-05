@@ -1,6 +1,6 @@
 <body>
 <!-- Start nav bar -->
-<!-- Dropdown Stucture For students -->
+<!-- Dropdown Structure For students -->
 <ul id="dropdown1" class="dropdown-content">
   <li><a href="lifeAtWit.html">Life at WIT</a></li>
   <li><a href="sprint.html">Sprints</a></li>
@@ -9,25 +9,25 @@
   <li><a href="location.html">Location</a></li>
   <li><a href="transportation.html">Transportation</a></li>
 </ul>
-<!-- End Dropdown Stucture For students -->
+<!-- End Dropdown Structure For students -->
 
-<!-- Dropdown Stucture For Parents -->
+<!-- Dropdown Structure For Parents -->
 <ul id="dropdown2" class="dropdown-content">
   <li><a href="opportunity.html">The Opportunity</a></li>
   <li><a href="mission.html">Our Mission</a></li>
   <li><a href="nextGenerationEducation.html">Next Generation Education</a></li>
   <li><a href="community.html">Our Community</a></li>
 </ul>
-<!-- End Dropdown Stucture For Parents -->
+<!-- End Dropdown Structure For Parents -->
 
-<!-- Dropdown Stucture For Enrollment -->
+<!-- Dropdown Structure For Enrollment -->
 <ul id="dropdown3" class="dropdown-content">
   <li><a href="enrollmentProcess.html">Enrollment Process</a></li>
   <li><a href="fees.html">Fees</a></li>
   <li class="divider"></li>
   <li><a href="enrollNow.html">Enroll Now!</a></li>
 </ul>
-<!-- End Dropdown Stucture For Enrollment -->
+<!-- End Dropdown Structure For Enrollment -->
 
 <!-- Navbar Content -->
 <div class="navbar-fixed">
