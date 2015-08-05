@@ -22,14 +22,12 @@
           </ul>
         </div>
       </div>
-    </div>
     <div class="footer-copyright">
       <div class="container">
        &copy; 2015 Austin Miles &amp; David Moss. All rights reserved.
       </div>
     </div>
   </footer>
-
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
@@ -38,13 +36,5 @@
   <script src="js/prism.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
-  <script>
-      $(document).ready(function(){
-					$(".dropdown-button").dropdown();
-					$(".button-collapse").sideNav();
-          $('.slider').slider({full_width: true});
-        	$('.modal-trigger').leanModal();  // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
-      });
-</script>
 </body>
 </html>

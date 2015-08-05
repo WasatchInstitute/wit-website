@@ -14,7 +14,7 @@
 <!-- Dropdown Structure For Parents -->
 <ul id="dropdown2" class="dropdown-content">
   <li><a href="opportunity.html">The Opportunity</a></li>
-  <li><a href="mission.html">Our Mission</a></li>
+  <li><a href="ourMission.html">Our Mission</a></li>
   <li><a href="nextGenerationEducation.html">Next Generation Education</a></li>
   <li><a href="community.html">Our Community</a></li>
 </ul>
@@ -31,8 +31,8 @@
 
 <!-- Navbar Content -->
 <div class="navbar-fixed">
-  <nav>
-  <div class="row nav-wrapper" >
+  <nav role="navigation">
+  <div class="nav-wrapper" >
     <a id="logo-container" href="index.html" class="brand-logo"><img src="images/w-in-gray.png" alt="WIT" height="55" style="margin-left: 20%;"></a>
     <ul class="right hide-on-med-and-down">
       <li><a href="index.html">Home</a></li>
@@ -55,7 +55,7 @@
       <li><a href="transportation.html">Transportation</a></li>
       <li class="divider"></li>
       <li><a href="opportunity.html">The Opportunity</a></li>
-      <li><a href="mission.html">Our Mission</a></li>
+      <li><a href="ourMission.html">Our Mission</a></li>
       <li><a href="nextGenerationEducation.html">Next Generation</a></li>
       <li><a href="community.html">Our Community</a></li>
       <li class="divider"></li>
