@@ -1,72 +1,54 @@
-	<footer class="footer white section-wrapper">
-    	<nav class="footer-nav" role="navigation">
-        	<ul>
-<!--
-            	<li><a class="sscroll" href="#about"><i class="fa fa-home fa-2x"/></i>&nbsp;About WIT</a></li>
-				<li><a href="blog.html"><i class="fa fa-book fa-2x"></i>&nbsp;Blog</a>
-                <li><a href="#somewhere"><i class="fa fa-video-camera fa-2x"></i>&nbsp;News & Events</a></li>
-
--->
-                <li><a href="#contact"><i class="fa fa-phone fa-2x"></i>&nbsp;Contact</a></li>
-                <li><a href="http://www.twitter.com/WITInfo"><i class="fa fa-twitter fa-2x"></i>&nbsp;Twitter</a></li>
-                <li><a href="http://www.facebook.com/WITInfo"><i class="fa fa-facebook fa-2x"></i>&nbsp;Facebook</a></li>
-            </ul>
-        </nav>
-        
-        <p class="copyright">&copy; 2015 Wasatch Institute of Technology. All Rights Reserved.</p>
-        
-        <div class="footer-logo">
-        	<img src="images/wasatch_footer_logo.png" alt="WIT logo">
+	<footer class="page-footer blue">
+      <div class="row container">
+        <div class="col m8 s12">
+          <h5 class="white-text">The Wasatch Institute of Technology</h5>
+          <p class="white-text">The mission of the Wasatch Institute of Technology is to prepare tomorrow's Software Engineers through <em>Next Generation Education</em>.</p>
         </div>
-        
-	    <!-- BACK TO TOP -->
-    	<div class="totop" id="backtotop">
-        	<span>
-    	        <a href="#home" class="hover sscroll"><i class="fa fa-angle-up"></i></a>
-        	</span>
-    	</div>
-	    <!-- END BACK TO TOP -->
-
-    </footer>
-
+        <div class="col offset-m1 m2 s12">
+          <h5 class="white-text">Navigate</h5>
+          <ul>
+            <li><a class="white-text" href="#index.html">Home</a></li>
+            <li><a class="white-text" href="#calendar.html">Calendar &amp; Events</a></li>
+            <li><a class="white-text" href="#contactUs.html">Contact Us</a></li>
+            <li><a class="white-text" href="#enrollNow.html"><strong>Enroll Now</strong></a></li>
+          </ul>
+        </div>
+          <div class="col m1 s12">
+          <h5 class="white-text">Connect</h5>
+          <ul>
+            <li><a class="white-text" href="https://www.facebook.com/WITInfo">Facebook</a></li>
+            <li><a class="white-text" href="https://twitter.com/witinfo">Twitter</a></li>
+            <li><a class="white-text" href="https://www.youtube.com/user/WasatchInstitute/feed">Youtube</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
-	<!-- END CONTENT SECTION -->
+    <div class="footer-copyright">
+      <div class="container">
+       &copy; 2015 Austin Miles &amp; David Moss. All rights reserved</a>
+      </div>
+    </div>
+  </footer>
 
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/jquery-1.10.2.min.js"></script>
-    <!-- EXPANDING THUMBNAIL JS -->
-    <script src="js/lib/grid.js"></script>
-    <!-- BOOTSTRAP JS -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- SUPER SLIDES JS -->
-    <script src="js/lib/jquery.superslides.min.js"></script>
-    <!-- JQUERY BACK TO TOP -->
-    <script src="js/lib/jquery.backtotop.js"></script>
-    <!-- JQUERY PARALLAX -->
-    <script src="js/lib/jquery.parallax.js"></script>
-    <!-- JQUERY BACKGROUND VIDEO -->
-    <script src="js/lib/jquery.backgroundvideo.js"></script>
-    <!-- JQUERY VENOBOX VIDEO -->
-    <script src="js/lib/venobox.min.js"></script>
-    <!-- JQUERY WAYPOINT -->
-    <script src="js/lib/waypoints.js"></script>
-    <!-- JQUERY WAYPOINT -->
-    <script src="js/lib/jquery.countTo.js"></script>
-    <!-- JQUERY SMOOTH SCROLL -->
-    <script src="js/lib/jquery.smooth-scroll.min.js"></script>
-    <!-- JQUERY FITVID -->
-    <script src="js/lib/jquery.fitvid.js"></script>
-    <!-- JQUERY BACKSTRETCH -->
-    <script src="js/lib/jquery.backstretch.min.js"></script>
-    <!-- JQUERY MASONRY LAYOUT 
-    <script src="js/lib/masonry.pkgd.min.js"></script>-->
-    <!-- JQUERT SUDO SLIDER JS -->
-    <script src="js/lib/jquery.sudoslider.min.js"></script>
-    <!-- MAIN JS -->
-    <script src="js/main.js"></script>
-</body>
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script>if (!window.jQuery) { document.write('<script src="bin/jquery-2.1.1.min.js"><\/script>'); }</script>
+  <script src="js/jquery.timeago.min.js"></script>
+  <script src="js/prism.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+  <script>
+      $(document).ready(function(){
+					$(".dropdown-button").dropdown();
+					$(".button-collapse").sideNav();
+          $('.slider').slider({full_width: true});
+        });
 
+      $(document).ready(function(){
+        // the "href" attribute of .modal-trigger must specify the modal ID that wants to be triggered
+        $('.modal-trigger').leanModal();
+      });
+
+</script>
 </html>
