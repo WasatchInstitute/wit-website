@@ -31,9 +31,9 @@
 
 <!-- Navbar Content -->
 <div class="navbar-fixed">
-  <nav role="navigation">
+  <nav role="navigation" class="blue">
     <div class="nav-wrapper" >
-      <a id="logo-container" href="index.html" class="brand-logo"><img src="images/w-in-gray.png" alt="WIT" height="55" style="margin-left: 20%;"></a>
+      <a id="logo-container" href="index.html" class="brand-logo"><img src="images/w-in-gray.png" alt="WIT" height="55" style="margin-left: 20%; Margin-top: 5%;"></a>
       <ul class="right hide-on-med-and-down">
         <li><a href="index.html">Home</a></li>
         <li><a class="dropdown-button" href="#!" data-activates="dropdown1">Students<i class="material-icons right">arrow_drop_down</i></a></li>
@@ -41,7 +41,7 @@
         <li><a href="calendar.html">Calendar &amp; Events</a></li>
         <li><a href="contactUs.html">Contact Us</a></li>
         <li><a class="dropdown-button" href="#!" data-activates="dropdown3">Enrollment<i class="material-icons right">arrow_drop_down</i></a></li>
-        <li><a href="enrollNow.html"><i class="material-icons left">person</i>Enroll Now!</a></li>
+        <li class="active"><a href="enrollNow.html"><i class="material-icons left">person</i>Enroll Now!</a></li>
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
