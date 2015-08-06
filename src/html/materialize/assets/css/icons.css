@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+/* 99haulers */
+@font-face {
+  font-family: "99haulers";
+  src:url("https://fontastic.s3.amazonaws.com/dCGn8VHvcKgFxEqAxZU9cX/fonts/1417985288.eot");
+  src:url("https://fontastic.s3.amazonaws.com/dCGn8VHvcKgFxEqAxZU9cX/fonts/1417985288.eot?#iefix") format("embedded-opentype"),
+    url("https://fontastic.s3.amazonaws.com/dCGn8VHvcKgFxEqAxZU9cX/fonts/1417985288.woff") format("woff"),
+    url("https://fontastic.s3.amazonaws.com/dCGn8VHvcKgFxEqAxZU9cX/fonts/1417985288.ttf") format("truetype"),
+    url("https://fontastic.s3.amazonaws.com/dCGn8VHvcKgFxEqAxZU9cX/fonts/1417985288.svg#1417985288") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "99haulers" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="custom-icon-"]:before,
+[class*=" custom-icon-"]:before {
+  font-family: "99haulers" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.custom-icon-twitter-circled:before {
+  content: "a";
+}
+.custom-icon-linkedin-circled:before {
+  content: "b";
+}
+.custom-icon-facebook-circled:before {
+  content: "c";
+}
+.custom-icon-truck:before {
+  content: "d";
+}
+.custom-icon-factory-lift-streamline-warehouse:before {
+  content: "e";
+}
+.custom-icon-train:before {
+  content: "f";
+}
+.custom-icon-trees:before {
+  content: "g";
+}
+.custom-icon-organization:before {
+  content: "h";
+}
+.custom-icon-doctor:before {
+  content: "i";
+}
+.custom-icon-road:before {
+  content: "j";
+}
+.custom-icon-search:before {
+  content: "k";
+}
+.custom-icon-letter-mail:before {
+  content: "l";
+}
+.custom-icon-telephone:before {
+  content: "m";
+}
+.custom-icon-call-phone-square:before {
+  content: "n";
+}
+.custom-icon-chat:before {
+  content: "o";
+}
+.custom-icon-linkedin:before {
+  content: "p";
+}
+.custom-icon-google-plus:before {
+  content: "q";
+}
+.custom-icon-gplus-circled:before {
+  content: "r";
+}
