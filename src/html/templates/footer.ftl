@@ -16,9 +16,9 @@
           <div class="col m1 s12">
           <h5 class="white-text">Connect</h5>
           <ul>
-            <li><a class="white-text" href="https://www.facebook.com/WITInfo">Facebook</a></li>
-            <li><a class="white-text" href="https://twitter.com/witinfo">Twitter</a></li>
-            <li><a class="white-text" href="https://www.youtube.com/user/WasatchInstitute/feed">Youtube</a></li>
+            <li><a class="white-text" href="https://www.facebook.com/WITInfo" target="_blank">Facebook</a></li>
+            <li><a class="white-text" href="https://twitter.com/witinfo" target="_blank">Twitter</a></li>
+            <li><a class="white-text" href="https://www.youtube.com/user/WasatchInstitute/feed" target="_blank">Youtube</a></li>
           </ul>
         </div>
       </div>
