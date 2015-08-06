@@ -7,10 +7,10 @@
         <div class="col offset-m1 m2 s12">
           <h5 class="white-text">Navigate</h5>
           <ul>
-            <li><a class="white-text" href="#index.html">Home</a></li>
-            <li><a class="white-text" href="#calendar.html">Calendar &amp; Events</a></li>
-            <li><a class="white-text" href="#contactUs.html">Contact Us</a></li>
-            <li><a class="white-text" href="#enrollNow.html"><strong>Enroll Now</strong></a></li>
+            <li><a class="white-text" href="index.html">Home</a></li>
+            <li><a class="white-text" href="calendar.html">Calendar &amp; Events</a></li>
+            <li><a class="white-text" href="contactUs.html">Contact Us</a></li>
+            <!-- <li><a class="white-text" href="enrollNow.html"><strong>Enroll Now</strong></a></li> -->
           </ul>
         </div>
           <div class="col m1 s12">
